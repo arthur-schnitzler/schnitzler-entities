@@ -797,7 +797,6 @@
 <location type="located_in_place">
   <placeName key="place__827">Rennweg</placeName>
   <geo>48.191762886817 16.390746059085</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Rennweg</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
@@ -2407,7 +2406,6 @@
 <location type="located_in_place">
   <placeName key="place__312">W&#228;hringerstra&#223;e</placeName>
   <geo>48.222471880213 16.345264113127</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:W%C3%A4hringer_Stra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb312</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/312</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb312</note>
@@ -2568,7 +2566,6 @@
 <location type="located_in_place">
   <placeName key="place__827">Rennweg</placeName>
   <geo>48.191762886817 16.390746059085</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Rennweg</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
@@ -3266,7 +3263,6 @@
 <location type="located_in_place">
   <placeName key="place__1270">Nussdorfer Stra&#223;e</placeName>
   <geo>48.22921 16.35461</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Nu&#223;dorfer_Stra&#223;e</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/1270</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1270</note>
 </location>
@@ -3425,7 +3421,6 @@
 <location type="located_in_place">
   <placeName key="place__716">Fichtegasse</placeName>
   <geo>48.203009170069 16.375663258442</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Fichtegasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb716</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/716</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb716</note>
@@ -4234,7 +4229,6 @@
 <location type="located_in_place">
   <placeName key="place__302">Mariahilferstra&#223;e</placeName>
   <geo>48.2007 16.3574</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Mariahilferstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb302</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/302</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb302</note>
@@ -4567,7 +4561,6 @@
 <location type="located_in_place">
   <placeName key="place__653">Universit&#228;tsstra&#223;e</placeName>
   <geo>48.214120366337 16.358756425131</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Universit%C3%A4tsstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb653</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/653</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb653</note>
@@ -6010,7 +6003,6 @@
 <location type="located_in_place">
   <placeName key="place__296">G&#252;nthergasse</placeName>
   <geo>48.216599877109 16.358330000258</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:G%C3%BCnthergasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb296</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/296</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb296</note>
@@ -6450,7 +6442,6 @@
 <location type="located_in_place">
   <placeName key="place__789">Buchfeldgasse</placeName>
   <geo>48.210652801032 16.353347167402</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Buchfeldgasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb789</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/789</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb789</note>
@@ -6458,7 +6449,6 @@
 <location type="located_in_place">
   <placeName key="place__790">Tuchlauben</placeName>
   <geo>48.210369328822 16.370282346864</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Tuchlauben</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb790</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/790</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb790</note>
@@ -8053,7 +8043,6 @@
 <location type="located_in_place">
   <placeName key="place__436">Porzellangasse</placeName>
   <geo>48.222287836145 16.362457240723</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Porzellangasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb436</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/436</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb436</note>
@@ -9237,7 +9226,6 @@
 <location type="located_in_place">
   <placeName key="place__597">Kohlmarkt</placeName>
   <geo>48.208793755801 16.367626574032</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Kohlmarkt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
@@ -9473,7 +9461,6 @@
 <location type="located_in_place">
   <placeName key="place__597">Kohlmarkt</placeName>
   <geo>48.208793755801 16.367626574032</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Kohlmarkt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
@@ -10767,7 +10754,6 @@
 <location type="located_in_place">
   <placeName key="place__397">Frankgasse</placeName>
   <geo>48.215516628628 16.356475515829</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Frankgasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb397</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/397</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb397</note>
@@ -10999,7 +10985,6 @@
 <location type="located_in_place">
   <placeName key="place__524">Prinz-Eugen-Stra&#223;e</placeName>
   <geo>48.192914955653 16.378269181766</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Prinz-Eugen-Stra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb524</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/524</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb524</note>
@@ -12043,7 +12028,6 @@
 <location type="located_in_place">
   <placeName key="place__653">Universit&#228;tsstra&#223;e</placeName>
   <geo>48.214120366337 16.358756425131</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Universit%C3%A4tsstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb653</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/653</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb653</note>
@@ -13610,7 +13594,6 @@
 <location type="located_in_place">
   <placeName key="place__795">Elisabethstra&#223;e</placeName>
   <geo>48.202505409168 16.365996258067</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Elisabethstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb795</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/795</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb795</note>
@@ -14053,7 +14036,6 @@
 <location type="located_in_place">
   <placeName key="place__501">K&#228;rntnerring</placeName>
   <geo>48.201874800905 16.371985203093</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:K%C3%A4rntner_Ring</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb501</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/501</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb501</note>
@@ -14182,7 +14164,6 @@
 <location type="located_in_place">
   <placeName key="place__1238">Wittelsbachstra&#223;e</placeName>
   <geo>48.20635 16.39925</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Wittelsbachstra&#223;e</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/1238</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1238</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb1238</note>
@@ -14479,7 +14460,6 @@
 <location type="located_in_place">
   <placeName key="place__7">Secession</placeName>
   <geo>48.200364 16.365508</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Secession_(Geb&#228;ude)</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb7</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/7</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb7</note>
@@ -14931,7 +14911,6 @@
 <location type="located_in_place">
   <placeName key="place__120">Wipplingerstra&#223;e</placeName>
   <geo>48.213598341107 16.368419109635</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Wipplingerstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb120</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/120</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb120</note>
@@ -15031,7 +15010,6 @@
 <location type="located_in_place">
   <placeName key="place__373">Rathaus</placeName>
   <geo>48.21071 16.3576</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Rathaus</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q686468</note>
   <note type="IDNO" subtype="geonames">http://sws.geonames.org/6324756/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb373</note>
@@ -15201,7 +15179,6 @@
 <location type="located_in_place">
   <placeName key="place__287">Martinstra&#223;e</placeName>
   <geo>48.222417021601 16.340756965468</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Martinstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb287</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/287</note>
 </location>
@@ -15682,7 +15659,6 @@
 <location type="located_in_place">
   <placeName key="place__124">Augarten</placeName>
   <geo>48.22583 16.37778</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Augarten</note>
   <note type="IDNO" subtype="geonames">http://sws.geonames.org/3322733/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb124</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/124</note>
@@ -16448,7 +16424,6 @@
 <location type="located_in_place">
   <placeName key="place__311">Mariannengasse</placeName>
   <geo>48.216168226614 16.347786493633</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Mariannengasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb311</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/311</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb311</note>
@@ -17386,7 +17361,6 @@
 <location type="located_in_place">
   <placeName key="place__120">Wipplingerstra&#223;e</placeName>
   <geo>48.213598341107 16.368419109635</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Wipplingerstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb120</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/120</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb120</note>
@@ -17405,7 +17379,6 @@
 <location type="located_in_place">
   <placeName key="place__716">Fichtegasse</placeName>
   <geo>48.203009170069 16.375663258442</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Fichtegasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb716</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/716</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb716</note>
@@ -17431,7 +17404,6 @@
 <location type="located_in_place">
   <placeName key="place__345">Lerchenfelderstra&#223;e</placeName>
   <geo>48.207469712164 16.346946051371</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Lerchenfelder_Stra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb345</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/345</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb345</note>
@@ -18760,7 +18732,6 @@
 <location type="located_in_place">
   <placeName key="place__14">Burgtheater</placeName>
   <geo>48.210333 16.361139</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Burgtheater+%28Geb&#228;ude</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb14</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/14</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb14</note>
@@ -18840,7 +18811,6 @@
 <location type="located_in_place">
   <placeName key="place__20">Volkstheater</placeName>
   <geo>48.205142 16.3566</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Volkstheater</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb20</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb20</note>
@@ -19489,7 +19459,6 @@
 <location type="located_in_place">
   <placeName key="place__709">Rotenturmstra&#223;e</placeName>
   <geo>48.210702381983 16.374722210025</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Rotenturmstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb709</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/709</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb709</note>
@@ -19636,7 +19605,6 @@
 <location type="located_in_place">
   <placeName key="place__1209">Lustspieltheater</placeName>
   <geo>48.21766 16.3957</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:F&#252;rsttheater</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/1209</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1209</note>
 </location>
@@ -20323,7 +20291,6 @@
 <location type="located_in_place">
   <placeName key="place__520">Akademietheater</placeName>
   <geo>48.200254933632 16.377117625773</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Akademietheater</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb520</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/520</note>
 </location>
@@ -21324,7 +21291,6 @@
 <location type="located_in_place">
   <placeName key="place__118">Carl-Theater</placeName>
   <geo>48.215 16.384444</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Carl-Theater</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q877699</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb118</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/118</note>
@@ -22345,7 +22311,6 @@
 <location type="located_in_place">
   <placeName key="place__338">Wollzeile</placeName>
   <geo>48.20852 16.37592</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Wollzeile</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb338</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/338</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb338</note>
@@ -23272,7 +23237,6 @@
 <location type="located_in_place">
   <placeName key="place__386">Universit&#228;t Wien</placeName>
   <geo>48.213018714231 16.36086067999</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Universit%C3%A4t_Wien_(Hauptgeb%C3%A4ude)</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb386</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/386</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb386</note>
@@ -23659,7 +23623,6 @@
 <location type="located_in_place">
   <placeName key="place__95">Lichtenfelsgasse</placeName>
   <geo>48.210037490674 16.357104381105</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Lichtenfelsgasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb95</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/95</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb95</note>
@@ -27960,7 +27923,6 @@
 <location type="located_in_place">
   <placeName key="place__170">Neuwaldegg</placeName>
   <geo>48.233119188484 16.28610371233</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Neuwaldegg_(Vorort)</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb170</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/170</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb170</note>
@@ -28579,7 +28541,6 @@
 <location type="located_in_place">
   <placeName key="place__557">Schottengymnasium</placeName>
   <geo>48.212123158574 16.36442083334</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Schottengymnasium</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb557</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/557</note>
 </location>
@@ -28623,7 +28584,6 @@
 <location type="located_in_place">
   <placeName key="place__597">Kohlmarkt</placeName>
   <geo>48.208793755801 16.367626574032</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Kohlmarkt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
@@ -28885,7 +28845,6 @@
 <location type="located_in_place">
   <placeName key="place__763">Neuer Markt</placeName>
   <geo>48.206114627397 16.370613981932</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Neuer_Markt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb763</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/763</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb763</note>
@@ -28903,7 +28862,6 @@
 <location type="located_in_place">
   <placeName key="place__597">Kohlmarkt</placeName>
   <geo>48.208793755801 16.367626574032</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Kohlmarkt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
@@ -28934,7 +28892,6 @@
 <location type="located_in_place">
   <placeName key="place__529">Hoher Markt</placeName>
   <geo>48.210938925284 16.372730621508</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Hoher_Markt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb529</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/529</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb529</note>
@@ -29274,7 +29231,6 @@
 <location type="located_in_place">
   <placeName key="place__338">Wollzeile</placeName>
   <geo>48.20852 16.37592</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Wollzeile</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb338</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/338</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb338</note>
@@ -30266,7 +30222,6 @@
 <location type="located_in_place">
   <placeName key="place__790">Tuchlauben</placeName>
   <geo>48.210369328822 16.370282346864</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Tuchlauben</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb790</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/790</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb790</note>
@@ -30288,7 +30243,6 @@
 <location type="located_in_place">
   <placeName key="place__761">Dorotheergasse</placeName>
   <geo>48.207090918887 16.369125128934</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Dorotheergasse</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb761</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/761</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb761</note>
@@ -30344,7 +30298,6 @@
 <location type="located_in_place">
   <placeName key="place__15">Oper</placeName>
   <geo>48.203 16.3691</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Staatsoper</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb15</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/15</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb15</note>
@@ -30384,7 +30337,6 @@
 <location type="located_in_place">
   <placeName key="place__15">Oper</placeName>
   <geo>48.203 16.3691</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Staatsoper</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb15</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/15</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb15</note>
@@ -30843,7 +30795,6 @@
 <location type="located_in_place">
   <placeName key="place__15">Oper</placeName>
   <geo>48.203 16.3691</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Staatsoper</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb15</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/15</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb15</note>
@@ -31148,7 +31099,6 @@
 <location type="located_in_place">
   <placeName key="place__240">Konzerthaus</placeName>
   <geo>48.200771836002 16.377197811369</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Konzerthaus</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb240</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/240</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb240</note>
@@ -31749,7 +31699,6 @@
 <location type="located_in_place">
   <placeName key="place__763">Neuer Markt</placeName>
   <geo>48.206114627397 16.370613981932</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Neuer_Markt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb763</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/763</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb763</note>
@@ -32007,7 +31956,6 @@
 <location type="located_in_place">
   <placeName key="place__763">Neuer Markt</placeName>
   <geo>48.206114627397 16.370613981932</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Neuer_Markt</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb763</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/763</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb763</note>
@@ -32055,7 +32003,6 @@
 <location type="located_in_place">
   <placeName key="place__827">Rennweg</placeName>
   <geo>48.191762886817 16.390746059085</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Rennweg</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
@@ -32314,7 +32261,6 @@
 <location type="located_in_place">
   <placeName key="place__542">B&#246;sendorferstra&#223;e</placeName>
   <geo>48.201213 16.371141</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Giselastra%C3%9Fe_(1)</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb542</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/542</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb542</note>
@@ -32628,7 +32574,6 @@
 <location type="located_in_place">
   <placeName key="place__794">Sternwartepark</placeName>
   <geo>48.231734296625 16.333374529707</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Sternwartepark</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb794</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/794</note>
 </location>
@@ -32903,7 +32848,6 @@
 <location type="located_in_place">
   <placeName key="place__353">Singerstra&#223;e</placeName>
   <geo>48.207073666415 16.3743081908</geo>
-  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Singerstra%C3%9Fe</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb353</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/353</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb353</note>
