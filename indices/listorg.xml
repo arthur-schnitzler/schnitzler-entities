@@ -800,6 +800,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
+  <note type="IDNO">https://this-will-never-work/place_af89fe17c61b64380359a375af898a8d</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37193/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37193</idno>
@@ -2392,6 +2393,7 @@
   <geo>48.20727 16.37502</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48840/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb48840</note>
+  <note type="IDNO">https://this-will-never-work/place_c33cf5a60b339b58704f0a1be7fa85bf</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52915/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb52915</idno>
@@ -2409,6 +2411,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb312</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/312</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb312</note>
+  <note type="IDNO">https://this-will-never-work/place_82f6936702948eb9d4c32f0904877053</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53144/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb53144</idno>
@@ -2569,6 +2572,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
+  <note type="IDNO">https://this-will-never-work/place_af89fe17c61b64380359a375af898a8d</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56375/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb56375</idno>
@@ -4233,6 +4237,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/302</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb302</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb302</note>
+  <note type="IDNO">https://this-will-never-work/place_a71542bbd51c6aa5778d36e4a3211092</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37261/</idno>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37262/</idno>
@@ -4564,6 +4569,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb653</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/653</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb653</note>
+  <note type="IDNO">https://this-will-never-work/place_967022ecc34739810f7f29694a6c436a</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29712</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29712</idno>
@@ -4599,6 +4605,7 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52510/</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb52510</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb52510</note>
+  <note type="IDNO">https://this-will-never-work/place_8940f0ba0d5db62d4624ecc35d9e79d2</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29720</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29720</idno>
@@ -5016,6 +5023,7 @@
   <geo>48.211117 16.376627</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50667/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50667</note>
+  <note type="IDNO">https://this-will-never-work/place_c35b3d234aa91ab3932e8bef31a1a06a</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37467/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37467</idno>
@@ -6453,6 +6461,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/790</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb790</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb790</note>
+  <note type="IDNO">https://this-will-never-work/place_d875eb393c66e72bae202421dff945d3</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
@@ -7237,6 +7246,7 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52510/</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb52510</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb52510</note>
+  <note type="IDNO">https://this-will-never-work/place_8940f0ba0d5db62d4624ecc35d9e79d2</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__53101">Seidengasse</placeName>
@@ -8047,6 +8057,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/436</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb436</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb436</note>
+  <note type="IDNO">https://this-will-never-work/place_53e75cdbc7449ba89598563b511e672b</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37486/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37486</idno>
@@ -9229,6 +9240,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
+  <note type="IDNO">https://this-will-never-work/place_69004ca79e9ec33c43b6c7d87138e252</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__43147">Wallnerstra&#223;e</placeName>
@@ -9464,6 +9476,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
+  <note type="IDNO">https://this-will-never-work/place_69004ca79e9ec33c43b6c7d87138e252</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -10413,6 +10426,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb482</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/482</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb482</note>
+  <note type="IDNO">https://this-will-never-work/place_0a36be4270d63518abf41d04c528fb01</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29681</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29681</idno>
@@ -10757,6 +10771,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb397</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/397</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb397</note>
+  <note type="IDNO">https://this-will-never-work/place_811c7ad30c4e603795ef80e0c113ad9e</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__53">III., Landstra&#223;e</placeName>
@@ -12031,6 +12046,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb653</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/653</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb653</note>
+  <note type="IDNO">https://this-will-never-work/place_967022ecc34739810f7f29694a6c436a</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53475/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb53475</idno>
@@ -13739,6 +13755,7 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37658/</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37658</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37658</note>
+  <note type="IDNO">https://this-will-never-work/place_41cb8f89eddb5eebdaa7af629fb754de</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37656/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37656</idno>
@@ -14040,6 +14057,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/501</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb501</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb501</note>
+  <note type="IDNO">https://this-will-never-work/place_77cf574d6224f32e955d20e461e611c5</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -14915,6 +14933,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/120</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb120</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb120</note>
+  <note type="IDNO">https://this-will-never-work/place_c408a01edca0e21be38ca1ed19bca597</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52531/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb52531</idno>
@@ -16427,6 +16446,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb311</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/311</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb311</note>
+  <note type="IDNO">https://this-will-never-work/place_e331684a442003f1f62856de47f852da</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29767</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29767</idno>
@@ -17335,6 +17355,7 @@
   <geo>48.211117 16.376627</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50667/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50667</note>
+  <note type="IDNO">https://this-will-never-work/place_c35b3d234aa91ab3932e8bef31a1a06a</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29277</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29277</idno>
@@ -17365,6 +17386,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/120</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb120</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb120</note>
+  <note type="IDNO">https://this-will-never-work/place_c408a01edca0e21be38ca1ed19bca597</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37216/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37216</idno>
@@ -18735,6 +18757,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb14</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/14</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb14</note>
+  <note type="IDNO">https://this-will-never-work/place_burgtheater</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__44649">Schlosstheater Sch&#246;nbrunn</placeName>
@@ -19364,6 +19387,7 @@
   <geo>48.20256617469894 16.34909768475513</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53947/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb53947</note>
+  <note type="IDNO">https://this-will-never-work/place_b9f4712744115c326746657274743cd0</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37126/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37126</idno>
@@ -19462,6 +19486,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb709</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/709</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb709</note>
+  <note type="IDNO">https://this-will-never-work/place_f631af0928a7361f4420df1bc5fe6661</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37179/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37179</idno>
@@ -21954,6 +21979,7 @@
   <geo>52.50768 13.3294</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51904/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51904</note>
+  <note type="IDNO">https://this-will-never-work/place_ac0492801e20ab7eea043cf0f7c954e9</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37163/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37163</idno>
@@ -22315,6 +22341,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/338</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb338</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb338</note>
+  <note type="IDNO">https://this-will-never-work/place_0464a105b29c0d683a928531ba6fcbec</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -23626,6 +23653,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb95</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/95</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb95</note>
+  <note type="IDNO">https://this-will-never-work/place_0ada4aeb32a387e6e8237110f795d7e6</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41364/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41364</idno>
@@ -23772,6 +23800,7 @@
   <geo>48.20732108134103 16.376760768921173</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51922/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51922</note>
+  <note type="IDNO">https://this-will-never-work/place_53f5bbf81f5fac50b3c03e96aab740c4</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29591</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29591</idno>
@@ -23820,6 +23849,7 @@
   <geo>48.213339 16.350692</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50846/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50846</note>
+  <note type="IDNO">https://this-will-never-work/place_3a31c29e84f61d18434b32662618e8d1</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29605</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29605</idno>
@@ -24336,6 +24366,7 @@
   <geo>48.20732108134103 16.376760768921173</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51922/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51922</note>
+  <note type="IDNO">https://this-will-never-work/place_53f5bbf81f5fac50b3c03e96aab740c4</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36801/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36801</idno>
@@ -26745,6 +26776,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/42213</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb42213</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb42213</note>
+  <note type="IDNO">https://this-will-never-work/place_4bb84d0ab74a78cd79eddd7ccd31c131</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -27887,6 +27919,7 @@
   <placeName key="place__60332">Kreindlgasse</placeName>
   <geo>48.238041635163 16.35163</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/60332/</note>
+  <note type="IDNO">https://this-will-never-work/place_d4b81284fd91e58d5bf570601d82f329</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__68">XVIII., W&#228;hring</placeName>
@@ -28310,6 +28343,7 @@
   <geo>48.18873674406527 16.367818669370223</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65303/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb65303</note>
+  <note type="IDNO">https://this-will-never-work/place_6a49f02137e08fa35703371bfa84855f</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36960/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36960</idno>
@@ -28587,6 +28621,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
+  <note type="IDNO">https://this-will-never-work/place_69004ca79e9ec33c43b6c7d87138e252</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__43147">Wallnerstra&#223;e</placeName>
@@ -28865,6 +28900,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb597</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/597</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb597</note>
+  <note type="IDNO">https://this-will-never-work/place_69004ca79e9ec33c43b6c7d87138e252</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -29235,6 +29271,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/338</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb338</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb338</note>
+  <note type="IDNO">https://this-will-never-work/place_0464a105b29c0d683a928531ba6fcbec</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -30226,6 +30263,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/790</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb790</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb790</note>
+  <note type="IDNO">https://this-will-never-work/place_d875eb393c66e72bae202421dff945d3</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50552/</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50552</idno>
@@ -30533,6 +30571,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb482</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/482</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb482</note>
+  <note type="IDNO">https://this-will-never-work/place_0a36be4270d63518abf41d04c528fb01</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/61294/</idno>
 <listBibl>
@@ -31163,6 +31202,7 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50493/</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50493</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50493</note>
+  <note type="IDNO">https://this-will-never-work/place_cd1729e17213bc61060bf280470ca98e</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__50">Wien</placeName>
@@ -31537,6 +31577,7 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/42213</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb42213</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb42213</note>
+  <note type="IDNO">https://this-will-never-work/place_4bb84d0ab74a78cd79eddd7ccd31c131</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
@@ -31577,6 +31618,7 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50493/</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50493</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50493</note>
+  <note type="IDNO">https://this-will-never-work/place_cd1729e17213bc61060bf280470ca98e</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52930/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb52930</idno>
@@ -32006,6 +32048,7 @@
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
+  <note type="IDNO">https://this-will-never-work/place_af89fe17c61b64380359a375af898a8d</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36905/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36905</idno>
@@ -32576,6 +32619,7 @@
   <geo>48.231734296625 16.333374529707</geo>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb794</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/794</note>
+  <note type="IDNO">https://this-will-never-work/place_2dffa8869b4ca4f921a119f75b4adc9e</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__68">XVIII., W&#228;hring</placeName>
