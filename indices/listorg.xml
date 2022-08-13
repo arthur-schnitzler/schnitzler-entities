@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-08-12">serialized</change>
+          <change when-iso="2022-08-13">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -7861,6 +7861,9 @@
   <note type="IDNO">https://sws.geonames.org/2775216/</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb867</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb867</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90931/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92637/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4027096-8</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37287/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37287</idno>
@@ -9578,6 +9581,9 @@
   <note type="IDNO">https://sws.geonames.org/2775216/</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb867</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb867</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90931/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92637/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4027096-8</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__45258">M&#252;nchen</placeName>
@@ -29238,6 +29244,24 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</org><org xml:id="org__92634">
+  <orgName>Reserve-Spital Seefeld</orgName>
+  <orgName type="namensvariante">Offiziersspital</orgName>
+  <desc type="entity_type">Krankenhaus</desc>
+  <desc type="entity_type_id">1375</desc>
+<location type="located_in_place">
+  <placeName key="place__91719">Seefeld in Tirol</placeName>
+  <geo>47.33016 11.18786</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91719/</note>
+  <note type="IDNO">https://sws.geonames.org/2765278/</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92634/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1918-07-02" notAfter-iso="1918-12-31">1918</date>
+</note>
 </org><org xml:id="org__41793">
   <orgName>Dr. A. Gude GmbH.</orgName>
   <desc type="entity_type">Pharmahersteller</desc>
