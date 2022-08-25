@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-08-24">serialized</change>
+          <change when-iso="2022-08-25">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -96,7 +96,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -109,6 +108,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36887/</idno>
@@ -445,7 +446,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -458,6 +458,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37099/</idno>
@@ -1290,7 +1292,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -1303,6 +1304,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37430/</idno>
@@ -1336,12 +1339,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -1357,11 +1361,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -1532,11 +1539,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -1839,12 +1849,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -2016,7 +2027,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -2029,6 +2039,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37663/</idno>
@@ -2738,7 +2750,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -2751,6 +2762,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57648/</idno>
@@ -2770,11 +2783,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -2788,11 +2804,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -2826,11 +2845,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -2928,7 +2950,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -2941,6 +2962,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29194</idno>
@@ -3003,11 +3026,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -3026,7 +3050,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -3039,6 +3062,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29259</idno>
@@ -3132,11 +3157,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -3312,12 +3338,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -3713,11 +3740,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -3806,11 +3834,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -4106,11 +4135,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -4229,13 +4259,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -4336,22 +4366,26 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -4794,11 +4828,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -4897,11 +4934,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -4921,11 +4959,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -4975,7 +5014,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -4988,6 +5026,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37306/</idno>
@@ -5058,11 +5098,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -5080,18 +5121,20 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -5104,6 +5147,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37415/</idno>
@@ -5341,7 +5386,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -5354,6 +5398,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
 <location type="located_in_place">
@@ -5773,13 +5819,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -5993,11 +6039,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -6029,11 +6076,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -6059,11 +6107,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -6658,11 +6707,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -6940,11 +6992,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -6965,11 +7018,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -7872,11 +7926,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -7897,11 +7952,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -8020,7 +8076,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -8033,6 +8088,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37264/</idno>
@@ -8104,11 +8161,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -8366,7 +8426,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -8379,6 +8438,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37536/</idno>
@@ -8466,7 +8527,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -8479,6 +8539,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37555/</idno>
@@ -8615,12 +8677,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43477/</idno>
@@ -8660,7 +8723,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -8673,6 +8735,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57918/</idno>
@@ -8786,11 +8850,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -9714,12 +9779,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
 <location type="located_in_place">
@@ -10131,12 +10197,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29465</idno>
@@ -10175,11 +10242,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -10372,12 +10440,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29619</idno>
@@ -10686,12 +10755,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29666</idno>
@@ -11511,7 +11581,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -11524,6 +11593,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37091/</idno>
@@ -11568,21 +11639,30 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
 <location type="located_in_place">
-  <placeName key="place__88115">Baden bei Wien</placeName>
+  <placeName key="place__662">Baden bei Wien</placeName>
   <geo>48.00543 16.23264</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q486450</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb662</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/662</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb662</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88112/</note>
   <note type="IDNO">https://d-nb.info/gnd/4004168-2</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88115/</note>
   <note type="IDNO">https://sws.geonames.org/2782067/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb662</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb662.html</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37100/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37100</idno>
@@ -11680,7 +11760,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -11693,6 +11772,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
 <location type="located_in_place">
@@ -11884,11 +11965,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -12207,7 +12289,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -12220,6 +12301,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
 <location type="located_in_place">
@@ -12350,11 +12433,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -12762,13 +12846,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -13192,7 +13276,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -13205,6 +13288,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
 <location type="located_in_place">
@@ -13566,11 +13651,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -13622,11 +13708,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -13642,11 +13729,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -13665,11 +13753,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -14315,7 +14404,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -14328,6 +14416,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53584/</idno>
@@ -14342,7 +14432,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -14355,6 +14444,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/55913/</idno>
@@ -14581,11 +14672,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -14822,7 +14916,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -14835,6 +14928,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57445/</idno>
@@ -14981,11 +15076,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -15605,7 +15701,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -15618,6 +15713,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57533/</idno>
@@ -16021,7 +16118,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -16034,6 +16130,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58012/</idno>
@@ -16127,11 +16225,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -16810,11 +16909,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -17102,12 +17204,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -17127,11 +17230,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -18002,11 +18108,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -18075,13 +18182,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -18142,9 +18249,10 @@
 <location type="located_in_place">
   <placeName key="place__40290">Trondheim</placeName>
   <geo>63.43049 10.39506</geo>
-  <note type="IDNO">http://sws.geonames.org/3133880/</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/40290</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40290</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64395/</note>
+  <note type="IDNO">https://sws.geonames.org/3133880/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb40290.html</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29538</idno>
@@ -18460,11 +18568,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -18853,11 +18964,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -19659,12 +19771,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -19829,11 +19942,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -19853,7 +19969,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -19866,6 +19981,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
 <location type="located_in_place">
@@ -20323,12 +20440,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -20394,12 +20512,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -20686,12 +20805,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -21348,10 +21468,11 @@
   <placeName key="place__890">Hannover</placeName>
   <geo>52.37052 9.73322</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1715</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2910831/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb890</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/890</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb890</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64263/</note>
+  <note type="IDNO">https://sws.geonames.org/2910831/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb890</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb890.html</note>
 </location>
@@ -21598,13 +21719,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -21808,7 +21929,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -21821,6 +21941,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62201/</idno>
@@ -21966,13 +22088,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -21992,11 +22114,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -22013,11 +22138,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -22043,11 +22169,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -22134,11 +22261,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -22171,11 +22299,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -22504,11 +22633,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -22583,13 +22713,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -22801,11 +22931,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -22866,7 +22999,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -22879,6 +23011,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88271/</idno>
@@ -23501,13 +23635,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -23704,13 +23838,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -23728,7 +23862,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -23741,6 +23874,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57458/</idno>
@@ -23759,13 +23894,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -23871,13 +24006,13 @@
   <placeName key="place__36300">Kopenhagen</placeName>
   <geo>55.67594 12.56553</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1748</note>
-  <note type="IDNO" subtype="geonames">https://www.geonames.org/2618425</note>
-  <note type="IDNO">http://sws.geonames.org/2618425/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36300</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36300</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36300</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58083/</note>
   <note type="IDNO">https://d-nb.info/gnd/4032399-7</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64393/</note>
+  <note type="IDNO">https://sws.geonames.org/2618425/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36300</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb36300.html</note>
 </location>
@@ -23973,7 +24108,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -23986,6 +24120,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57503/</idno>
@@ -24669,12 +24805,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -24874,7 +25011,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -24887,6 +25023,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36784/</idno>
@@ -25084,7 +25222,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -25097,6 +25234,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36813/</idno>
@@ -25137,11 +25276,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -25182,7 +25324,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -25195,6 +25336,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36822/</idno>
@@ -25231,12 +25374,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -25458,12 +25602,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -25481,7 +25626,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -25494,6 +25638,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36848/</idno>
@@ -25620,11 +25766,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -25667,7 +25816,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -25680,6 +25828,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36875/</idno>
@@ -25695,7 +25845,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -25708,6 +25857,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36881/</idno>
@@ -26006,7 +26157,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -26019,6 +26169,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56252/</idno>
@@ -26033,7 +26185,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -26046,6 +26197,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56254/</idno>
@@ -26080,7 +26233,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -26093,6 +26245,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56826/</idno>
@@ -26280,7 +26434,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -26293,6 +26446,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57535/</idno>
@@ -26337,11 +26492,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -26418,11 +26576,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -26649,11 +26810,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -26857,7 +27019,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -26870,6 +27031,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
 <location type="located_in_place">
@@ -26893,12 +27056,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -26917,12 +27081,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -27057,11 +27222,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -27078,7 +27244,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -27091,6 +27256,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37510/</idno>
@@ -27106,7 +27273,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -27119,6 +27285,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37511/</idno>
@@ -28201,7 +28369,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -28214,6 +28381,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/33911/</idno>
@@ -28590,7 +28759,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -28603,6 +28771,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53602/</idno>
@@ -28617,7 +28787,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -28630,6 +28799,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56323/</idno>
@@ -29012,7 +29183,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -29025,6 +29195,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53594/</idno>
@@ -29039,7 +29211,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -29052,6 +29223,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56301/</idno>
@@ -29092,7 +29265,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -29105,6 +29277,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57655/</idno>
@@ -29119,11 +29293,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -30007,11 +30184,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -30033,11 +30213,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -30733,11 +30916,14 @@
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q14960</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb833</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/833</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb833</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88110/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008456-5</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88117/</note>
+  <note type="IDNO">https://sws.geonames.org/3078610/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb833</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb833.html</note>
 </location>
@@ -30778,7 +30964,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -30791,6 +30976,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37679/</idno>
@@ -30923,7 +31110,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -30936,6 +31122,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56858/</idno>
@@ -30950,7 +31138,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -30963,6 +31150,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57456/</idno>
@@ -31032,11 +31221,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -31061,11 +31251,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -31446,12 +31637,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -32033,7 +32225,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -32046,6 +32237,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53570/</idno>
@@ -32159,12 +32352,13 @@
   <placeName key="place__506">Hamburg</placeName>
   <geo>53.57532 10.01534</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1055</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2911298/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb506</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/506</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44883/</note>
   <note type="IDNO">https://d-nb.info/gnd/4023118-5</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb506</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64301/</note>
+  <note type="IDNO">https://sws.geonames.org/2911298/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb506</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb506.html</note>
 </location>
@@ -32619,7 +32813,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -32632,6 +32825,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88268/</idno>
@@ -32786,7 +32981,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -32799,6 +32993,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/61610/</idno>
@@ -32882,7 +33078,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -32895,6 +33090,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57448/</idno>
@@ -33268,11 +33465,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -33290,11 +33488,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -33379,7 +33578,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -33392,6 +33590,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37017/</idno>
@@ -33657,11 +33857,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
@@ -33687,7 +33888,6 @@
 <location type="located_in_place">
   <placeName key="place__652">Prag</placeName>
   <geo>50.08333 14.46667</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
   <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
@@ -33700,6 +33900,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64237/</note>
+  <note type="IDNO">https://sws.geonames.org/3067695/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37517/</idno>
@@ -33756,12 +33958,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
 <location type="located_in_place">
@@ -33805,12 +34008,13 @@
   <placeName key="place__872">Stuttgart</placeName>
   <geo>48.78232 9.17702</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1022</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://d-nb.info/gnd/4058282-6</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/872</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39915</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb872</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64261/</note>
+  <note type="IDNO">https://sws.geonames.org/2825297/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb872.html</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/61421/</idno>
@@ -33933,11 +34137,12 @@
 <location type="located_in_place">
   <placeName key="place__182">Paris</placeName>
   <geo>48.85341 2.3488</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
   <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
