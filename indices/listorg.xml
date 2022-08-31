@@ -6112,6 +6112,30 @@
 <note type="apis_dates">
 <date from-iso="1868-01-01" to-iso="1868-12-31">1868  &#8211; 1929</date>
 </note>
+</org><org xml:id="org__93006">
+  <orgName>La Libert&#233;</orgName>
+  <orgName type="uri_gnd">http://d-nb.info/gnd/1085948609</orgName>
+  <desc type="entity_type">Tageszeitungsredaktion</desc>
+  <desc type="entity_type_id">972</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93006/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1865-01-01" to-iso="1865-12-31">1865  &#8211; 1940</date>
+</note>
 </org><org xml:id="org__29196">
   <orgName>Reclams Universum</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
@@ -10674,6 +10698,30 @@
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb45258</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb45258.html</note>
 </location>
+<location type="located_in_place">
+  <placeName key="place__145">K&#246;ln</placeName>
+  <geo>50.93835 6.95427</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/6553049/</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q365</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb145</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/145</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44841/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4031483-2</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb145</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb145</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29654</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29654</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29654</idno>
@@ -10683,6 +10731,9 @@
     <bibl type="collections" n="2">Erster Import</bibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1894-01-01" when-iso="1894-07-02">1894</date>
+</note>
 </org><org xml:id="org__29655">
   <orgName>Brakls Rubinverlag</orgName>
   <desc type="entity_type">Verlag</desc>
@@ -34245,6 +34296,21 @@
 <note type="apis_dates">
 <date from-iso="1814-01-01" to-iso="1814-12-31">1814  &#8211; 1940</date>
 </note>
+</org><org xml:id="org__93029">
+  <orgName>Prix Montgomery</orgName>
+  <orgName type="namensvariante">Grand Prix d&#8217;automne</orgName>
+  <desc type="entity_type">Sportpreis</desc>
+  <desc type="entity_type_id">2063</desc>
+<location type="located_in_place">
+  <placeName key="place__89248">Auteuil</placeName>
+  <geo>48.84694 2.26366</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89248/</note>
+  <note type="IDNO">https://sws.geonames.org/6545275/</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93029/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
 </org></listOrg>
         </body>
     </text>
