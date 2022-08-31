@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-08-30">serialized</change>
+          <change when-iso="2022-08-31">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -15933,6 +15933,27 @@
 <note type="apis_dates">
 <date notBefore-iso="1895-01-01" when-iso="1895-07-02">1895</date>
 </note>
+</org><org xml:id="org__92985">
+  <orgName>Schlierseer Bauerntheater</orgName>
+  <desc type="entity_type">Theatergruppe</desc>
+  <desc type="entity_type_id">985</desc>
+<location type="located_in_place">
+  <placeName key="place__936">Schliersee</placeName>
+  <geo>47.73621 11.85936</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q260306</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2838502/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb936</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/936</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb936</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb936.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92985/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1892-01-01" when-iso="1892-07-01">1892</date>
+</note>
 </org><org xml:id="org__29240">
   <orgName>Herrmann-Bank</orgName>
   <desc type="entity_type">Bankhaus</desc>
@@ -22461,6 +22482,54 @@
 </listBibl>
 <note type="apis_dates">
 <date when-iso="1705-04-09">1705-04-09</date>
+</note>
+</org><org xml:id="org__92987">
+  <orgName>Th&#233;&#226;tre du Vaudeville</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92987/</idno>
+  <idno type="URL">https://d-nb.info/gnd/1085979423</idno>
+<listBibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1792-01-01" to-iso="1792-12-31">1792  &#8211; 1927</date>
+</note>
+</org><org xml:id="org__92995">
+  <orgName>Th&#233;&#226;tre R&#233;jane</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92995/</idno>
+  <idno type="URL">https://d-nb.info/gnd/10168376-5</idno>
+<listBibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1905-01-01" to-iso="1905-12-31">1905  &#8211; 1918</date>
 </note>
 </org><org xml:id="org__29384">
   <orgName>B. Firnberg</orgName>
