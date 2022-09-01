@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-08-31">serialized</change>
+          <change when-iso="2022-09-01">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -15143,26 +15143,6 @@
 <note type="apis_dates">
 <date when-iso="1897-04-03">1897-04-03</date>
 </note>
-</org><org xml:id="org__89961">
-  <orgName>Deutscher Quartettverein</orgName>
-  <desc type="entity_type">Verein &gt;&gt; K&#252;nstlervereinigung</desc>
-  <desc type="entity_type_id">983</desc>
-<location type="located_in_place">
-  <placeName key="place__182">Paris</placeName>
-  <geo>48.85341 2.3488</geo>
-  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
-  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
-  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
-  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
-  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
-  <note type="IDNO">https://sws.geonames.org/2988507/</note>
-  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
-  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
-</location>
-  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89961/</idno>
-<listBibl>
-    <bibl type="collections" n="8">manually created entity</bibl>
-</listBibl>
 </org><org xml:id="org__29234">
   <orgName>Passamt</orgName>
   <desc type="entity_type">Amt</desc>
@@ -26919,6 +26899,29 @@
 <listBibl>
     <bibl type="collections" n="3">Manuell angelegt</bibl>
 </listBibl>
+</org><org xml:id="org__89961">
+  <orgName>Deutscher Quartettverein in Paris</orgName>
+  <desc type="entity_type">Verein &gt;&gt; Verein f&#252;r Kunstpflege</desc>
+  <desc type="entity_type_id">1038</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89961/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1850-01-01">um 1850&lt;1850-01-01&gt;</date>
+</note>
 </org><org xml:id="org__29691">
   <orgName>T&#228;gliche Rundschau</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
