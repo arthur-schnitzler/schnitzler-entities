@@ -3035,6 +3035,11 @@
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
+<location type="located_in_place">
+  <placeName key="place__93106">Rue Des Pr&#234;tres Saint-Germain L'Auxerrois</placeName>
+  <geo>48.85923 2.3413</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93106/</note>
+</location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29221</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29221</idno>
 <listBibl>
@@ -6128,6 +6133,11 @@
   <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__93103">Rue du G&#233;n&#233;ral Camou</placeName>
+  <geo>48.85897 2.29985</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93103/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93006/</idno>
 <listBibl>
@@ -22330,7 +22340,7 @@
 <date notBefore-iso="1904-01-01" when-iso="1904-07-01">1904</date>
 </note>
 </org><org xml:id="org__88605">
-  <orgName>Th&#233;&#226;tre de l'&#338;uvre</orgName>
+  <orgName>Th&#233;&#226;tre de l&#8217;&#338;uvre</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22346,7 +22356,7 @@
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
 <location type="located_in_place">
-  <placeName key="place__612">Th&#233;&#226;tre de l'&#338;uvre</placeName>
+  <placeName key="place__612">Th&#233;&#226;tre de l&#8217;&#338;uvre</placeName>
   <geo>48.880961 2.3285</geo>
   <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb612</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/612</note>
