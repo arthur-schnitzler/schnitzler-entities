@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-09-02">serialized</change>
+          <change when-iso="2022-09-03">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -6138,6 +6138,11 @@
   <placeName key="place__93103">Rue du G&#233;n&#233;ral Camou</placeName>
   <geo>48.85897 2.29985</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93103/</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__93207">rue Caron</placeName>
+  <geo>48.85517 2.36268</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93207/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93006/</idno>
 <listBibl>
@@ -34349,6 +34354,11 @@
   <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__93203">Nationalversammlung</placeName>
+  <geo>48.862072 2.318681</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93203/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93192/</idno>
   <idno type="URL">https://d-nb.info/gnd/35991-9</idno>
