@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-09-05">serialized</change>
+          <change when-iso="2022-09-06">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -32291,6 +32291,25 @@
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb44172.html</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88958/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+</org><org xml:id="org__93332">
+  <orgName>Franz&#246;sische Post</orgName>
+  <desc type="entity_type">Postamt</desc>
+  <desc type="entity_type_id">1538</desc>
+<location type="located_in_place">
+  <placeName key="place__166">Frankreich</placeName>
+  <geo>46.0 2.0</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q142</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb166</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43352/</note>
+  <note type="IDNO">https://sws.geonames.org/3017382/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/166</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb166</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb166.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93332/</idno>
 <listBibl>
     <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
