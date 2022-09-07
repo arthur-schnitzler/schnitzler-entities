@@ -17102,6 +17102,14 @@
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb50.html</note>
 </location>
+<location type="located_in_place">
+  <placeName key="place__542">B&#246;sendorferstra&#223;e</placeName>
+  <geo>48.201213 16.371141</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb542</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/542</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb542</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb542</note>
+</location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29634</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29634</idno>
 <listBibl>
