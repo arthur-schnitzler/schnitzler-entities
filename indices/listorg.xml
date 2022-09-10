@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-09-09">serialized</change>
+          <change when-iso="2022-09-10">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -11220,7 +11220,7 @@
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </org><org xml:id="org__29758">
-  <orgName>Rikola </orgName>
+  <orgName>Rikola  Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11270,6 +11270,9 @@
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
 </listBibl>
+<note type="apis_dates">
+<date>1920-12-02  &#8211; 1929</date>
+</note>
 </org><org xml:id="org__29771">
   <orgName>E. Pierson&#8217;s Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
