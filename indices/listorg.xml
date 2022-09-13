@@ -22654,6 +22654,36 @@
 <note type="apis_dates">
 <date from-iso="1905-01-01" to-iso="1905-12-31">1905  &#8211; 1918</date>
 </note>
+</org><org xml:id="org__93494">
+  <orgName>Od&#233;on</orgName>
+  <orgName type="uri_gnd">https://d-nb.info/gnd/3023355-0</orgName>
+  <desc type="entity_type">Theater</desc>
+  <desc type="entity_type_id">1012</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__792">Od&#233;on</placeName>
+  <geo>48.850022 2.338927</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb792</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/792</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93494/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1782-01-01" when-iso="1782-07-02">1782</date>
+</note>
 </org><org xml:id="org__29384">
   <orgName>B. Firnberg</orgName>
   <desc type="entity_type">Musikalienverlag</desc>
@@ -32343,6 +32373,25 @@
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb166.html</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93332/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+</org><org xml:id="org__93492">
+  <orgName>&#214;sterreichische Post</orgName>
+  <desc type="entity_type">Postamt</desc>
+  <desc type="entity_type_id">1538</desc>
+<location type="located_in_place">
+  <placeName key="place__41240">&#214;sterreich</placeName>
+  <geo>47.33333 13.33333</geo>
+  <note type="IDNO">http://sws.geonames.org/2782113/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43319/</note>
+  <note type="IDNO">https://sws.geonames.org/2782113/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/41240</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41240</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb41240</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb41240.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93492/</idno>
 <listBibl>
     <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
