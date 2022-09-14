@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-09-13">serialized</change>
+          <change when-iso="2022-09-14">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -16037,6 +16037,12 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/936</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb936</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb936.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__750">Schlierseer Bauerntheater</placeName>
+  <geo>47.733395 11.865806</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb750</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/750</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92985/</idno>
 <listBibl>
