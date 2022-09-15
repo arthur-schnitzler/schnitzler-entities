@@ -15060,6 +15060,19 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</org><org xml:id="org__93593">
+  <orgName>Institut Rudy</orgName>
+  <desc type="entity_type">Bildungseinrichtung</desc>
+  <desc type="entity_type_id">982</desc>
+<location type="located_in_place">
+  <placeName key="place__93594">Rue de Caumartin</placeName>
+  <geo>48.8732 2.3283</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93594/</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93593/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
 </org><org xml:id="org__29232">
   <orgName>Wassermann</orgName>
   <desc type="entity_type">Verein &gt;&gt; K&#252;nstlervereinigung</desc>
