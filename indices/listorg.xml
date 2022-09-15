@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-09-14">serialized</change>
+          <change when-iso="2022-09-15">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -27119,6 +27119,11 @@
   <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__93553">Rue Drouot</placeName>
+  <geo>48.87348 2.34059</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93553/</note>
 </location>
   <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29706</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29706</idno>
