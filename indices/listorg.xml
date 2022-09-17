@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-09-16">serialized</change>
+          <change when-iso="2022-09-17">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -21733,7 +21733,8 @@
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
 </org><org xml:id="org__57325">
-  <orgName>Theater am G&#228;rtnerplatz</orgName>
+  <orgName>Staatstheater am G&#228;rtnerplatz</orgName>
+  <orgName type="fruherer_ortsname">Theater am G&#228;rtnerplatz</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21749,9 +21750,13 @@
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57325/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb57325</idno>
+  <idno type="URL">https://www.wikidata.org/wiki/Q318058</idno>
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1865-01-01" when-iso="1865-07-02">1865</date>
+</note>
 </org><org xml:id="org__57331">
   <orgName>Volkstheater M&#252;nchen</orgName>
   <desc type="entity_type">Theater</desc>
