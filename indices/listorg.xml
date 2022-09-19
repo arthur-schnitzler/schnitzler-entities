@@ -12548,6 +12548,19 @@
 <note type="apis_dates">
 <date notBefore-iso="1921-01-01" when-iso="1921-07-02">1921</date>
 </note>
+</org><org xml:id="org__51490">
+  <orgName>Johann Nepomuk Vernay Druckerei- und Verlags AG</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Johann_Nepomuk_Vernay_Druckerei-_und_Verlags_AG</orgName>
+  <desc type="entity_type">Verlag</desc>
+  <desc type="entity_type_id">975</desc>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51490/</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb51490</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1984-07-01" notAfter-iso="1984-12-31">1984</date>
+</note>
 </org><org xml:id="org__52667">
   <orgName>Lippowitz &amp; Co.</orgName>
   <desc type="entity_type">Verlag</desc>
@@ -24821,19 +24834,6 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
-</org><org xml:id="org__51490">
-  <orgName>Johann Nepomuk Vernay Druckerei- und Verlags AG</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Johann_Nepomuk_Vernay_Druckerei-_und_Verlags_AG</orgName>
-  <desc type="entity_type">Druckerei</desc>
-  <desc type="entity_type_id">1036</desc>
-  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51490/</idno>
-  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb51490</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<note type="apis_dates">
-<date from-iso="1913-01-01" to-iso="1913-12-31">1913  &#8211; 1984</date>
-</note>
 </org><org xml:id="org__53104">
   <orgName>Josef Eberle  Stein-, Buch und Musikaliendruckerei</orgName>
   <desc type="entity_type">Druckerei</desc>
