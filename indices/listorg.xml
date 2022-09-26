@@ -32277,6 +32277,27 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</org><org xml:id="org__93754">
+  <orgName>Minist&#232;re du Commerce, de l&#8217;Industrie et des Colonies</orgName>
+  <orgName type="uri_gnd">http://d-nb.info/gnd/5259308-3</orgName>
+  <orgName type="uri_wikipedia">https://fr.wikipedia.org/wiki/Minist%C3%A8re_du_Commerce_(France)</orgName>
+  <desc type="entity_type">Ministerium</desc>
+  <desc type="entity_type_id">1482</desc>
+<location type="located_in_place">
+  <placeName key="place__166">Frankreich</placeName>
+  <geo>46.0 2.0</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q142</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb166</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43352/</note>
+  <note type="IDNO">https://sws.geonames.org/3017382/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/166</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb166</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb166.html</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93754/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
 </org><org xml:id="org__44466">
   <orgName>Synagoge W&#228;hring</orgName>
   <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Synagoge_der_Israelitischen_Kultusgemeinde_18,_Schopenhauerstra&#223;e_39</orgName>
