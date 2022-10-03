@@ -471,7 +471,6 @@
 </org><org xml:id="org__37105">
   <orgName>August F&#246;rster (Fl&#252;gel- und Pianofabriken)</orgName>
   <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/August_F%C3%B6rster_(Unternehmen)</orgName>
-  <orgName type="loschen">l&#246;schen</orgName>
 <location type="located_in_place">
   <placeName key="place__37108">L&#246;bau</placeName>
   <geo>51.09954 14.66738</geo>
@@ -3621,7 +3620,6 @@
   <orgName>Neues Wiener Tagblatt</orgName>
   <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neues_Wiener_Tagblatt</orgName>
   <orgName type="uri_anno">http://anno.onb.ac.at/info/nwg_info.htm</orgName>
-  <orgName type="loschen">http://anno.onb.ac.at/info/nwg_info.htm</orgName>
   <orgName type="legacy-name-merge">Neues Wiener Tagblatt</orgName>
   <orgName type="legacy-uri-merge">http://https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37476/</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -4444,7 +4442,6 @@
 </listBibl>
 </org><org xml:id="org__29650">
   <orgName>Der Tag</orgName>
-  <orgName type="loschen">xxxx</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5453,7 +5450,6 @@
   <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
   <orgName type="uri_anno">http://anno.onb.ac.at/info/vob_info.htm</orgName>
   <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
-  <orgName type="loschen">X</orgName>
   <orgName type="legacy-name-merge">V&#246;lkischer Beobachter</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -13696,7 +13692,6 @@
 </note>
 </org><org xml:id="org__88619">
   <orgName>Lyra</orgName>
-  <orgName type="loschen">x</orgName>
   <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Lyra_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
@@ -15116,7 +15111,6 @@
 </listBibl>
 </org><org xml:id="org__93613">
   <orgName>&#201;cole libre des sciences politiques</orgName>
-  <orgName type="uri_gnd">http://d-nb.info/gnd/61320-4</orgName>
   <desc type="entity_type">Bildungseinrichtung</desc>
   <desc type="entity_type_id">982</desc>
 <location type="located_in_place">
@@ -18108,7 +18102,6 @@
 </listBibl>
 </org><org xml:id="org__57787">
   <orgName>Verein dramatischer und musikalischer Autoren</orgName>
-  <orgName type="loschen">X</orgName>
   <orgName type="namensvariante">&#1057;&#1086;&#1102;&#1079; &#1076;&#1088;&#1072;&#1084;&#1072;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1080; &#1084;&#1091;&#1079;&#1099;&#1082;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1087;&#1080;&#1089;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
@@ -18341,17 +18334,10 @@
 </note>
 </org><org xml:id="org__29290">
   <orgName>Acad&#233;mie Fran&#231;aise</orgName>
-  <orgName type="loschen">x</orgName>
   <orgName type="alternative-name">Franz&#246;sische Academie</orgName>
   <orgName type="alternative-name">Francuzskaja Akademija</orgName>
-  <orgName type="loschen">X</orgName>
   <orgName type="alternative-name">French Academy</orgName>
-  <orgName type="loschen">x</orgName>
   <orgName type="alternative-name">Acad&#233;mie fran&#231;oise</orgName>
-  <orgName type="loschen">x</orgName>
-  <orgName type="loschen">x</orgName>
-  <orgName type="loschen">x</orgName>
-  <orgName type="loschen">x</orgName>
   <orgName type="legacy-name-merge">Acad&#233;mie Fran&#231;aise</orgName>
   <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise</orgName>
   <desc type="entity_type">Akademie der Wissenschaften</desc>
@@ -21770,7 +21756,6 @@
 </listBibl>
 </org><org xml:id="org__57325">
   <orgName>Staatstheater am G&#228;rtnerplatz</orgName>
-  <orgName type="fruherer_ortsname">Theater am G&#228;rtnerplatz</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22012,7 +21997,6 @@
 </note>
 </org><org xml:id="org__60458">
   <orgName>Neues dramatisches Theater</orgName>
-  <orgName type="loschen">X</orgName>
   <orgName type="namensvariante">&#1053;&#1086;&#1074;&#1099;&#1081; &#1090;&#1077;&#1072;&#1090;&#1088;</orgName>
   <orgName type="namensvariante">Nowy teatr</orgName>
   <orgName type="namensvariante">Andrejew Theater</orgName>
@@ -25093,7 +25077,6 @@
 </listBibl>
 </org><org xml:id="org__36753">
   <orgName>Amtsgericht Berlin</orgName>
-  <orgName type="loschen">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25968,7 +25951,6 @@
 </listBibl>
 </org><org xml:id="org__36848">
   <orgName>Oberlandesgericht Prag</orgName>
-  <orgName type="loschen">-</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -28125,7 +28107,6 @@
 </note>
 </org><org xml:id="org__29783">
   <orgName>Vorw&#228;rts</orgName>
-  <orgName type="loschen">http://anno.onb.ac.at/info/vog_info.htm</orgName>
   <desc type="entity_type">Radfahrerklub</desc>
   <desc type="entity_type_id">1043</desc>
 <location type="located_in_place">
@@ -32302,8 +32283,6 @@
 </listBibl>
 </org><org xml:id="org__93754">
   <orgName>Minist&#232;re du Commerce, de l&#8217;Industrie et des Colonies</orgName>
-  <orgName type="uri_gnd">http://d-nb.info/gnd/5259308-3</orgName>
-  <orgName type="uri_wikipedia">https://fr.wikipedia.org/wiki/Minist%C3%A8re_du_Commerce_(France)</orgName>
   <desc type="entity_type">Ministerium</desc>
   <desc type="entity_type_id">1482</desc>
 <location type="located_in_place">
