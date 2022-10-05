@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-10-04">serialized</change>
+          <change when-iso="2022-10-05">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -2988,6 +2988,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/42858</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb860</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb860</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90759/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90759.html</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29201.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29201</idno>
@@ -3183,11 +3185,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29298.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29298</idno>
@@ -4480,11 +4485,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29656.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29656</idno>
@@ -4634,6 +4642,8 @@
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/42858</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb860</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb860</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90759/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90759.html</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29684.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29684</idno>
@@ -4651,11 +4661,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29686.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29686</idno>
@@ -4670,11 +4683,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29688.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29688</idno>
@@ -12328,11 +12344,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48414/</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48414</idno>
@@ -13979,11 +13998,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29385.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29385</idno>
@@ -14757,11 +14779,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29230.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29230</idno>
@@ -15139,11 +15164,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29232.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29232</idno>
@@ -15262,11 +15290,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29234.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29234</idno>
@@ -15315,11 +15346,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29263.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29263</idno>
@@ -15379,11 +15413,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29788.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29788</idno>
@@ -18589,11 +18626,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29300.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29300</idno>
@@ -18643,11 +18683,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29608</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29608</idno>
@@ -18994,11 +19037,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29353.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29353</idno>
@@ -23615,11 +23661,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__51415">Ritzerhaus</placeName>
@@ -24035,11 +24084,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29499</idno>
 <listBibl>
@@ -24623,11 +24675,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29547</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29547</idno>
@@ -30147,11 +30202,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40036/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/40036</idno>
@@ -30172,11 +30230,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51418/</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51418</idno>
@@ -32452,11 +32513,14 @@
 <location type="located_in_place">
   <placeName key="place__30">Salzburg</placeName>
   <geo>47.80067 13.04532</geo>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2766818/</note>
   <note type="IDNO">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb30.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/30</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/91649/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb91649.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93885/</note>
+  <note type="IDNO">https://sws.geonames.org/2766818/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52868/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb52868</idno>
@@ -33076,6 +33140,7 @@
   <geo>45.89556 8.52676</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89841/</note>
   <note type="IDNO">https://sws.geonames.org/6693888/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90066/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89840/</idno>
 <listBibl>
