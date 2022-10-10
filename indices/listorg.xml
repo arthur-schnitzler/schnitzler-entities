@@ -34050,7 +34050,7 @@
 <date notBefore-iso="1861-01-01" when-iso="1861-07-02">1861</date>
 </note>
 </org><org xml:id="org__93192">
-  <orgName>Nationalversammlung</orgName>
+  <orgName>Franz&#246;sische Nationalversammlung</orgName>
   <orgName type="namensvariante">Assembl&#233;e Nationale</orgName>
   <desc type="entity_type">Parlament</desc>
   <desc type="entity_type_id">1723</desc>
@@ -34067,9 +34067,14 @@
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
 </location>
 <location type="located_in_place">
-  <placeName key="place__93203">Nationalversammlung</placeName>
+  <placeName key="place__93203">Franz&#246;sische Nationalversammlung</placeName>
   <geo>48.862072 2.318681</geo>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93203/</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__112436">Palais Bourbon</placeName>
+  <geo>48.861903 2.318648</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/112436/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93192/</idno>
   <idno type="URL">https://d-nb.info/gnd/35991-9</idno>
@@ -34672,6 +34677,11 @@
   <note type="IDNO">https://sws.geonames.org/2988507/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__112436">Palais Bourbon</placeName>
+  <geo>48.861903 2.318648</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/112436/</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92784/</idno>
 <listBibl>
