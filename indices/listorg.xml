@@ -12,7 +12,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-10-12">serialized</change>
+          <change when-iso="2022-10-13">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -10237,7 +10237,6 @@
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29365</idno>
   <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29365</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29365</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q65351</idno>
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
@@ -13716,10 +13715,16 @@
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb145</note>
 </location>
 <location type="located_in_place">
-  <placeName key="place__65756">Jena</placeName>
-  <geo>50.92878 11.5899</geo>
+  <placeName key="place__876">Jena</placeName>
+  <geo>50.93194 11.59056</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q3150</note>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb876.html</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/876</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65756/</note>
   <note type="IDNO">https://d-nb.info/gnd/4028557-1</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90954/</note>
+  <note type="IDNO">https://sws.geonames.org/2895044/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90954.html</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__864">Leipzig</placeName>
@@ -14550,10 +14555,15 @@
   <placeName key="place__197">Weimar</placeName>
   <geo>50.97361 11.33806</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q3955</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2812479/</note>
   <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb197.html</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/197</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb197</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64225/</note>
+  <note type="IDNO">https://sws.geonames.org/2812479/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/92063/</note>
+  <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb92063.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/95650/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4065105-8</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41852/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41852</idno>
