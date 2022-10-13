@@ -1823,6 +1823,8 @@
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb842</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb842</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb842.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/95418/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4029705-6</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37604/</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37604</idno>
@@ -2993,15 +2995,18 @@
   <placeName key="place__860">Graz</placeName>
   <geo>47.06667 15.43333</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q13298</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2778058/</note>
   <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb860.html</note>
   <note type="IDNO">http://sws.geonames.org/7871499/</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/860</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/42858</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb860</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64211/</note>
+  <note type="IDNO">https://sws.geonames.org/2778058/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb860</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90759/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90759.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93975/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4021912-4</note>
 </location>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29201.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29201</idno>
@@ -4194,6 +4199,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29517</idno>
@@ -4660,15 +4667,18 @@
   <placeName key="place__860">Graz</placeName>
   <geo>47.06667 15.43333</geo>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q13298</note>
-  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2778058/</note>
   <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb860.html</note>
   <note type="IDNO">http://sws.geonames.org/7871499/</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/860</note>
   <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/42858</note>
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb860</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64211/</note>
+  <note type="IDNO">https://sws.geonames.org/2778058/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb860</note>
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90759/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb90759.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/93975/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4021912-4</note>
 </location>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29684.html</idno>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29684</idno>
@@ -6008,6 +6018,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62336/</idno>
@@ -6031,6 +6043,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62644/</idno>
@@ -12779,6 +12793,8 @@
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb842</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb842</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb842.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/95418/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4029705-6</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53592/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb53592</idno>
@@ -16875,6 +16891,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29679.html</idno>
@@ -18568,6 +18586,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29530</idno>
@@ -21432,6 +21452,8 @@
   <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb842</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb842</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb842.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/95418/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4029705-6</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53598/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb53598</idno>
@@ -21929,6 +21951,8 @@
   <note type="IDNO">https://sws.geonames.org/2910831/</note>
   <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb890</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb890.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/94117/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4023349-2</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57303/</idno>
   <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb57303</idno>
@@ -22432,6 +22456,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62240/</idno>
@@ -22479,6 +22505,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62330/</idno>
@@ -23109,6 +23137,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62213/</idno>
@@ -28283,6 +28313,8 @@
   <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64053/</note>
   <note type="IDNO">https://sws.geonames.org/2673730/</note>
   <note type="IDNO">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb1119.html</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/100625/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4057648-6</note>
   <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1754</note>
 </location>
   <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62210/</idno>
