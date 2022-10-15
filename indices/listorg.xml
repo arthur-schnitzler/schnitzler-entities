@@ -46,7 +46,7 @@
 </listBibl>
 </org><org xml:id="org__36869">
   <orgName>Staatsanwaltschaft</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
 <location type="located_in_place">
   <placeName key="place__50">Wien</placeName>
   <geo>48.2066 16.37341</geo>
@@ -72,7 +72,7 @@
 </listBibl>
 </org><org xml:id="org__36879">
   <orgName>Strafkammer N&#252;rnberg</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_N%C3%BCrnberg-F%C3%BCrth</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_N%C3%BCrnberg-F%C3%BCrth</orgName>
 <location type="located_in_place">
   <placeName key="place__44172">N&#252;rnberg</placeName>
   <geo>49.45421 11.07752</geo>
@@ -188,7 +188,7 @@
 </listBibl>
 </org><org xml:id="org__36929">
   <orgName>Israelitische Kultusgemeinde Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Israelitische_Kultusgemeinde_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Israelitische_Kultusgemeinde_Wien</orgName>
   <orgName type="alternative-name">Wiener Israelitische Kultusgemeinde</orgName>
   <orgName type="legacy-name-merge">Israelitische Kultusgemeinde Wien</orgName>
 <location type="located_in_place">
@@ -313,8 +313,8 @@
 </listBibl>
 </org><org xml:id="org__37013">
   <orgName>Deutsch-&#246;sterreichischer Jugendbund</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreichisches_Jungvolk</orgName>
-  <orgName type="namensvariante">&#214;sterreichisches Jungvolk</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/%C3%96sterreichisches_Jungvolk</orgName>
+  <orgName type="person-namensvariante">&#214;sterreichisches Jungvolk</orgName>
 <location type="located_in_place">
   <placeName key="place__50">Wien</placeName>
   <geo>48.2066 16.37341</geo>
@@ -340,7 +340,7 @@
 </listBibl>
 </org><org xml:id="org__37025">
   <orgName>Telegraphendirektion f&#252;r Wien, Nieder&#246;sterreich und Burgenland</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Post-_und_Telegraphendirektion</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Post-_und_Telegraphendirektion</orgName>
 <location type="located_in_place">
   <placeName key="place__53">III., Landstra&#223;e</placeName>
   <geo>48.19811 16.39482</geo>
@@ -471,7 +471,7 @@
 </listBibl>
 </org><org xml:id="org__37105">
   <orgName>August F&#246;rster (Fl&#252;gel- und Pianofabriken)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/August_F%C3%B6rster_(Unternehmen)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/August_F%C3%B6rster_(Unternehmen)</orgName>
 <location type="located_in_place">
   <placeName key="place__37108">L&#246;bau</placeName>
   <geo>51.09954 14.66738</geo>
@@ -507,7 +507,7 @@
 </listBibl>
 </org><org xml:id="org__37135">
   <orgName>Generalintendanz der Preu&#223;ischen Staatstheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schauspielhaus_Berlin#Preu%C3%9Fisches_Staatstheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Schauspielhaus_Berlin#Preu%C3%9Fisches_Staatstheater</orgName>
 <location type="located_in_place">
   <placeName key="place__168">Berlin</placeName>
   <geo>52.52437 13.41053</geo>
@@ -573,7 +573,7 @@
 </listBibl>
 </org><org xml:id="org__37151">
   <orgName>Eduard H&#246;lzel (Geographisches Institut)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Eduard_H%C3%B6lzel</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Eduard_H%C3%B6lzel</orgName>
 <location type="located_in_place">
   <placeName key="place__54">IV., Wieden</placeName>
   <geo>48.19198 16.36714</geo>
@@ -686,7 +686,7 @@
 </listBibl>
 </org><org xml:id="org__37174">
   <orgName>&#214;sterreichische Credit-Anstalt</orgName>
-  <orgName type="namensvariante">&#214;sterreichische Kreditanstalt</orgName>
+  <orgName type="person-namensvariante">&#214;sterreichische Kreditanstalt</orgName>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
   <geo>48.20769 16.37049</geo>
@@ -861,7 +861,7 @@
 </listBibl>
 </org><org xml:id="org__37206">
   <orgName>Nieder&#246;sterreichische Rechtsanwaltskammer</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Rechtsanwaltskammer_Nieder&#246;sterreich</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Rechtsanwaltskammer_Nieder&#246;sterreich</orgName>
 <location type="located_in_place">
   <placeName key="place__49880">St. P&#246;lten</placeName>
   <geo>48.2 15.63333</geo>
@@ -1362,7 +1362,7 @@
 </listBibl>
 </org><org xml:id="org__37445">
   <orgName>Deutsches Haus Br&#252;nn</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsches_Haus_(Br%C3%BCnn)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsches_Haus_(Br%C3%BCnn)</orgName>
 <location type="located_in_place">
   <placeName key="place__833">Br&#252;nn</placeName>
   <geo>49.19522 16.60796</geo>
@@ -2091,7 +2091,7 @@
 </listBibl>
 </org><org xml:id="org__37678">
   <orgName>Weigl&#8217;s Dreherpark</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Dreherpark_(12)</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Dreherpark_(12)</orgName>
 <location type="located_in_place">
   <placeName key="place__62">XII., Meidling</placeName>
   <geo>48.17192 16.32586</geo>
@@ -2110,7 +2110,7 @@
 </listBibl>
 </org><org xml:id="org__37687">
   <orgName>Wiener Konzerthaus</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Konzerthaus</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Konzerthaus</orgName>
 <location type="located_in_place">
   <placeName key="place__53">III., Landstra&#223;e</placeName>
   <geo>48.19811 16.39482</geo>
@@ -2627,8 +2627,8 @@
 </listBibl>
 </org><org xml:id="org__55880">
   <orgName>I und II Strafsenat des Reichsgerichts</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/I._Strafsenat_des_Reichsgerichts</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/II._Strafsenat_des_Reichsgerichts</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/I._Strafsenat_des_Reichsgerichts</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/II._Strafsenat_des_Reichsgerichts</orgName>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55880/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb55880</idno>
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1652951</idno>
@@ -2695,7 +2695,7 @@
 </note>
 </org><org xml:id="org__57043">
   <orgName>Funkhaus</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Haus_des_Rundfunks</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Haus_des_Rundfunks</orgName>
 <location type="located_in_place">
   <placeName key="place__168">Berlin</placeName>
   <geo>52.52437 13.41053</geo>
@@ -2956,7 +2956,7 @@
 </listBibl>
 </org><org xml:id="org__29194">
   <orgName>Prager Presse</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Prager_Presse</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Prager_Presse</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3066,8 +3066,8 @@
 </listBibl>
 </org><org xml:id="org__29259">
   <orgName>Prager Tagblatt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Prager_Tagblatt</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/ptb_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Prager_Tagblatt</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/ptb_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3248,8 +3248,8 @@
 </listBibl>
 </org><org xml:id="org__29306">
   <orgName>Pester Lloyd</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Pester_Lloyd</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/pel_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Pester_Lloyd</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/pel_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3280,8 +3280,8 @@
 </listBibl>
 </org><org xml:id="org__29310">
   <orgName>Wiener Zeitung</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/wrz_info.htm</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://de.wikipedia.org/wiki/Wiener_Zeitung</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wrz_info.htm</orgName>
+  <orgName type="wien-geschichte-wiki">https://de.wikipedia.org/wiki/Wiener_Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3387,8 +3387,8 @@
 </listBibl>
 </org><org xml:id="org__29320">
   <orgName>Neues Wiener Journal</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/nwj_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Neues_Wiener_Journal</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nwj_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Neues_Wiener_Journal</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3458,7 +3458,7 @@
 </listBibl>
 </org><org xml:id="org__29329">
   <orgName>Berliner Tageblatt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Berliner_Tageblatt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Berliner_Tageblatt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3484,7 +3484,7 @@
 </listBibl>
 </org><org xml:id="org__29331">
   <orgName>Vossische Zeitung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Vossische_Zeitung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Vossische_Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3531,7 +3531,7 @@
 </listBibl>
 </org><org xml:id="org__29338">
   <orgName>M&#252;nchner Neueste Nachrichten</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/M&#252;nchner_Neueste_Nachrichten</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/M&#252;nchner_Neueste_Nachrichten</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3556,7 +3556,7 @@
 </listBibl>
 </org><org xml:id="org__29351">
   <orgName>Neue Freie Presse</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/nfp_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nfp_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3622,7 +3622,7 @@
 </listBibl>
 </org><org xml:id="org__29406">
   <orgName>Berliner B&#246;rsen-Courier</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Berliner_B&#246;rsen-Courier</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Berliner_B&#246;rsen-Courier</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3648,8 +3648,8 @@
 </listBibl>
 </org><org xml:id="org__29414">
   <orgName>Neues Wiener Tagblatt</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neues_Wiener_Tagblatt</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/nwg_info.htm</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neues_Wiener_Tagblatt</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nwg_info.htm</orgName>
   <orgName type="legacy-name-merge">Neues Wiener Tagblatt</orgName>
   <orgName type="legacy-uri-merge">http://https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37476/</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -3810,7 +3810,7 @@
 </listBibl>
 </org><org xml:id="org__29442">
   <orgName>Frankfurter Zeitung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Frankfurter_Zeitung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Frankfurter_Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3883,7 +3883,7 @@
 </listBibl>
 </org><org xml:id="org__29455">
   <orgName>M&#252;nchener Post</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/M&#252;nchener_Post</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/M&#252;nchener_Post</orgName>
   <orgName type="legacy-name-merge">M&#252;nchener Post</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -3910,7 +3910,7 @@
 </note>
 </org><org xml:id="org__29466">
   <orgName>Pesti Napl&#243;</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/Pesti_Napl&#243;</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/Pesti_Napl&#243;</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3939,8 +3939,8 @@
 </listBibl>
 </org><org xml:id="org__29470">
   <orgName>Die Stunde</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Stunde</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Stunde</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4035,7 +4035,7 @@
 </listBibl>
 </org><org xml:id="org__29484">
   <orgName>Tempo</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Tempo_%28Zeitung%29</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Tempo_%28Zeitung%29</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4315,8 +4315,8 @@
 </listBibl>
 </org><org xml:id="org__29637">
   <orgName>Reichspost</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/rpt_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Reichspost_(Zeitung)</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/rpt_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Reichspost_(Zeitung)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4380,7 +4380,7 @@
 </listBibl>
 </org><org xml:id="org__29644">
   <orgName>Arbeiter-Zeitung</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Br&#252;nn)</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Paris)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -4575,8 +4575,8 @@
 </listBibl>
 </org><org xml:id="org__29670">
   <orgName>Wiener Allgemeine Zeitung</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/waz_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Allgemeine_Zeitung</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/waz_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Allgemeine_Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4635,7 +4635,7 @@
 </listBibl>
 </org><org xml:id="org__29682">
   <orgName>Tagespost</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/tpt_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/tpt_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4660,7 +4660,7 @@
 </listBibl>
 </org><org xml:id="org__29684">
   <orgName>Tagespost</orgName>
-  <orgName type="uri_worklink">https://anno.onb.ac.at/cgi-content/anno?aid=gpt</orgName>
+  <orgName type="werk-werklink">https://anno.onb.ac.at/cgi-content/anno?aid=gpt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4762,7 +4762,7 @@
 </note>
 </org><org xml:id="org__29712">
   <orgName>Der Abend</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/abd_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/abd_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5032,7 +5032,7 @@
 </note>
 </org><org xml:id="org__37244">
   <orgName>Acht Uhr Abendblatt</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/aub_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/aub_info.htm</orgName>
   <orgName type="alternative-name">Acht Uhr Blatt &#8211; Abendausgabe der Neuen Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5061,7 +5061,7 @@
 </listBibl>
 </org><org xml:id="org__37306">
   <orgName>&#268;esk&#233; slovo</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/&#268;esk&#233;_slovo</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/&#268;esk&#233;_slovo</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5113,7 +5113,7 @@
 </listBibl>
 </org><org xml:id="org__37326">
   <orgName>Deutsch-&#214;sterreichische Tageszeitung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsch&#246;sterreichische_Tages-Zeitung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsch&#246;sterreichische_Tages-Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37326/</idno>
@@ -5147,7 +5147,7 @@
 </listBibl>
 </org><org xml:id="org__37408">
   <orgName>Le Journal</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/Le_Journal_(Paris)</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/Le_Journal_(Paris)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5170,7 +5170,7 @@
 </listBibl>
 </org><org xml:id="org__37415">
   <orgName>Lidov&#233; Noviny</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Lidov&#233;_noviny</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Lidov&#233;_noviny</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5246,8 +5246,8 @@
 </listBibl>
 </org><org xml:id="org__37467">
   <orgName>Neues 8 Uhr Blatt (8 Uhr Abendblatt)</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/nab_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Neues_8-Uhr-Blatt</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nab_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Neues_8-Uhr-Blatt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5286,7 +5286,7 @@
 </note>
 </org><org xml:id="org__37473">
   <orgName>Neues Wiener Abendblatt</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neues_Wiener_Abendblatt</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neues_Wiener_Abendblatt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5336,8 +5336,8 @@
 </listBibl>
 </org><org xml:id="org__37488">
   <orgName>&#214;sterreichisches Abendblatt</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/oab_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/&#214;sterreichisches_Abendblatt</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/oab_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/&#214;sterreichisches_Abendblatt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5378,8 +5378,8 @@
 </listBibl>
 </org><org xml:id="org__37525">
   <orgName>Die Rote Fahne (Wien)</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/drf_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Rote_Fahne_(&#214;sterreich)</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/drf_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Rote_Fahne_(&#214;sterreich)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5408,7 +5408,7 @@
 </listBibl>
 </org><org xml:id="org__37527">
   <orgName>Die Rote Fahne (Berlin)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Rote_Fahne</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Rote_Fahne</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5505,9 +5505,9 @@
 </listBibl>
 </org><org xml:id="org__37551">
   <orgName>V&#246;lkischer Beobachter</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/vob_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/vob_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
   <orgName type="legacy-name-merge">V&#246;lkischer Beobachter</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5534,9 +5534,9 @@
 </listBibl>
 </org><org xml:id="org__37566">
   <orgName>Wiener Neueste Nachrichten</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/wnn_info.htm</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/wnm_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Neueste_Nachrichten</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wnn_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wnm_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Neueste_Nachrichten</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5565,8 +5565,8 @@
 </listBibl>
 </org><org xml:id="org__37568">
   <orgName>Der Wiener Tag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Wiener_Tag</orgName>
-  <orgName type="uri_worklink">http://anno.onb.ac.at/info/tag_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Wiener_Tag</orgName>
+  <orgName type="werk-werklink">http://anno.onb.ac.at/info/tag_info.htm</orgName>
   <orgName type="legacy-name-merge">Der Wiener Tag</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5648,7 +5648,7 @@
 </note>
 </org><org xml:id="org__43382">
   <orgName>Der Bund</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Bund</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Bund</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5819,7 +5819,7 @@
 </note>
 </org><org xml:id="org__57764">
   <orgName>Retsch</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Retsch_(Zeitung)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Retsch_(Zeitung)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5848,7 +5848,7 @@
 </note>
 </org><org xml:id="org__57767">
   <orgName>Sovremennoe slovo</orgName>
-  <orgName type="namensvariante">&#1057;&#1086;&#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1086;&#1077; &#1089;&#1083;&#1086;&#1074;&#1086;</orgName>
+  <orgName type="person-namensvariante">&#1057;&#1086;&#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1086;&#1077; &#1089;&#1083;&#1086;&#1074;&#1086;</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5922,7 +5922,7 @@
 </note>
 </org><org xml:id="org__58652">
   <orgName>K&#248;benhavn</orgName>
-  <orgName type="uri_wikipedia">https://da.wikipedia.org/wiki/K&#248;benhavn_(dagblad)</orgName>
+  <orgName type="none">https://da.wikipedia.org/wiki/K&#248;benhavn_(dagblad)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58652/</idno>
@@ -5944,8 +5944,8 @@
 </listBibl>
 </org><org xml:id="org__60790">
   <orgName>Den&#180;</orgName>
-  <orgName type="namensvariante">&#1076;&#1077;&#1085;&#1100;</orgName>
-  <orgName type="namensvariante">Tag</orgName>
+  <orgName type="person-namensvariante">&#1076;&#1077;&#1085;&#1100;</orgName>
+  <orgName type="person-namensvariante">Tag</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5970,8 +5970,8 @@
 </listBibl>
 </org><org xml:id="org__60847">
   <orgName>Russkije vedomosti</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Russkije_wedomosti</orgName>
-  <orgName type="namensvariante">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1077; &#1074;&#1077;&#1076;&#1086;&#1084;&#1086;&#1089;&#1090;&#1080;</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Russkije_wedomosti</orgName>
+  <orgName type="person-namensvariante">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1077; &#1074;&#1077;&#1076;&#1086;&#1084;&#1086;&#1089;&#1090;&#1080;</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -6065,7 +6065,6 @@
 </note>
 </org><org xml:id="org__64534">
   <orgName>ha- Zeman</orgName>
-  <orgName type="uri_wikipedia">https://yivoencyclopedia.org/article.aspx/Zeman_Ha-</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -6105,7 +6104,6 @@
 </note>
 </org><org xml:id="org__87844">
   <orgName>Le Journal</orgName>
-  <orgName type="uri_wikipedia">https://fr.wikipedia.org/wiki/Le_Journal</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -6231,7 +6229,7 @@
 </listBibl>
 </org><org xml:id="org__29206">
   <orgName>Cosmopolis</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Cosmopolis_(Zeitschrift)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Cosmopolis_(Zeitschrift)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6386,7 +6384,7 @@
 </listBibl>
 </org><org xml:id="org__29212">
   <orgName>Neue Rundschau, Neue Deutsche Rundschau, Freie B&#252;hne</orgName>
-  <orgName type="uri_anno">https://de.wikipedia.org/wiki/Die_neue_Rundschau</orgName>
+  <orgName type="werk-werklink-anno">https://de.wikipedia.org/wiki/Die_neue_Rundschau</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6435,7 +6433,7 @@
 </listBibl>
 </org><org xml:id="org__29308">
   <orgName>Die Fackel</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Fackel</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Fackel</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6503,7 +6501,7 @@
 </listBibl>
 </org><org xml:id="org__29348">
   <orgName>Die Schaub&#252;hne / Die Weltb&#252;hne</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Weltb&#252;hne</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Weltb&#252;hne</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6575,7 +6573,7 @@
 </listBibl>
 </org><org xml:id="org__29371">
   <orgName>The Dial</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/The_Dial</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/The_Dial</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6681,8 +6679,8 @@
 </listBibl>
 </org><org xml:id="org__29398">
   <orgName>Der Morgen. Wiener Montagsblatt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Morgen._Wiener_Montagblatt</orgName>
-  <orgName type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=dmo</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Morgen._Wiener_Montagblatt</orgName>
+  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=dmo</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6725,7 +6723,7 @@
 </listBibl>
 </org><org xml:id="org__29401">
   <orgName>Wiener Medizinische Presse</orgName>
-  <orgName type="namensvariante">Wiener Medizinal-Halle. Zeitschrift f&#252;r praktische &#196;rzte</orgName>
+  <orgName type="person-namensvariante">Wiener Medizinal-Halle. Zeitschrift f&#252;r praktische &#196;rzte</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29401</idno>
@@ -6748,7 +6746,7 @@
 </listBibl>
 </org><org xml:id="org__29408">
   <orgName>Jugend</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Jugend_(Zeitschrift)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Jugend_(Zeitschrift)</orgName>
   <orgName type="legacy-name-merge">Jugend</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
@@ -6954,7 +6952,7 @@
 </listBibl>
 </org><org xml:id="org__29440">
   <orgName>Die Gesellschaft</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Gesellschaft_(Literaturzeitschrift)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Gesellschaft_(Literaturzeitschrift)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7048,7 +7046,7 @@
 </note>
 </org><org xml:id="org__29496">
   <orgName>&#214;sterreichische Rundschau</orgName>
-  <orgName type="uri_wikipedia">http://www.aeiou.at/aeiou.encyclop.o/o765734.htm</orgName>
+  <orgName type="none">http://www.aeiou.at/aeiou.encyclop.o/o765734.htm</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7124,7 +7122,7 @@
 </listBibl>
 </org><org xml:id="org__29514">
   <orgName>L&#8217;Aurore</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/L%27Aurore</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/L%27Aurore</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7150,7 +7148,7 @@
 </note>
 </org><org xml:id="org__29522">
   <orgName>La revue ind&#233;pendante</orgName>
-  <orgName type="uri_wikipedia">https://fr.wikipedia.org/wiki/La_Revue_ind%C3%A9pendante_(1884-1895)</orgName>
+  <orgName type="none">https://fr.wikipedia.org/wiki/La_Revue_ind%C3%A9pendante_(1884-1895)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7335,7 +7333,7 @@
 </listBibl>
 </org><org xml:id="org__29567">
   <orgName>M&#228;rz</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/M&#228;rz_(Zeitschrift)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/M&#228;rz_(Zeitschrift)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7381,7 +7379,7 @@
 </listBibl>
 </org><org xml:id="org__29571">
   <orgName>Der Sturm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Sturm_(Zeitschrift)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Sturm_(Zeitschrift)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7576,7 +7574,7 @@
 </listBibl>
 </org><org xml:id="org__29649">
   <orgName>Der Kunstwart</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Kunstwart</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Kunstwart</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7645,7 +7643,7 @@
 </listBibl>
 </org><org xml:id="org__29698">
   <orgName>An der sch&#246;nen blauen Donau</orgName>
-  <orgName type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno-plus?aid=asd</orgName>
+  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno-plus?aid=asd</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7721,7 +7719,7 @@
 </listBibl>
 </org><org xml:id="org__29708">
   <orgName>Die literarische Welt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_literarische_Welt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_literarische_Welt</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7756,7 +7754,7 @@
 </listBibl>
 </org><org xml:id="org__29714">
   <orgName>Simplicissimus</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Simplicissimus</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Simplicissimus</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7910,7 +7908,7 @@
 </listBibl>
 </org><org xml:id="org__29807">
   <orgName>Die Nation</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Nation_(Deutschland)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Nation_(Deutschland)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -7937,7 +7935,7 @@
 </note>
 </org><org xml:id="org__29808">
   <orgName>Die Gegenwart</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/dgw_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/dgw_info.htm</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8012,7 +8010,7 @@
 </listBibl>
 </org><org xml:id="org__34262">
   <orgName>Morgen. Wochenschrift f&#252;r deutsche Kultur</orgName>
-  <orgName type="uri_wikipedia">https://de.wikisource.org/wiki/Morgen_(Zeitschrift)</orgName>
+  <orgName type="none">https://de.wikisource.org/wiki/Morgen_(Zeitschrift)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8179,7 +8177,6 @@
 </listBibl>
 </org><org xml:id="org__37249">
   <orgName>Der Anbruch</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Musikbl%C3%A4tter_des_Anbruch</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37249/</idno>
@@ -8249,7 +8246,7 @@
 </listBibl>
 </org><org xml:id="org__37283">
   <orgName>Die B&#246;rse</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/boe_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/boe_info.htm</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8277,7 +8274,7 @@
 </listBibl>
 </org><org xml:id="org__37287">
   <orgName>Der Brenner</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Brenner</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Brenner</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8353,8 +8350,8 @@
 </listBibl>
 </org><org xml:id="org__37298">
   <orgName>Die B&#252;hne</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/bue_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_B&#252;hne</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/bue_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_B&#252;hne</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8413,8 +8410,8 @@
 </listBibl>
 </org><org xml:id="org__37382">
   <orgName>Der Kampf</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/dks_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Kampf_(Zeitschrift_SDAP)</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/dks_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Kampf_(Zeitschrift_SDAP)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8476,7 +8473,7 @@
 </listBibl>
 </org><org xml:id="org__37486">
   <orgName>Der &#214;sterreichische Volkswirt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_&#214;sterreichische_Volkswirt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_&#214;sterreichische_Volkswirt</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8514,7 +8511,7 @@
 </listBibl>
 </org><org xml:id="org__37519">
   <orgName>Der Querschnitt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Der_Querschnitt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Der_Querschnitt</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8574,7 +8571,7 @@
 </listBibl>
 </org><org xml:id="org__37536">
   <orgName>Selbstwehr</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Selbstwehr</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Selbstwehr</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8635,8 +8632,8 @@
 </listBibl>
 </org><org xml:id="org__37544">
   <orgName>Das Tage-Buch</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Das_Tage-Buch</orgName>
-  <orgName type="namensvariante">Tagebuch</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Das_Tage-Buch</orgName>
+  <orgName type="person-namensvariante">Tagebuch</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8737,7 +8734,7 @@
 </listBibl>
 </org><org xml:id="org__37906">
   <orgName>Vorw&#228;rts Wien</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/cgi-content/anno?aid=vog</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/cgi-content/anno?aid=vog</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8765,8 +8762,8 @@
 </listBibl>
 </org><org xml:id="org__39399">
   <orgName>Internationale klinische Rundschau</orgName>
-  <orgName type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno-plus?aid=klr</orgName>
-  <orgName type="namensvariante">Wiener klinische Rundschau</orgName>
+  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno-plus?aid=klr</orgName>
+  <orgName type="person-namensvariante">Wiener klinische Rundschau</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8797,7 +8794,7 @@
 </note>
 </org><org xml:id="org__40684">
   <orgName>La Semaine Litt&#233;raire</orgName>
-  <orgName type="uri_wikipedia">https://fr.wikipedia.org/wiki/La_Semaine_litt&#233;raire</orgName>
+  <orgName type="none">https://fr.wikipedia.org/wiki/La_Semaine_litt&#233;raire</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8827,7 +8824,7 @@
 </note>
 </org><org xml:id="org__43477">
   <orgName>&#220;ber Land und Meer</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/%C3%9Cber_Land_und_Meer</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/%C3%9Cber_Land_und_Meer</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8863,7 +8860,7 @@
 </listBibl>
 </org><org xml:id="org__57782">
   <orgName>Die Kunst. Monatsheft f&#252;r freie und angewandte Kunst</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Die_Kunst_und_das_sch&#246;ne_Heim</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Die_Kunst_und_das_sch&#246;ne_Heim</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57782/</idno>
@@ -9076,8 +9073,8 @@
 </listBibl>
 </org><org xml:id="org__29205">
   <orgName>Deutsch&#246;sterreichischer B&#252;hnenverein</orgName>
-  <orgName type="namensvariante">Verein deutscher B&#252;hnenmitglieder &#214;sterreichs</orgName>
-  <orgName type="namensvariante">&#214;sterreichischer B&#252;hnenverein</orgName>
+  <orgName type="person-namensvariante">Verein deutscher B&#252;hnenmitglieder &#214;sterreichs</orgName>
+  <orgName type="person-namensvariante">&#214;sterreichischer B&#252;hnenverein</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29205.html</idno>
@@ -9149,7 +9146,7 @@
 </listBibl>
 </org><org xml:id="org__29301">
   <orgName>Kartellverband katholischer deutscher Studentenvereine</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Kartellverband_katholischer_deutscher_Studentenvereine</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Kartellverband_katholischer_deutscher_Studentenvereine</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -9176,7 +9173,7 @@
 </note>
 </org><org xml:id="org__29302">
   <orgName>Wiener Tierschutz-Verein</orgName>
-  <orgName type="namensvariante">Wiener Tierschutzverein</orgName>
+  <orgName type="person-namensvariante">Wiener Tierschutzverein</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -9257,7 +9254,7 @@
 </listBibl>
 </org><org xml:id="org__29561">
   <orgName>Freie B&#252;hne</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Freie_B&#252;hne_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Freie_B&#252;hne_Berlin</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -9390,7 +9387,7 @@
 </listBibl>
 </org><org xml:id="org__29763">
   <orgName>Deutscher Schulverein</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Deutscher_Schulverein</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Deutscher_Schulverein</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -9773,7 +9770,7 @@
 </listBibl>
 </org><org xml:id="org__46327">
   <orgName>Zionistischer Frauenverein</orgName>
-  <orgName type="uri_wikipedia">https://fraueninbewegung.onb.ac.at/node/545</orgName>
+  <orgName type="none">https://fraueninbewegung.onb.ac.at/node/545</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -9845,7 +9842,7 @@
 </listBibl>
 </org><org xml:id="org__53383">
   <orgName>&#214;sterreichischer Wintersport-Klub</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/&#214;sterreichischer_Wintersportclub</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/&#214;sterreichischer_Wintersportclub</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -9895,7 +9892,7 @@
 </listBibl>
 </org><org xml:id="org__58521">
   <orgName>Katholischer Gesellenverein</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Adolph_Kolping</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Adolph_Kolping</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/58521/</idno>
@@ -10231,7 +10228,7 @@
 </listBibl>
 </org><org xml:id="org__29365">
   <orgName>Paul Cassirer Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Paul_Cassirer</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Paul_Cassirer</orgName>
   <orgName type="legacy-name-merge">Paul Cassirer Verlag</orgName>
   <orgName type="legacy-uri-merge">http://https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36978/</orgName>
   <desc type="entity_type">Verlag</desc>
@@ -10321,7 +10318,7 @@
 </listBibl>
 </org><org xml:id="org__29377">
   <orgName>Propyl&#228;en Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Propyl&#228;en_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Propyl&#228;en_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10491,7 +10488,7 @@
 </listBibl>
 </org><org xml:id="org__29582">
   <orgName>K&#252;htmann</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Johann_Christian_K%C3%BChtmann</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Johann_Christian_K%C3%BChtmann</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10514,7 +10511,7 @@
 </listBibl>
 </org><org xml:id="org__29584">
   <orgName>Georg M&#252;ller</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Georg_M%C3%BCller_(Verleger)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Georg_M%C3%BCller_(Verleger)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10557,7 +10554,7 @@
 </listBibl>
 </org><org xml:id="org__29595">
   <orgName>Carl Gerold&#8217;s Sohn</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Carl_Gerold%E2%80%99s_Sohn_Verlag_(Gerold_Verlag)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Carl_Gerold%E2%80%99s_Sohn_Verlag_(Gerold_Verlag)</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10645,7 +10642,7 @@
 </listBibl>
 </org><org xml:id="org__29630">
   <orgName>Ahn &amp; Simrock</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ahn_%26_Simrock_B%C3%BChnen-_und_Musikverlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Ahn_%26_Simrock_B%C3%BChnen-_und_Musikverlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10710,7 +10707,7 @@
 </listBibl>
 </org><org xml:id="org__29639">
   <orgName>S. Fischer Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/S._Fischer_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/S._Fischer_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10782,7 +10779,7 @@
 </listBibl>
 </org><org xml:id="org__29648">
   <orgName>Simon &amp; Schuster</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Simon_%26_Schuster</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Simon_%26_Schuster</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10827,7 +10824,7 @@
 </listBibl>
 </org><org xml:id="org__29654">
   <orgName>Albert Langen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Langen_M&#252;ller_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Langen_M&#252;ller_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -10994,7 +10991,7 @@
 </note>
 </org><org xml:id="org__29681">
   <orgName>Ullstein Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ullstein_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Ullstein_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11262,7 +11259,7 @@
 </note>
 </org><org xml:id="org__29750">
   <orgName>Erich Rei&#223;</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Erich_Rei%C3%9F</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Erich_Rei%C3%9F</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11314,7 +11311,7 @@
 </note>
 </org><org xml:id="org__29756">
   <orgName>Ernst Rowohlt Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Rowohlt_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Rowohlt_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11682,7 +11679,7 @@
 </listBibl>
 </org><org xml:id="org__36942">
   <orgName>Verlag Wilhelm Braum&#252;ller</orgName>
-  <orgName type="namensvariante">Verlag Wilhelm Braum&#252;ller &#8211; Josef Deibler</orgName>
+  <orgName type="person-namensvariante">Verlag Wilhelm Braum&#252;ller &#8211; Josef Deibler</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11737,8 +11734,8 @@
 </listBibl>
 </org><org xml:id="org__37062">
   <orgName>Anton Schroll Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Anton_Schroll_%26_Co.</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Verlag_Anton_Schroll_%26_Co</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Anton_Schroll_%26_Co.</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Verlag_Anton_Schroll_%26_Co</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11829,7 +11826,7 @@
 </listBibl>
 </org><org xml:id="org__37093">
   <orgName>Einhorn Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Einhorn-Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Einhorn-Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11926,7 +11923,7 @@
 </listBibl>
 </org><org xml:id="org__37144">
   <orgName>Gutenberg-Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/B%C3%BCchergilde_Gutenberg</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/B%C3%BCchergilde_Gutenberg</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -11980,7 +11977,7 @@
 </listBibl>
 </org><org xml:id="org__37231">
   <orgName>Melantrich Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Verlag_Melantrich</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Verlag_Melantrich</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -12042,7 +12039,7 @@
 </listBibl>
 </org><org xml:id="org__37752">
   <orgName>Theodor Knaur Nachf. Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Droemer_Knaur</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Droemer_Knaur</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -12658,7 +12655,7 @@
   <orgName type="alternative-name">Paris, Presses Universitaires de France</orgName>
   <orgName type="alternative-name">Paris, Presses universitaires de France</orgName>
   <orgName type="alternative-name">Presses Universitaires de France</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Presses_Universitaires_de_France</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Presses_Universitaires_de_France</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -12685,7 +12682,7 @@
 </note>
 </org><org xml:id="org__51490">
   <orgName>Johann Nepomuk Vernay Druckerei- und Verlags AG</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Johann_Nepomuk_Vernay_Druckerei-_und_Verlags_AG</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Johann_Nepomuk_Vernay_Druckerei-_und_Verlags_AG</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/51490/</idno>
@@ -12912,7 +12909,7 @@
 </note>
 </org><org xml:id="org__56572">
   <orgName>Amalthea-Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amalthea_Signum_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amalthea_Signum_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13010,7 +13007,7 @@
 </listBibl>
 </org><org xml:id="org__57012">
   <orgName>Carl Heymanns Verlag</orgName>
-  <orgName type="namensvariante">Karl Heymann&#8217;s Verlag</orgName>
+  <orgName type="person-namensvariante">Karl Heymann&#8217;s Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13035,7 +13032,7 @@
 </note>
 </org><org xml:id="org__57780">
   <orgName>Bruckmann Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bruckmann_Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bruckmann_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13089,7 +13086,7 @@
 </note>
 </org><org xml:id="org__57976">
   <orgName>Gyldendal</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Gyldendal</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Gyldendal</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13261,8 +13258,8 @@
   <orgName type="alternative-name">Znanie (Firma)</orgName>
   <orgName type="alternative-name">Tovari&#353;&#269;estvo "Znanie" (Sankt-Peterburg)</orgName>
   <orgName type="alternative-name">Tovarishchestvo "Znanie" (Sankt-Peterburg)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Snanije</orgName>
-  <orgName type="namensvariante">Snanije</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Snanije</orgName>
+  <orgName type="person-namensvariante">Snanije</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13316,8 +13313,8 @@
 </listBibl>
 </org><org xml:id="org__60830">
   <orgName>&#1055;&#1086;&#1083;&#1100;&#1079;&#1072;, V. Antik</orgName>
-  <orgName type="namensvariante">Pol&#697;za</orgName>
-  <orgName type="namensvariante">Nutzen</orgName>
+  <orgName type="person-namensvariante">Pol&#697;za</orgName>
+  <orgName type="person-namensvariante">Nutzen</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13511,7 +13508,7 @@
 </org><org xml:id="org__62745">
   <orgName>Malik Verlag</orgName>
   <orgName type="alternative-name">Malik-Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Malik-Verlag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Malik-Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13664,7 +13661,6 @@
 </note>
 </org><org xml:id="org__65379">
   <orgName>A. Hartleben&#8217;s Verlag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/A._Hartleben%E2%80%99s_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65379/</idno>
@@ -13677,7 +13673,7 @@
 </note>
 </org><org xml:id="org__65398">
   <orgName>Buch-und K&#252;nstlerverlag Gerlach &amp; Wiedling</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Buch-und_K%C3%BCnstlerverlag_Gerlach_%26_Wiedling</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Buch-und_K%C3%BCnstlerverlag_Gerlach_%26_Wiedling</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65398/</idno>
@@ -13822,7 +13818,7 @@
 </note>
 </org><org xml:id="org__88619">
   <orgName>Lyra</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Lyra_Verlag</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Lyra_Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13851,7 +13847,7 @@
 </note>
 </org><org xml:id="org__89394">
   <orgName>S. Schottl&#228;nder</orgName>
-  <orgName type="namensvariante">Schlesische Buchdruckerei, Kunst- und Verlags-Anstalt</orgName>
+  <orgName type="person-namensvariante">Schlesische Buchdruckerei, Kunst- und Verlags-Anstalt</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -14168,7 +14164,7 @@
 </listBibl>
 </org><org xml:id="org__37057">
   <orgName>Schweizerische Kreditanstalt Z&#252;rich</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Credit_Suisse</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Credit_Suisse</orgName>
   <desc type="entity_type">Bank</desc>
   <desc type="entity_type_id">977</desc>
 <location type="located_in_place">
@@ -14239,7 +14235,7 @@
 </listBibl>
 </org><org xml:id="org__59810">
   <orgName>Unionbank</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Unionbank</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Unionbank</orgName>
   <desc type="entity_type">Bank</desc>
   <desc type="entity_type_id">977</desc>
 <location type="located_in_place">
@@ -14564,7 +14560,7 @@
 </listBibl>
 </org><org xml:id="org__41852">
   <orgName>Deutsche Schillerstiftung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsche_Schillerstiftung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsche_Schillerstiftung</orgName>
   <desc type="entity_type">Verein &gt;&gt; Wohlt&#228;tigkeitsverein</desc>
   <desc type="entity_type_id">978</desc>
 <location type="located_in_place">
@@ -14593,7 +14589,7 @@
 </note>
 </org><org xml:id="org__46791">
   <orgName>Ebner-Eschenbach-Stiftung</orgName>
-  <orgName type="uri_wikipedia">https://regiowiki.at/wiki/Ebner-Eschenbach-Stiftung</orgName>
+  <orgName type="none">https://regiowiki.at/wiki/Ebner-Eschenbach-Stiftung</orgName>
   <desc type="entity_type">Verein &gt;&gt; Wohlt&#228;tigkeitsverein</desc>
   <desc type="entity_type_id">978</desc>
 <location type="located_in_place">
@@ -14623,7 +14619,7 @@
 </note>
 </org><org xml:id="org__48851">
   <orgName>Verein &#187;Freie Schule&#171;</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Verein_%22Freie_Schule%22</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Verein_%22Freie_Schule%22</orgName>
   <desc type="entity_type">Verein &gt;&gt; Wohlt&#228;tigkeitsverein</desc>
   <desc type="entity_type_id">978</desc>
 <location type="located_in_place">
@@ -14811,7 +14807,7 @@
 </listBibl>
 </org><org xml:id="org__41395">
   <orgName>Dannebrogorden</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Dannebrogorden</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Dannebrogorden</orgName>
   <desc type="entity_type">Orden</desc>
   <desc type="entity_type_id">980</desc>
 <location type="located_in_place">
@@ -14985,7 +14981,7 @@
 </listBibl>
 </org><org xml:id="org__36935">
   <orgName>Blinden-Erziehungs-Institut Wien</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Blindeninstitut</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Blindeninstitut</orgName>
   <desc type="entity_type">Bildungseinrichtung</desc>
   <desc type="entity_type_id">982</desc>
 <location type="located_in_place">
@@ -15033,7 +15029,7 @@
 </listBibl>
 </org><org xml:id="org__37045">
   <orgName>Staatliche Graphische Lehr- und Versuchsanstalt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/H&#246;here_Graphische_Bundes-Lehr-_und_Versuchsanstalt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/H&#246;here_Graphische_Bundes-Lehr-_und_Versuchsanstalt</orgName>
   <desc type="entity_type">Bildungseinrichtung</desc>
   <desc type="entity_type_id">982</desc>
 <location type="located_in_place">
@@ -15184,7 +15180,7 @@
 </listBibl>
 </org><org xml:id="org__56040">
   <orgName>St&#228;dtisches Konservatorium</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Haute_&#233;cole_des_arts_du_Rhin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Haute_&#233;cole_des_arts_du_Rhin</orgName>
   <desc type="entity_type">Bildungseinrichtung</desc>
   <desc type="entity_type_id">982</desc>
 <location type="located_in_place">
@@ -15552,7 +15548,7 @@
 </listBibl>
 </org><org xml:id="org__36803">
   <orgName>Gemeinde-Vermittlungsamt Wien</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Gemeindevermittlungsamt</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Gemeindevermittlungsamt</orgName>
   <desc type="entity_type">Amt</desc>
   <desc type="entity_type_id">984</desc>
 <location type="located_in_place">
@@ -15645,7 +15641,7 @@
 </listBibl>
 </org><org xml:id="org__36909">
   <orgName>Amt der Wiener Landesregierung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Magistrat_der_Stadt_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Magistrat_der_Stadt_Wien</orgName>
   <desc type="entity_type">Amt</desc>
   <desc type="entity_type_id">984</desc>
 <location type="located_in_place">
@@ -15674,7 +15670,7 @@
 </listBibl>
 </org><org xml:id="org__36963">
   <orgName>Bundeskanzleramt Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundeskanzleramt_(%C3%96sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundeskanzleramt_(%C3%96sterreich)</orgName>
   <desc type="entity_type">Amt</desc>
   <desc type="entity_type_id">984</desc>
 <location type="located_in_place">
@@ -15945,7 +15941,7 @@
 </listBibl>
 </org><org xml:id="org__55038">
   <orgName>&#214;sterreichisches Parlament</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreichisches_Parlament</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/%C3%96sterreichisches_Parlament</orgName>
   <desc type="entity_type">Amt</desc>
   <desc type="entity_type_id">984</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/55038/</idno>
@@ -16157,7 +16153,7 @@
 </listBibl>
 </org><org xml:id="org__29236">
   <orgName>Meininger</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Meininger_Staatstheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Meininger_Staatstheater</orgName>
   <desc type="entity_type">Theatergruppe</desc>
   <desc type="entity_type_id">985</desc>
 <location type="located_in_place">
@@ -16567,7 +16563,7 @@
 </listBibl>
 </org><org xml:id="org__34379">
   <orgName>Hoch- und Deutschmeisterkapelle</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Original_Hoch-_und_Deutschmeister</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Original_Hoch-_und_Deutschmeister</orgName>
   <desc type="entity_type">Milit&#228;rmusikkapelle</desc>
   <desc type="entity_type_id">988</desc>
 <location type="located_in_place">
@@ -16699,7 +16695,7 @@
 </listBibl>
 </org><org xml:id="org__57499">
   <orgName>Hans Rehbock &amp; Co.</orgName>
-  <orgName type="namensvariante">Rehbock &amp; Co.</orgName>
+  <orgName type="person-namensvariante">Rehbock &amp; Co.</orgName>
   <desc type="entity_type">Gesch&#228;ft</desc>
   <desc type="entity_type_id">990</desc>
 <location type="located_in_place">
@@ -16761,7 +16757,7 @@
 </listBibl>
 </org><org xml:id="org__29257">
   <orgName>Schiller-Preis</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schiller-Preis_(Preu&#223;en)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Schiller-Preis_(Preu&#223;en)</orgName>
   <desc type="entity_type">Literaturpreis</desc>
   <desc type="entity_type_id">993</desc>
 <location type="located_in_place">
@@ -16814,7 +16810,6 @@
 </note>
 </org><org xml:id="org__29675">
   <orgName>Bauernfeld-Preis</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bauernfeld-Preis</orgName>
   <desc type="entity_type">Literaturpreis</desc>
   <desc type="entity_type_id">993</desc>
 <location type="located_in_place">
@@ -16849,7 +16844,7 @@
 </note>
 </org><org xml:id="org__29677">
   <orgName>Franz-Grillparzer-Preis</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Franz-Grillparzer-Preis</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Franz-Grillparzer-Preis</orgName>
   <desc type="entity_type">Literaturpreis</desc>
   <desc type="entity_type_id">993</desc>
 <location type="located_in_place">
@@ -16906,7 +16901,7 @@
 </listBibl>
 </org><org xml:id="org__42042">
   <orgName>Volks-Schillerpreis</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Volks-Schillerpreis</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Volks-Schillerpreis</orgName>
   <desc type="entity_type">Literaturpreis</desc>
   <desc type="entity_type_id">993</desc>
 <location type="located_in_place">
@@ -16986,7 +16981,7 @@
 </listBibl>
 </org><org xml:id="org__29748">
   <orgName>Metro Goldwyn Mayer Filmgesellschaft</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Metro-Goldwyn-Mayer</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Metro-Goldwyn-Mayer</orgName>
   <desc type="entity_type">Filmproduktionsfirma</desc>
   <desc type="entity_type_id">994</desc>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29748.html</idno>
@@ -17000,7 +16995,6 @@
 </listBibl>
 </org><org xml:id="org__36993">
   <orgName>Tobis Film Gesellschaft</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Tobis-Tonbild-Syndikat</orgName>
   <desc type="entity_type">Filmproduktionsfirma</desc>
   <desc type="entity_type_id">994</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36993/</idno>
@@ -17012,7 +17006,7 @@
 </listBibl>
 </org><org xml:id="org__37112">
   <orgName>Fox Film Studio (Hollywood)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/20th_Century_Fox</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/20th_Century_Fox</orgName>
   <desc type="entity_type">Filmproduktionsfirma</desc>
   <desc type="entity_type_id">994</desc>
 <location type="located_in_place">
@@ -17035,7 +17029,7 @@
 </listBibl>
 </org><org xml:id="org__37129">
   <orgName>Gaumont British Filmgesellschaft</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/Gaumont-British</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/Gaumont-British</orgName>
   <desc type="entity_type">Filmproduktionsfirma</desc>
   <desc type="entity_type_id">994</desc>
 <location type="located_in_place">
@@ -17060,7 +17054,7 @@
 </listBibl>
 </org><org xml:id="org__55442">
   <orgName>Columbia Pictures</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Columbia_Pictures</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Columbia_Pictures</orgName>
   <desc type="entity_type">Filmproduktionsfirma</desc>
   <desc type="entity_type_id">994</desc>
 <location type="located_in_place">
@@ -17482,7 +17476,7 @@
 </listBibl>
 </org><org xml:id="org__29781">
   <orgName>&#187;Freie B&#252;hne&#171; Verein f&#252;r moderne Literatur</orgName>
-  <orgName type="namensvariante">Freie B&#252;hne</orgName>
+  <orgName type="person-namensvariante">Freie B&#252;hne</orgName>
   <desc type="entity_type">Verein &gt;&gt; Literarische Vereinigung</desc>
   <desc type="entity_type_id">997</desc>
 <location type="located_in_place">
@@ -17685,7 +17679,7 @@
 </listBibl>
 </org><org xml:id="org__63051">
   <orgName>Akademische Lesehalle</orgName>
-  <orgName type="uri_worklink">https://www.digitale-sammlungen.de/en/view/bsb10733176?page=1</orgName>
+  <orgName type="werk-werklink">https://www.digitale-sammlungen.de/en/view/bsb10733176?page=1</orgName>
   <desc type="entity_type">Verein &gt;&gt; Literarische Vereinigung</desc>
   <desc type="entity_type_id">997</desc>
 <location type="located_in_place">
@@ -17808,7 +17802,7 @@
 </note>
 </org><org xml:id="org__29410">
   <orgName>The American Hebrew</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/The_American_Hebrew</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/The_American_Hebrew</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29410</idno>
@@ -17822,7 +17816,7 @@
 </note>
 </org><org xml:id="org__29717">
   <orgName>Extrapost</orgName>
-  <orgName type="uri_worklink">http://anno.onb.ac.at/cgi-content/anno?aid=wmj</orgName>
+  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno?aid=wmj</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -17854,8 +17848,8 @@
 </note>
 </org><org xml:id="org__37286">
   <orgName>B&#246;rsenblatt f&#252;r den deutschen Buchhandel</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/B&#246;rsenblatt</orgName>
-  <orgName type="uri_worklink">https://www.boersenblatt-digital.de</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/B&#246;rsenblatt</orgName>
+  <orgName type="werk-werklink">https://www.boersenblatt-digital.de</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37286/</idno>
@@ -17867,7 +17861,7 @@
 </listBibl>
 </org><org xml:id="org__37433">
   <orgName>Montag</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/mon_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/mon_info.htm</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -17897,7 +17891,7 @@
 </listBibl>
 </org><org xml:id="org__37509">
   <orgName>Pestr&#233;ho T&#253;dne</orgName>
-  <orgName type="namensvariante">Pestr&#253; T&#253;den</orgName>
+  <orgName type="person-namensvariante">Pestr&#253; T&#253;den</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -17914,7 +17908,7 @@
 </listBibl>
 </org><org xml:id="org__37571">
   <orgName>Das Wort</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/wor_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wor_info.htm</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -17981,7 +17975,7 @@
 </listBibl>
 </org><org xml:id="org__57730">
   <orgName>Ogonjok</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ogonjok</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Ogonjok</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -18059,7 +18053,7 @@
 </note>
 </org><org xml:id="org__29275">
   <orgName>Genossenschaft dramatischer Autoren und Komponisten in Wien</orgName>
-  <orgName type="namensvariante">Union dramatischer Autoren und Komponisten in Wien</orgName>
+  <orgName type="person-namensvariante">Union dramatischer Autoren und Komponisten in Wien</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
 <location type="located_in_place">
@@ -18087,7 +18081,7 @@
 </listBibl>
 </org><org xml:id="org__29458">
   <orgName>Schutzverband deutscher Schriftsteller in &#214;sterreich</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schutzverband_Deutscher_Schriftsteller_in_&#214;sterreich</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Schutzverband_Deutscher_Schriftsteller_in_&#214;sterreich</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29458</idno>
@@ -18282,7 +18276,7 @@
 </listBibl>
 </org><org xml:id="org__57787">
   <orgName>Verein dramatischer und musikalischer Autoren</orgName>
-  <orgName type="namensvariante">&#1057;&#1086;&#1102;&#1079; &#1076;&#1088;&#1072;&#1084;&#1072;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1080; &#1084;&#1091;&#1079;&#1099;&#1082;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1087;&#1080;&#1089;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;</orgName>
+  <orgName type="person-namensvariante">&#1057;&#1086;&#1102;&#1079; &#1076;&#1088;&#1072;&#1084;&#1072;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1080; &#1084;&#1091;&#1079;&#1099;&#1082;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1087;&#1080;&#1089;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
 <location type="located_in_place">
@@ -18311,7 +18305,7 @@
 </note>
 </org><org xml:id="org__59074">
   <orgName>Genossenschaft deutscher B&#252;hnen-Angeh&#246;riger</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Genossenschaft_Deutscher_B&#252;hnen-Angeh&#246;riger</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Genossenschaft_Deutscher_B&#252;hnen-Angeh&#246;riger</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59074/</idno>
@@ -18355,7 +18349,6 @@
 </listBibl>
 </org><org xml:id="org__65766">
   <orgName>Verein der Schriftstellerinnen und K&#252;nstlerinnen in Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Verein_der_Schriftstellerinnen_und_K%C3%BCnstlerinnen_Wien</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
 <location type="located_in_place">
@@ -18420,7 +18413,7 @@
 </listBibl>
 </org><org xml:id="org__37216">
   <orgName>Kronos Verlag</orgName>
-  <orgName type="namensvariante">Kronos Verlags A.G.</orgName>
+  <orgName type="person-namensvariante">Kronos Verlags A.G.</orgName>
   <desc type="entity_type">Verlagskonzern</desc>
   <desc type="entity_type_id">1000</desc>
 <location type="located_in_place">
@@ -18491,7 +18484,6 @@
 </listBibl>
 </org><org xml:id="org__63854">
   <orgName>Hugenberg-Konzern</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hugenberg-Konzern</orgName>
   <desc type="entity_type">Verlagskonzern</desc>
   <desc type="entity_type_id">1000</desc>
 <location type="located_in_place">
@@ -18521,7 +18513,6 @@
   <orgName type="alternative-name">French Academy</orgName>
   <orgName type="alternative-name">Acad&#233;mie fran&#231;oise</orgName>
   <orgName type="legacy-name-merge">Acad&#233;mie Fran&#231;aise</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise</orgName>
   <desc type="entity_type">Akademie der Wissenschaften</desc>
   <desc type="entity_type_id">1001</desc>
 <location type="located_in_place">
@@ -18768,7 +18759,7 @@
 </listBibl>
 </org><org xml:id="org__29300">
   <orgName>Salzburger Festspiele</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Salzburger_Festspiele</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Salzburger_Festspiele</orgName>
   <desc type="entity_type">Veranstaltung</desc>
   <desc type="entity_type_id">1004</desc>
 <location type="located_in_place">
@@ -18893,7 +18884,7 @@
 </note>
 </org><org xml:id="org__45127">
   <orgName>Wiener Musik- und Theaterausstellung 1892</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Musik-_und_Theaterausstellung_1892</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Musik-_und_Theaterausstellung_1892</orgName>
   <desc type="entity_type">Veranstaltung</desc>
   <desc type="entity_type_id">1004</desc>
 <location type="located_in_place">
@@ -18950,7 +18941,7 @@
 </listBibl>
 </org><org xml:id="org__29364">
   <orgName>Wiener Allgemeine Montagszeitung</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Allgemeine_Montagszeitung</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Allgemeine_Montagszeitung</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">1005</desc>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29364.html</idno>
@@ -19047,7 +19038,7 @@
 </note>
 </org><org xml:id="org__29344">
   <orgName>Deutsches Literaturarchiv</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsches_Literaturarchiv_Marbach</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsches_Literaturarchiv_Marbach</orgName>
   <desc type="entity_type">Archiv</desc>
   <desc type="entity_type_id">1006</desc>
 <location type="located_in_place">
@@ -19116,7 +19107,7 @@
 </listBibl>
 </org><org xml:id="org__37089">
   <orgName>Dokumentationsarchiv des &#246;sterreichischen Widerstands</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Dokumentationsarchiv_des_%C3%B6sterreichischen_Widerstandes</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Dokumentationsarchiv_des_%C3%B6sterreichischen_Widerstandes</orgName>
   <desc type="entity_type">Archiv</desc>
   <desc type="entity_type_id">1006</desc>
 <location type="located_in_place">
@@ -19241,7 +19232,7 @@
 </listBibl>
 </org><org xml:id="org__36924">
   <orgName>Wiener Stadt- und Landesbibliothek</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wienbibliothek_im_Rathaus</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wienbibliothek_im_Rathaus</orgName>
   <orgName type="alternative-name">Wienbibliothek im Rathaus (seit 2006)</orgName>
   <desc type="entity_type">Bibliothek</desc>
   <desc type="entity_type_id">1007</desc>
@@ -19266,7 +19257,7 @@
 </listBibl>
 </org><org xml:id="org__55758">
   <orgName>Staatsbibliothek Berlin</orgName>
-  <orgName type="namensvariante">Preu&#223;ische Staatsbibliothek</orgName>
+  <orgName type="person-namensvariante">Preu&#223;ische Staatsbibliothek</orgName>
   <desc type="entity_type">Bibliothek</desc>
   <desc type="entity_type_id">1007</desc>
 <location type="located_in_place">
@@ -19287,7 +19278,7 @@
 </listBibl>
 </org><org xml:id="org__62164">
   <orgName>Bayerische Staatsbibliothek</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bayerische_Staatsbibliothek</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bayerische_Staatsbibliothek</orgName>
   <desc type="entity_type">Bibliothek</desc>
   <desc type="entity_type_id">1007</desc>
 <location type="located_in_place">
@@ -19362,7 +19353,7 @@
 </listBibl>
 </org><org xml:id="org__52339">
   <orgName>K&#246;nigliches Museum der Sch&#246;nen K&#252;nste</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/K&#246;nigliches_Museum_der_Sch&#246;nen_K&#252;nste_(Antwerpen)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/K&#246;nigliches_Museum_der_Sch&#246;nen_K&#252;nste_(Antwerpen)</orgName>
   <desc type="entity_type">Museum</desc>
   <desc type="entity_type_id">1009</desc>
 <location type="located_in_place">
@@ -19394,7 +19385,7 @@
   <orgName type="alternative-name">Museo del Louvre</orgName>
   <orgName type="alternative-name">Mus&#233;e de France</orgName>
   <orgName type="alternative-name">Mus&#233;e du Louvre Paris</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Louvre</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Louvre</orgName>
   <desc type="entity_type">Museum</desc>
   <desc type="entity_type_id">1009</desc>
 <location type="located_in_place">
@@ -19619,7 +19610,7 @@
 </note>
 </org><org xml:id="org__88817">
   <orgName>Orchestre municipal des pompiers de Bruxelles</orgName>
-  <orgName type="namensvariante">Orchester der st&#228;dtischen Feuerwehr</orgName>
+  <orgName type="person-namensvariante">Orchester der st&#228;dtischen Feuerwehr</orgName>
   <desc type="entity_type">Orchester</desc>
   <desc type="entity_type_id">1011</desc>
 <location type="located_in_place">
@@ -19780,7 +19771,7 @@
 </org><org xml:id="org__35597">
   <orgName>Deutsches Theater Berlin</orgName>
   <orgName type="alternative-name">Deutsches Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsches_Theater_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsches_Theater_(Berlin)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -19886,7 +19877,7 @@
 </note>
 </org><org xml:id="org__36264">
   <orgName>Jantsch-Theater</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/F&#252;rsttheater</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/F&#252;rsttheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -19920,8 +19911,8 @@
 </listBibl>
 </org><org xml:id="org__36430">
   <orgName>Volkstheater</orgName>
-  <orgName type="namensvariante">Deutsches Volkstheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Volkstheater_(Wien)</orgName>
+  <orgName type="person-namensvariante">Deutsches Volkstheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Volkstheater_(Wien)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -19976,7 +19967,7 @@
 </note>
 </org><org xml:id="org__36893">
   <orgName>Alberttheater (Chemnitz)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/K%C3%B6nig_Albert_Theater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/K%C3%B6nig_Albert_Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -19995,7 +19986,7 @@
 </listBibl>
 </org><org xml:id="org__36922">
   <orgName>Augsburger Stadttheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatstheater_Augsburg</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatstheater_Augsburg</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20018,7 +20009,7 @@
 </listBibl>
 </org><org xml:id="org__36933">
   <orgName>Berliner Metropol Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Metropol-Theater_(Berlin-Mitte)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Metropol-Theater_(Berlin-Mitte)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20049,7 +20040,7 @@
 </listBibl>
 </org><org xml:id="org__36940">
   <orgName>Volksb&#252;hne Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Volksb&#252;hne_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Volksb&#252;hne_Berlin</orgName>
   <orgName type="alternative-name">Theater am B&#252;lowplatz</orgName>
   <orgName type="alternative-name">Theater am Rosa-Luxemburg-Platz</orgName>
   <desc type="entity_type">Theater</desc>
@@ -20120,7 +20111,7 @@
 </listBibl>
 </org><org xml:id="org__37007">
   <orgName>Theater am Zoo (Berlin)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Neues_Theater_am_Zoo</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Neues_Theater_am_Zoo</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20150,7 +20141,7 @@
 </listBibl>
 </org><org xml:id="org__37011">
   <orgName>Theater am Schiffbauerdamm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Theater_am_Schiffbauerdamm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Theater_am_Schiffbauerdamm</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20176,7 +20167,7 @@
 </listBibl>
 </org><org xml:id="org__37014">
   <orgName>Theater am Nollendorfplatz</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Metropol_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Metropol_(Berlin)</orgName>
   <orgName type="alternative-name">Metropol (Berlin)</orgName>
   <orgName type="alternative-name">Neues Schauspielhaus</orgName>
   <orgName type="alternative-name">Goya</orgName>
@@ -20216,7 +20207,7 @@
 </listBibl>
 </org><org xml:id="org__37019">
   <orgName>Thaliatheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Thalia_Theater_(Hamburg)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Thalia_Theater_(Hamburg)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20263,9 +20254,9 @@
 </listBibl>
 </org><org xml:id="org__37029">
   <orgName>Stadttheater Essen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Grillo-Theater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Grillo-Theater</orgName>
   <orgName type="alternative-name">Grillo-Theater</orgName>
-  <orgName type="namensvariante">St&#228;dtische B&#252;hnen Essen</orgName>
+  <orgName type="person-namensvariante">St&#228;dtische B&#252;hnen Essen</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20288,7 +20279,7 @@
 </listBibl>
 </org><org xml:id="org__37033">
   <orgName>St&#228;dtische B&#252;hnen Frankfurt am Main</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/St&#228;dtische_B&#252;hnen_Frankfurt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/St&#228;dtische_B&#252;hnen_Frankfurt</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20317,7 +20308,7 @@
 </listBibl>
 </org><org xml:id="org__37035">
   <orgName>St&#228;dtische B&#252;hnen Dortmund</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Theater_Dortmund</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Theater_Dortmund</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20340,7 +20331,7 @@
 </listBibl>
 </org><org xml:id="org__37041">
   <orgName>Staatstheater Dresden</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsschauspiel_Dresden</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsschauspiel_Dresden</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20364,7 +20355,7 @@
 </listBibl>
 </org><org xml:id="org__37076">
   <orgName>Deutsches K&#252;nstlertheater Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsches_K%C3%BCnstlertheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsches_K%C3%BCnstlertheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20393,7 +20384,7 @@
 </listBibl>
 </org><org xml:id="org__37078">
   <orgName>Deutsches Theater Br&#252;nn</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Br%C3%BCnner_Stadttheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Br%C3%BCnner_Stadttheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20418,8 +20409,8 @@
 </listBibl>
 </org><org xml:id="org__37080">
   <orgName>Neues Deutsches Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/St&#228;ndetheater</orgName>
-  <orgName type="namensvariante">Stavovsk&#233; divadlo</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/St&#228;ndetheater</orgName>
+  <orgName type="person-namensvariante">Stavovsk&#233; divadlo</orgName>
   <orgName type="fruherer_ortsname">Gr&#228;flich Nostitzsches Nationaltheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -20495,7 +20486,7 @@
 </listBibl>
 </org><org xml:id="org__37123">
   <orgName>Renaissance Theater Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Renaissance-Theater_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Renaissance-Theater_(Berlin)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20518,8 +20509,8 @@
 </listBibl>
 </org><org xml:id="org__37126">
   <orgName>Renaissanceb&#252;hne</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Renaissancetheater_(Wien)</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Renaissancetheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Renaissancetheater_(Wien)</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Renaissancetheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20573,7 +20564,7 @@
 </listBibl>
 </org><org xml:id="org__37177">
   <orgName>Kammerspiele Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsches_Theater_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsches_Theater_(Berlin)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20611,7 +20602,7 @@
 </listBibl>
 </org><org xml:id="org__37179">
   <orgName>Kammerspiele Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Kammerspiele</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Kammerspiele</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20690,7 +20681,7 @@
 </listBibl>
 </org><org xml:id="org__37214">
   <orgName>Neue Wiener B&#252;hne</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neue_Wiener_B&#252;hne</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neue_Wiener_B&#252;hne</orgName>
   <orgName type="legacy-name-merge">Neue Wiener B&#252;hne</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -20867,7 +20858,7 @@
 </listBibl>
 </org><org xml:id="org__37549">
   <orgName>Trib&#252;ne</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Trib&#252;ne_(Theater)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Trib&#252;ne_(Theater)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20943,7 +20934,7 @@
 </listBibl>
 </org><org xml:id="org__37683">
   <orgName>Wiener B&#252;rgertheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_B&#252;rgertheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_B&#252;rgertheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20970,7 +20961,7 @@
 </listBibl>
 </org><org xml:id="org__37713">
   <orgName>Kammerspiele Hamburg</orgName>
-  <orgName type="namensvariante">Kleines Schauspielhaus</orgName>
+  <orgName type="person-namensvariante">Kleines Schauspielhaus</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21118,7 +21109,7 @@
 </listBibl>
 </org><org xml:id="org__43426">
   <orgName>Stadttheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Stadttheater_Bern</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Stadttheater_Bern</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21144,7 +21135,7 @@
 </note>
 </org><org xml:id="org__44003">
   <orgName>Astor Theatre</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/Astor_Theatre_(New_York_City)</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/Astor_Theatre_(New_York_City)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21170,7 +21161,7 @@
 </note>
 </org><org xml:id="org__44005">
   <orgName>Guild Theatre</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/August_Wilson_Theatre</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/August_Wilson_Theatre</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21302,7 +21293,7 @@
 </note>
 </org><org xml:id="org__47085">
   <orgName>M&#252;nchner Schauspielhaus</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/M&#252;nchner_Kammerspiele</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/M&#252;nchner_Kammerspiele</orgName>
   <orgName type="alternative-name">Vereinigte Theater (M&#252;nchen, M&#252;nchner Schauspielhaus)</orgName>
   <orgName type="alternative-name">Schauspielhaus (M&#252;nchen, M&#252;nchner Schauspielhaus)</orgName>
   <orgName type="legacy-name-merge">Schauspielhaus M&#252;nchen (Kammerspiele)</orgName>
@@ -21462,7 +21453,6 @@
 </listBibl>
 </org><org xml:id="org__55522">
   <orgName>Schauspielhaus Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schauspielhaus_(Berlin)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21486,7 +21476,7 @@
   <orgName type="alternative-name">Staatsakademie f&#252;r Musik und Darstellende Kunst (Wien). Theater</orgName>
   <orgName type="alternative-name">Theater der Staatsakademie f&#252;r Musik und Darstellende Kunst (Wien)</orgName>
   <orgName type="alternative-name">Akademie f&#252;r Musik und Darstellende Kunst (Wien). Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Akademietheater_(Wien)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Akademietheater_(Wien)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21546,7 +21536,7 @@
 </note>
 </org><org xml:id="org__56518">
   <orgName>Nemzeti Szinhaz (Nationaltheater)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Nationaltheater_(Budapest)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Nationaltheater_(Budapest)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22069,7 +22059,7 @@
 </listBibl>
 </org><org xml:id="org__57712">
   <orgName>Theater Nezlobin</orgName>
-  <orgName type="uri_wikipedia">https://ru.wikipedia.org/wiki/&#1058;&#1077;&#1072;&#1090;&#1088;_&#1053;&#1077;&#1079;&#1083;&#1086;&#1073;&#1080;&#1085;&#1072;</orgName>
+  <orgName type="none">https://ru.wikipedia.org/wiki/&#1058;&#1077;&#1072;&#1090;&#1088;_&#1053;&#1077;&#1079;&#1083;&#1086;&#1073;&#1080;&#1085;&#1072;</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22095,8 +22085,8 @@
 </note>
 </org><org xml:id="org__57806">
   <orgName>Maly-Theater</orgName>
-  <orgName type="namensvariante">Moskauer kaiserliches Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Maly-Theater</orgName>
+  <orgName type="person-namensvariante">Moskauer kaiserliches Theater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Maly-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22122,10 +22112,10 @@
 </note>
 </org><org xml:id="org__57809">
   <orgName>Tschechow-Kunsttheater Moskau</orgName>
-  <orgName type="namensvariante">Moskauer K&#252;nstlertheater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Tschechow-Kunsttheater_Moskau</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Tschechow-Kunsttheater_Moskau</orgName>
-  <orgName type="namensvariante">Tschechow-Kunsttheater</orgName>
+  <orgName type="person-namensvariante">Moskauer K&#252;nstlertheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Tschechow-Kunsttheater_Moskau</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Tschechow-Kunsttheater_Moskau</orgName>
+  <orgName type="person-namensvariante">Tschechow-Kunsttheater</orgName>
   <orgName type="legacy-name-merge">Moskauer K&#252;nstlertheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -22197,7 +22187,7 @@
 </note>
 </org><org xml:id="org__58660">
   <orgName>Betty Nansen-Teatret</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/Betty_Nansen_Teatret</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/Betty_Nansen_Teatret</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22224,7 +22214,7 @@
 </note>
 </org><org xml:id="org__58993">
   <orgName>Det Kongelige Teater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Det_Kongelige_Teater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Det_Kongelige_Teater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22243,10 +22233,10 @@
 </note>
 </org><org xml:id="org__60458">
   <orgName>Neues dramatisches Theater</orgName>
-  <orgName type="namensvariante">&#1053;&#1086;&#1074;&#1099;&#1081; &#1090;&#1077;&#1072;&#1090;&#1088;</orgName>
-  <orgName type="namensvariante">Nowy teatr</orgName>
-  <orgName type="namensvariante">Andrejew Theater</orgName>
-  <orgName type="namensvariante">Novyj dramati&#269;eskij teatr</orgName>
+  <orgName type="person-namensvariante">&#1053;&#1086;&#1074;&#1099;&#1081; &#1090;&#1077;&#1072;&#1090;&#1088;</orgName>
+  <orgName type="person-namensvariante">Nowy teatr</orgName>
+  <orgName type="person-namensvariante">Andrejew Theater</orgName>
+  <orgName type="person-namensvariante">Novyj dramati&#269;eskij teatr</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22328,7 +22318,7 @@
 </listBibl>
 </org><org xml:id="org__61673">
   <orgName>Trianon-Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Trianon-Theater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Trianon-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22352,7 +22342,7 @@
 </note>
 </org><org xml:id="org__61685">
   <orgName>Residenz-Theater Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Residenz-Theater_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Residenz-Theater_(Berlin)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22383,7 +22373,7 @@
 </note>
 </org><org xml:id="org__61746">
   <orgName>Kom&#246;dienhaus (Berlin)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Kom&#246;dienhaus_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Kom&#246;dienhaus_(Berlin)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/61746/</idno>
@@ -22443,7 +22433,7 @@
   <orgName>Dramaten</orgName>
   <orgName type="alternative-name">Dramatiska Teatern</orgName>
   <orgName type="alternative-name">Kungliga Dramatiska Teatern</orgName>
-  <orgName type="uri_wikipedia">https://sv.wikipedia.org/wiki/Dramaten</orgName>
+  <orgName type="none">https://sv.wikipedia.org/wiki/Dramaten</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22492,7 +22482,7 @@
 </listBibl>
 </org><org xml:id="org__62330">
   <orgName>Svenska teatern</orgName>
-  <orgName type="uri_wikipedia">https://sv.wikipedia.org/wiki/Svenska_teatern,_Stockholm</orgName>
+  <orgName type="none">https://sv.wikipedia.org/wiki/Svenska_teatern,_Stockholm</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22519,7 +22509,7 @@
 </note>
 </org><org xml:id="org__62834">
   <orgName>Danzer&#8217;s Orpheum</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Danzers_Orpheum</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Danzers_Orpheum</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22538,9 +22528,9 @@
 </note>
 </org><org xml:id="org__62965">
   <orgName>Lobe-Theater</orgName>
-  <orgName type="namensvariante">Thalia-Theater</orgName>
-  <orgName type="namensvariante">Stadt-Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Lobe-Theater</orgName>
+  <orgName type="person-namensvariante">Thalia-Theater</orgName>
+  <orgName type="person-namensvariante">Stadt-Theater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Lobe-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22560,7 +22550,7 @@
 </note>
 </org><org xml:id="org__63031">
   <orgName>Carl-Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Carltheater</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Carltheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22580,7 +22570,6 @@
 </note>
 </org><org xml:id="org__63620">
   <orgName>Folketeatret</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Folketeatret</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22608,7 +22597,7 @@
 </note>
 </org><org xml:id="org__63904">
   <orgName>N&#225;rodn&#237; divadlo Brno</orgName>
-  <orgName type="namensvariante">Nationaltheater Br&#252;nn</orgName>
+  <orgName type="person-namensvariante">Nationaltheater Br&#252;nn</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22692,8 +22681,7 @@
 </note>
 </org><org xml:id="org__88180">
   <orgName>Rose-Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Rose-Theater</orgName>
-  <orgName type="namensvariante">Carl Wei&#223;-Theater</orgName>
+  <orgName type="person-namensvariante">Carl Wei&#223;-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22732,7 +22720,7 @@
 </listBibl>
 </org><org xml:id="org__88469">
   <orgName>Komissar&#382;evskaja-Theater</orgName>
-  <orgName type="namensvariante">Teatr imeni Komissar&#382;evskoj</orgName>
+  <orgName type="person-namensvariante">Teatr imeni Komissar&#382;evskoj</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22790,7 +22778,6 @@
 </note>
 </org><org xml:id="org__88609">
   <orgName>Th&#233;&#226;tre Libre</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_Libre</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -23082,7 +23069,6 @@
 </listBibl>
 </org><org xml:id="org__36971">
   <orgName>Universal Edition</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Universal_Edition</orgName>
   <desc type="entity_type">Musikalienverlag</desc>
   <desc type="entity_type_id">1013</desc>
 <location type="located_in_place">
@@ -23240,7 +23226,7 @@
 </listBibl>
 </org><org xml:id="org__29397">
   <orgName>Soci&#233;t&#233; des Auteurs et Compositeurs Dramatiques</orgName>
-  <orgName type="uri_wikipedia">https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_auteurs_et_compositeurs_dramatiques</orgName>
+  <orgName type="none">https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_auteurs_et_compositeurs_dramatiques</orgName>
   <desc type="entity_type">Autorenverband</desc>
   <desc type="entity_type_id">1015</desc>
 <location type="located_in_place">
@@ -23266,8 +23252,8 @@
 </note>
 </org><org xml:id="org__37131">
   <orgName>Gemeinschaft dramatischer Schriftsteller und Komponisten (&#214;sterreich)</orgName>
-  <orgName type="namensvariante">Verband der &#246;sterreichischen B&#252;hnenschriftsteller</orgName>
-  <orgName type="namensvariante">Genossenschaft Dramatischer Schriftsteller und Komponisten</orgName>
+  <orgName type="person-namensvariante">Verband der &#246;sterreichischen B&#252;hnenschriftsteller</orgName>
+  <orgName type="person-namensvariante">Genossenschaft Dramatischer Schriftsteller und Komponisten</orgName>
   <desc type="entity_type">Autorenverband</desc>
   <desc type="entity_type_id">1015</desc>
 <location type="located_in_place">
@@ -23319,7 +23305,7 @@
 </listBibl>
 </org><org xml:id="org__58975">
   <orgName>Dansk forfatterforening</orgName>
-  <orgName type="uri_wikipedia">https://da.wikipedia.org/wiki/Dansk_Forfatterforening</orgName>
+  <orgName type="none">https://da.wikipedia.org/wiki/Dansk_Forfatterforening</orgName>
   <desc type="entity_type">Autorenverband</desc>
   <desc type="entity_type_id">1015</desc>
 <location type="located_in_place">
@@ -23355,7 +23341,7 @@
 </listBibl>
 </org><org xml:id="org__37163">
   <orgName>Atelier Jo&#235;l-Heinzelmann</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Charlotte_Jo%C3%ABl</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Charlotte_Jo%C3%ABl</orgName>
   <desc type="entity_type">Fotoatelier</desc>
   <desc type="entity_type_id">1016</desc>
 <location type="located_in_place">
@@ -23448,7 +23434,7 @@
 </note>
 </org><org xml:id="org__29752">
   <orgName>Concordia</orgName>
-  <orgName type="uri_worklink">https://concordia.at/</orgName>
+  <orgName type="werk-werklink">https://concordia.at/</orgName>
   <orgName type="legacy-name-merge">Concordia Presseverein</orgName>
   <desc type="entity_type">Verein &gt;&gt; Schriftstellerverein</desc>
   <desc type="entity_type_id">1017</desc>
@@ -23501,7 +23487,7 @@
 </listBibl>
 </org><org xml:id="org__37125">
   <orgName>Funk-Stunde Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Funk-Stunde_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Funk-Stunde_Berlin</orgName>
   <desc type="entity_type">Rundfunkgesellschaft</desc>
   <desc type="entity_type_id">1018</desc>
 <location type="located_in_place">
@@ -23565,7 +23551,7 @@
 </listBibl>
 </org><org xml:id="org__62251">
   <orgName>Wiener Rundfunk</orgName>
-  <orgName type="namensvariante">Radio Wien</orgName>
+  <orgName type="person-namensvariante">Radio Wien</orgName>
   <desc type="entity_type">Rundfunkgesellschaft</desc>
   <desc type="entity_type_id">1018</desc>
 <location type="located_in_place">
@@ -23881,7 +23867,7 @@
 </listBibl>
 </org><org xml:id="org__51413">
   <orgName>Buchhandlung und Verlag Eduard H&#246;llrigel</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Eduard_H&#246;llrigl</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Eduard_H&#246;llrigl</orgName>
   <desc type="entity_type">Buchhandlung</desc>
   <desc type="entity_type_id">1020</desc>
 <location type="located_in_place">
@@ -24014,7 +24000,7 @@
 </listBibl>
 </org><org xml:id="org__36950">
   <orgName>Bund der Antisemiten</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Antisemitenliga</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Antisemitenliga</orgName>
   <desc type="entity_type">Politische Vereinigung</desc>
   <desc type="entity_type_id">1022</desc>
 <location type="located_in_place">
@@ -24135,7 +24121,7 @@
 </note>
 </org><org xml:id="org__57953">
   <orgName>Sozialdemokratische Partei Deutschlands (SPD)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands</orgName>
   <desc type="entity_type">Politische Vereinigung</desc>
   <desc type="entity_type_id">1022</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57953/</idno>
@@ -24149,7 +24135,7 @@
 </note>
 </org><org xml:id="org__57957">
   <orgName>Deutsche Sozialdemokratische Arbeiterpartei in der Tschechoslowakischen Republik (DSAP)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsche_sozialdemokratische_Arbeiterpartei_in_der_Tschechoslowakischen_Republik</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsche_sozialdemokratische_Arbeiterpartei_in_der_Tschechoslowakischen_Republik</orgName>
   <desc type="entity_type">Politische Vereinigung</desc>
   <desc type="entity_type_id">1022</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/57957/</idno>
@@ -24191,7 +24177,7 @@
 </note>
 </org><org xml:id="org__59968">
   <orgName>Republikanischer Schutzbund</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Republikanischer_Schutzbund</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Republikanischer_Schutzbund</orgName>
   <desc type="entity_type">Politische Vereinigung</desc>
   <desc type="entity_type_id">1022</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59968/</idno>
@@ -24276,7 +24262,7 @@
 </listBibl>
 </org><org xml:id="org__29482">
   <orgName>Studentersamfundet</orgName>
-  <orgName type="uri_wikipedia">https://da.wikipedia.org/wiki/Studentersamfundet</orgName>
+  <orgName type="none">https://da.wikipedia.org/wiki/Studentersamfundet</orgName>
   <desc type="entity_type">Verein &gt;&gt; Studierenvereinigung</desc>
   <desc type="entity_type_id">1024</desc>
 <location type="located_in_place">
@@ -24402,7 +24388,7 @@
 </listBibl>
 </org><org xml:id="org__42889">
   <orgName>The New York Society for the Suppression of Vice</orgName>
-  <orgName type="uri_wikipedia">https://en.wikipedia.org/wiki/New_York_Society_for_the_Suppression_of_Vice</orgName>
+  <orgName type="none">https://en.wikipedia.org/wiki/New_York_Society_for_the_Suppression_of_Vice</orgName>
   <desc type="entity_type">Vereinigung</desc>
   <desc type="entity_type_id">1027</desc>
 <location type="located_in_place">
@@ -24428,7 +24414,7 @@
 </note>
 </org><org xml:id="org__44439">
   <orgName>Wiener psychoanalytische Vereinigung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Psychoanalytische_Vereinigung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Psychoanalytische_Vereinigung</orgName>
   <desc type="entity_type">Vereinigung</desc>
   <desc type="entity_type_id">1027</desc>
 <location type="located_in_place">
@@ -24510,7 +24496,7 @@
 </listBibl>
 </org><org xml:id="org__57458">
   <orgName>N&#225;rodn&#237; knihovna &#268;esk&#233; republiky (Nationalbibliothek der Tschechischen Republik)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Nationalbibliothek_der_Tschechischen_Republik</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Nationalbibliothek_der_Tschechischen_Republik</orgName>
   <desc type="entity_type">Nationalbibliothek</desc>
   <desc type="entity_type_id">1029</desc>
 <location type="located_in_place">
@@ -24590,9 +24576,9 @@
 </listBibl>
 </org><org xml:id="org__60121">
   <orgName>Ethische Gesellschaft</orgName>
-  <orgName type="namensvariante">Wiener Ethische Gesellschaft</orgName>
-  <orgName type="namensvariante">Ethische Gemeinde</orgName>
-  <orgName type="namensvariante">Gesellschaft f&#252;r Ethische Kultur</orgName>
+  <orgName type="person-namensvariante">Wiener Ethische Gesellschaft</orgName>
+  <orgName type="person-namensvariante">Ethische Gemeinde</orgName>
+  <orgName type="person-namensvariante">Gesellschaft f&#252;r Ethische Kultur</orgName>
   <desc type="entity_type">Verein &gt;&gt; Gelehrtenvereinigung</desc>
   <desc type="entity_type_id">1031</desc>
 <location type="located_in_place">
@@ -24757,7 +24743,7 @@
 </listBibl>
 </org><org xml:id="org__57503">
   <orgName>Karls-Universit&#228;t Prag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Karls-Universit%C3%A4t</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Karls-Universit%C3%A4t</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t</desc>
   <desc type="entity_type_id">1032</desc>
 <location type="located_in_place">
@@ -24811,7 +24797,7 @@
   <orgName type="alternative-name">K.K. Akademie Bildender K&#252;nste</orgName>
   <orgName type="alternative-name">Oesterreichisch-Kaiserliche Akademie der Vereinigten Bildenden K&#252;nste</orgName>
   <orgName type="alternative-name">Kaiserliche K&#246;nigliche Akademie der Bildenden K&#252;nste (Wien)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Akademie_der_bildenden_K%C3%BCnste_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Akademie_der_bildenden_K%C3%BCnste_Wien</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t</desc>
   <desc type="entity_type_id">1032</desc>
 <location type="located_in_place">
@@ -24837,8 +24823,8 @@
 </note>
 </org><org xml:id="org__62254">
   <orgName>Johann Wolfgang Goethe-Universit&#228;t Frankfurt am Main</orgName>
-  <orgName type="namensvariante">Universit&#228;t Frankfurt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Johann_Wolfgang_Goethe-Universit&#228;t_Frankfurt_am_Main</orgName>
+  <orgName type="person-namensvariante">Universit&#228;t Frankfurt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Johann_Wolfgang_Goethe-Universit&#228;t_Frankfurt_am_Main</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t</desc>
   <desc type="entity_type_id">1032</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62254/</idno>
@@ -24877,7 +24863,7 @@
 </note>
 </org><org xml:id="org__63833">
   <orgName>Universit&#228;t f&#252;r Musik und darstellende Kunst Wien</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/index.php?title=Universit%C3%A4t_f%C3%BCr_Musik_und_darstellende_Kunst_Wien</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/index.php?title=Universit%C3%A4t_f%C3%BCr_Musik_und_darstellende_Kunst_Wien</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t</desc>
   <desc type="entity_type_id">1032</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63833/</idno>
@@ -24887,7 +24873,6 @@
 </listBibl>
 </org><org xml:id="org__64017">
   <orgName>University of Exeter</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/University_of_Exeter</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t</desc>
   <desc type="entity_type_id">1032</desc>
 <location type="located_in_place">
@@ -25076,7 +25061,7 @@
 </listBibl>
 </org><org xml:id="org__37159">
   <orgName>Jahoda &amp; Siegel (Druckerei)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Druckerei_Jahoda_%26_Siegel</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Druckerei_Jahoda_%26_Siegel</orgName>
   <desc type="entity_type">Druckerei</desc>
   <desc type="entity_type_id">1036</desc>
 <location type="located_in_place">
@@ -25336,7 +25321,7 @@
 </listBibl>
 </org><org xml:id="org__36362">
   <orgName>Amtsgericht Berlin-Charlottenburg</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_Charlottenburg</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amtsgericht_Charlottenburg</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25371,7 +25356,7 @@
 </note>
 </org><org xml:id="org__36735">
   <orgName>Amtsgericht Berlin-Mitte</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_Mitte</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amtsgericht_Mitte</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25415,7 +25400,7 @@
 </listBibl>
 </org><org xml:id="org__36755">
   <orgName>Amtsgericht Frankfurt am Main</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_Frankfurt_am_Main</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amtsgericht_Frankfurt_am_Main</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25450,7 +25435,7 @@
 </listBibl>
 </org><org xml:id="org__36757">
   <orgName>Amtsgericht Hamburg</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_Hamburg</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amtsgericht_Hamburg</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25477,7 +25462,7 @@
 </listBibl>
 </org><org xml:id="org__36759">
   <orgName>Amtsgericht Leipzig</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_Leipzig</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amtsgericht_Leipzig</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25508,7 +25493,7 @@
 </listBibl>
 </org><org xml:id="org__36761">
   <orgName>Amtsgericht M&#252;nchen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Amtsgericht_M&#252;nchen</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Amtsgericht_M&#252;nchen</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25571,7 +25556,7 @@
 </listBibl>
 </org><org xml:id="org__36771">
   <orgName>Bayrisches Oberstes Landesgericht</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bayerisches_Oberstes_Landesgericht</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bayerisches_Oberstes_Landesgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25619,7 +25604,7 @@
 </listBibl>
 </org><org xml:id="org__36781">
   <orgName>Bezirksgericht Linz</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landesgericht_Linz</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landesgericht_Linz</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25694,7 +25679,7 @@
 </listBibl>
 </org><org xml:id="org__36786">
   <orgName>Bezirksgericht Zuckmantl</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Liste_der_Gerichtsbezirke_in_Schlesien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Liste_der_Gerichtsbezirke_in_Schlesien</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25713,7 +25698,7 @@
 </listBibl>
 </org><org xml:id="org__36788">
   <orgName>Bezirksgericht Wien Innere Stadt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Liste_%C3%B6sterreichischer_Gerichte</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Liste_%C3%B6sterreichischer_Gerichte</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25754,7 +25739,7 @@
 </listBibl>
 </org><org xml:id="org__36791">
   <orgName>Bezirksgericht Wien Margareten</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Margareten</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Margareten</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25845,7 +25830,7 @@
 </listBibl>
 </org><org xml:id="org__36801">
   <orgName>Exekutionsgericht Wien</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Exekutionsgericht</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Exekutionsgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25876,7 +25861,7 @@
 </listBibl>
 </org><org xml:id="org__36813">
   <orgName>Handelsbezirksgericht Prag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Handels-_und_Gewerbekammer_Prag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Handels-_und_Gewerbekammer_Prag</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25907,7 +25892,7 @@
 </listBibl>
 </org><org xml:id="org__36815">
   <orgName>Kammergericht Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Kammergericht</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Kammergericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25933,7 +25918,7 @@
 </listBibl>
 </org><org xml:id="org__36818">
   <orgName>Kreis-Strafgericht Br&#252;nn</orgName>
-  <orgName type="namensvariante">Strafkreisgericht</orgName>
+  <orgName type="person-namensvariante">Strafkreisgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25958,7 +25943,7 @@
 </listBibl>
 </org><org xml:id="org__36820">
   <orgName>Kreis-Strafgericht Leitmeritz</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Gerichtsbezirk_Wegst%C3%A4dtl</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Gerichtsbezirk_Wegst%C3%A4dtl</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -25987,7 +25972,7 @@
 </listBibl>
 </org><org xml:id="org__36822">
   <orgName>Kreis-Strafgericht Prag</orgName>
-  <orgName type="namensvariante">Strafkreisgericht</orgName>
+  <orgName type="person-namensvariante">Strafkreisgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26036,7 +26021,7 @@
 </listBibl>
 </org><org xml:id="org__36828">
   <orgName>Landgericht Hamburg</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_Hamburg</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_Hamburg</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26063,7 +26048,7 @@
 </listBibl>
 </org><org xml:id="org__36832">
   <orgName>Landgericht I Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26099,7 +26084,7 @@
 </listBibl>
 </org><org xml:id="org__36834">
   <orgName>Landgericht III Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26128,7 +26113,7 @@
 </listBibl>
 </org><org xml:id="org__36836">
   <orgName>Landgericht I M&#252;nchen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_M%C3%BCnchen_I</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_M%C3%BCnchen_I</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26150,7 +26135,7 @@
 </listBibl>
 </org><org xml:id="org__36838">
   <orgName>Landgericht N&#252;rnberg</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_N%C3%BCrnberg</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_N%C3%BCrnberg</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26184,7 +26169,7 @@
 </listBibl>
 </org><org xml:id="org__36842">
   <orgName>Landesgericht f&#252;r Strafsachen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landesgericht_f%C3%BCr_Strafsachen_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landesgericht_f%C3%BCr_Strafsachen_Wien</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26225,7 +26210,7 @@
 </listBibl>
 </org><org xml:id="org__36844">
   <orgName>Landesgericht f&#252;r Zivilrechtssachen Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landesgericht_f%C3%BCr_Zivilrechtssachen_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landesgericht_f%C3%BCr_Zivilrechtssachen_Wien</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26266,7 +26251,7 @@
 </listBibl>
 </org><org xml:id="org__36846">
   <orgName>Oberlandesgericht Hamburg</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hanseatisches_Oberlandesgericht</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Hanseatisches_Oberlandesgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26321,7 +26306,7 @@
 </listBibl>
 </org><org xml:id="org__36850">
   <orgName>Oberlandesgericht Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Oberlandesgericht_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Oberlandesgericht_Wien</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26363,7 +26348,7 @@
 </listBibl>
 </org><org xml:id="org__36854">
   <orgName>Oberster Gerichts- und Kassationshof</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Oberster_Gerichtshof</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Oberster_Gerichtshof</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26387,7 +26372,7 @@
 </listBibl>
 </org><org xml:id="org__36856">
   <orgName>Oberster Gerichtshof</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Oberster_Gerichtshof_(%C3%96sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Oberster_Gerichtshof_(%C3%96sterreich)</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26411,7 +26396,7 @@
 </listBibl>
 </org><org xml:id="org__36858">
   <orgName>Oberstes Landesgericht M&#252;nchen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bayerisches_Oberstes_Landesgericht</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bayerisches_Oberstes_Landesgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26563,7 +26548,7 @@
 </listBibl>
 </org><org xml:id="org__50491">
   <orgName>Strafbezirksgericht I</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_Josefstadt</orgName>
   <orgName type="legacy-name-merge">Strafbezirksgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
@@ -26745,7 +26730,7 @@
 </listBibl>
 </org><org xml:id="org__54803">
   <orgName>Bezirksgericht Wien F&#252;nfhaus</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_F%C3%BCnfhaus</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Bezirksgericht_F%C3%BCnfhaus</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54803/</idno>
@@ -26954,7 +26939,7 @@
 </listBibl>
 </org><org xml:id="org__57072">
   <orgName>Oberb&#252;hnenschiedsgericht</orgName>
-  <orgName type="namensvariante">Oberschiedsgericht</orgName>
+  <orgName type="person-namensvariante">Oberschiedsgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -27272,7 +27257,7 @@
 </listBibl>
 </org><org xml:id="org__60302">
   <orgName>Bezirksgericht Pohrlitz</orgName>
-  <orgName type="namensvariante">Bezirksgericht Poho&#345;elice</orgName>
+  <orgName type="person-namensvariante">Bezirksgericht Poho&#345;elice</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -27389,7 +27374,7 @@
 </listBibl>
 </org><org xml:id="org__37047">
   <orgName>Sozialdemokratische Kunststelle</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Sozialdemokratische_Kunststelle</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Sozialdemokratische_Kunststelle</orgName>
   <desc type="entity_type">Verein &gt;&gt; Verein f&#252;r Kunstpflege</desc>
   <desc type="entity_type_id">1038</desc>
 <location type="located_in_place">
@@ -27578,7 +27563,7 @@
 </listBibl>
 </org><org xml:id="org__37268">
   <orgName>Bayrische Staatszeitung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bayerische_Staatszeitung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bayerische_Staatszeitung</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27601,7 +27586,7 @@
 </listBibl>
 </org><org xml:id="org__37270">
   <orgName>Berliner B&#246;rsen Zeitung</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Berliner_B&#246;rsen-Zeitung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Berliner_B&#246;rsen-Zeitung</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27624,7 +27609,7 @@
 </listBibl>
 </org><org xml:id="org__37271">
   <orgName>Berliner Lokalanzeiger</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Berliner_Lokal-Anzeiger</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Berliner_Lokal-Anzeiger</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27668,7 +27653,7 @@
 </listBibl>
 </org><org xml:id="org__37332">
   <orgName>Frankfurter Generalanzeiger</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Frankfurter_General-Anzeiger</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Frankfurter_General-Anzeiger</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27759,7 +27744,7 @@
 </listBibl>
 </org><org xml:id="org__37344">
   <orgName>Hamburger Fremdenblatt</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hamburger_Fremdenblatt</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Hamburger_Fremdenblatt</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27785,7 +27770,7 @@
 </listBibl>
 </org><org xml:id="org__37346">
   <orgName>Hamburger Nachrichten</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hamburger_Nachrichten</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Hamburger_Nachrichten</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27816,8 +27801,8 @@
 </listBibl>
 </org><org xml:id="org__37384">
   <orgName>Das kleine Blatt</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/dkb_info.htm</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Das_Kleine_Blatt</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/dkb_info.htm</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Das_Kleine_Blatt</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -27846,7 +27831,7 @@
 </listBibl>
 </org><org xml:id="org__37397">
   <orgName>Vorw&#228;rts Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Vorw&#228;rts_(Deutschland)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Vorw&#228;rts_(Deutschland)</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -28097,8 +28082,8 @@
 </listBibl>
 </org><org xml:id="org__37560">
   <orgName>Wiener Mittags-Zeitung</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Mittags-Zeitung</orgName>
-  <orgName type="namensvariante">Wiener Mittagszeitung</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Mittags-Zeitung</orgName>
+  <orgName type="person-namensvariante">Wiener Mittagszeitung</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -28126,7 +28111,7 @@
 </listBibl>
 </org><org xml:id="org__37563">
   <orgName>Wiener Mittagsblatt</orgName>
-  <orgName type="uri_anno">http://anno.onb.ac.at/info/wm2_info.htm</orgName>
+  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wm2_info.htm</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -28300,7 +28285,7 @@
 </note>
 </org><org xml:id="org__62210">
   <orgName>Kungliga Musikaliska Akademien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/K&#246;niglich_Schwedische_Musikakademie</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/K&#246;niglich_Schwedische_Musikakademie</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Akademie der K&#252;nste</desc>
   <desc type="entity_type_id">1040</desc>
 <location type="located_in_place">
@@ -28418,7 +28403,7 @@
 </note>
 </org><org xml:id="org__51868">
   <orgName>Cabaret Fledermaus</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Cabaret_Fledermaus</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Cabaret_Fledermaus</orgName>
   <desc type="entity_type">Kabarett</desc>
   <desc type="entity_type_id">1042</desc>
 <location type="located_in_place">
@@ -28467,6 +28452,34 @@
 </listBibl>
 <note type="apis_dates">
 <date>1906-01-05  &#8211; vor Ende 1907&lt;1907-12-31&gt;</date>
+</note>
+</org><org xml:id="org__117961">
+  <orgName>Le Chat Noir</orgName>
+  <orgName type="alternative-name">Chat Noir</orgName>
+  <orgName type="alternative-name">Th&#233;&#226;tre Chat-Noir</orgName>
+  <orgName type="alternative-name">Cabaret Chat-Noir</orgName>
+  <desc type="entity_type">Kabarett</desc>
+  <desc type="entity_type_id">1042</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48.85341 2.3488</geo>
+  <note type="IDNO" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb182.html</note>
+  <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64183/</note>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2988507/</note>
+  <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+  <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb182.html</note>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/117961/</idno>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4283522-7</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1138922</idno>
+<listBibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1881-01-01" to-iso="1881-12-31">1881  &#8211; 1897</date>
 </note>
 </org><org xml:id="org__29783">
   <orgName>Vorw&#228;rts</orgName>
@@ -28670,7 +28683,7 @@
 </listBibl>
 </org><org xml:id="org__35053">
   <orgName>Lessing-Theater</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Lessingtheater_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Lessingtheater_(Berlin)</orgName>
   <desc type="entity_type">Theaterunternehmen</desc>
   <desc type="entity_type_id">1047</desc>
 <location type="located_in_place">
@@ -28737,7 +28750,7 @@
 </note>
 </org><org xml:id="org__37039">
   <orgName>Stachelbeere (Kleinkunstb&#252;hne)</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Die_Stachelbeere</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Die_Stachelbeere</orgName>
   <desc type="entity_type">Theaterunternehmen</desc>
   <desc type="entity_type_id">1047</desc>
 <location type="located_in_place">
@@ -28827,7 +28840,7 @@
 </note>
 </org><org xml:id="org__45417">
   <orgName>Reinhardt-B&#252;hnen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Reinhardt-B&#252;hnen</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Reinhardt-B&#252;hnen</orgName>
   <desc type="entity_type">Theaterunternehmen</desc>
   <desc type="entity_type_id">1047</desc>
 <location type="located_in_place">
@@ -28894,7 +28907,7 @@
 </note>
 </org><org xml:id="org__52610">
   <orgName>Bundestheaterkassen</orgName>
-  <orgName type="namensvariante">Staatstheaterkassen</orgName>
+  <orgName type="person-namensvariante">Staatstheaterkassen</orgName>
   <desc type="entity_type">Theaterunternehmen</desc>
   <desc type="entity_type_id">1047</desc>
 <location type="located_in_place">
@@ -28921,7 +28934,7 @@
 </listBibl>
 </org><org xml:id="org__56528">
   <orgName>Lustspielhaus (Berlin)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Lustspielhaus_(Berlin)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Lustspielhaus_(Berlin)</orgName>
   <desc type="entity_type">Theaterunternehmen</desc>
   <desc type="entity_type_id">1047</desc>
 <location type="located_in_place">
@@ -29121,7 +29134,7 @@
 </note>
 </org><org xml:id="org__63444">
   <orgName>Weltausstellung 1873</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Weltausstellung_1873</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Weltausstellung_1873</orgName>
   <desc type="entity_type">Ausstellung</desc>
   <desc type="entity_type_id">1127</desc>
 <location type="located_in_place">
@@ -29236,7 +29249,7 @@
 </listBibl>
 </org><org xml:id="org__36799">
   <orgName>Bundespolizeidirektion Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundespolizeidirektion_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundespolizeidirektion_Wien</orgName>
   <desc type="entity_type">Polizeibeh&#246;rde</desc>
   <desc type="entity_type_id">1240</desc>
 <location type="located_in_place">
@@ -29308,7 +29321,7 @@
 </listBibl>
 </org><org xml:id="org__36865">
   <orgName>Polizeidirektion Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundespolizeidirektion_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundespolizeidirektion_Wien</orgName>
   <desc type="entity_type">Polizeibeh&#246;rde</desc>
   <desc type="entity_type_id">1240</desc>
 <location type="located_in_place">
@@ -29537,8 +29550,8 @@
 </listBibl>
 </org><org xml:id="org__56813">
   <orgName>Geheime Staatspolizei</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Geheime_Staatspolizei</orgName>
-  <orgName type="namensvariante">Gestapo</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Geheime_Staatspolizei</orgName>
+  <orgName type="person-namensvariante">Gestapo</orgName>
   <desc type="entity_type">Polizeibeh&#246;rde</desc>
   <desc type="entity_type_id">1240</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56813/</idno>
@@ -29694,7 +29707,7 @@
 </listBibl>
 </org><org xml:id="org__36805">
   <orgName>Generalprokuratur (&#214;sterreich)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
   <desc type="entity_type_id">1242</desc>
 <location type="located_in_place">
@@ -29732,7 +29745,7 @@
 </listBibl>
 </org><org xml:id="org__36808">
   <orgName>Generalstaatsanwaltschaft Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsanwaltschaft_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsanwaltschaft_Berlin</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
   <desc type="entity_type_id">1242</desc>
 <location type="located_in_place">
@@ -29765,7 +29778,7 @@
 </listBibl>
 </org><org xml:id="org__36830">
   <orgName>Landesgericht I Berlin (Generalstaatsanwaltschaft)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Landgericht_Berlin</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
   <desc type="entity_type_id">1242</desc>
 <location type="located_in_place">
@@ -29796,7 +29809,7 @@
 </listBibl>
 </org><org xml:id="org__36840">
   <orgName>Landesgericht f&#252;r Strafsachen (Staatsanwaltschaft)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
   <desc type="entity_type_id">1242</desc>
 <location type="located_in_place">
@@ -29858,7 +29871,7 @@
 </listBibl>
 </org><org xml:id="org__36867">
   <orgName>Staatsanwaltschaft Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsanwaltschaft_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsanwaltschaft_Berlin</orgName>
   <desc type="entity_type">Staatsanwaltschaft</desc>
   <desc type="entity_type_id">1242</desc>
 <location type="located_in_place">
@@ -30074,7 +30087,7 @@
 </listBibl>
 </org><org xml:id="org__37023">
   <orgName>Deutsche Wandervogel Schule</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wandervogel</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wandervogel</orgName>
   <desc type="entity_type">Schule</desc>
   <desc type="entity_type_id">1330</desc>
 <location type="located_in_place">
@@ -30194,7 +30207,7 @@
   <orgName type="alternative-name">Akademisches Staatsgymnasium</orgName>
   <orgName type="alternative-name">Akademisches Gymnasium in Wien</orgName>
   <orgName type="alternative-name">Wiener Akademisches Gymnasium</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Akademisches_Gymnasium_(Wien)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Akademisches_Gymnasium_(Wien)</orgName>
   <desc type="entity_type">Schule</desc>
   <desc type="entity_type_id">1330</desc>
 <location type="located_in_place">
@@ -30298,7 +30311,7 @@
 </listBibl>
 </org><org xml:id="org__56082">
   <orgName>Schottengymnasium</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schottengymnasium</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Schottengymnasium</orgName>
   <desc type="entity_type">Schule</desc>
   <desc type="entity_type_id">1330</desc>
 <location type="located_in_place">
@@ -30457,7 +30470,7 @@
 </listBibl>
 </org><org xml:id="org__39962">
   <orgName>Kyriazi Fr&#232;res</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Kyriazi</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Kyriazi</orgName>
   <desc type="entity_type">Tabak- und Zigarettenhersteller</desc>
   <desc type="entity_type_id">1345</desc>
 <location type="located_in_place">
@@ -30487,7 +30500,7 @@
 </org><org xml:id="org__40016">
   <orgName>Wiener Werkst&#228;tte</orgName>
   <orgName type="alternative-name">Wiener Werkst&#228;tten</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Werkst&#228;tte</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Werkst&#228;tte</orgName>
   <desc type="entity_type">Produktionsgemeinschaft</desc>
   <desc type="entity_type_id">1353</desc>
 <location type="located_in_place">
@@ -30575,7 +30588,7 @@
 </listBibl>
 </org><org xml:id="org__40227">
   <orgName>Schenker &amp; Co.</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schenker_AG</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Schenker_AG</orgName>
   <desc type="entity_type">Spedition</desc>
   <desc type="entity_type_id">1359</desc>
 <location type="located_in_place">
@@ -30716,7 +30729,7 @@
 </listBibl>
 </org><org xml:id="org__41229">
   <orgName>Westbahnstrecke</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Westbahn_(&#214;sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Westbahn_(&#214;sterreich)</orgName>
   <desc type="entity_type">Eisenbahnstrecke</desc>
   <desc type="entity_type_id">1372</desc>
 <location type="located_in_place">
@@ -30742,7 +30755,7 @@
 </note>
 </org><org xml:id="org__41943">
   <orgName>S&#252;dbahnstrecke</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/S&#252;dbahn_(&#214;sterreich)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/S&#252;dbahn_(&#214;sterreich)</orgName>
   <desc type="entity_type">Eisenbahnstrecke</desc>
   <desc type="entity_type_id">1372</desc>
 <location type="located_in_place">
@@ -30768,7 +30781,7 @@
 </note>
 </org><org xml:id="org__43044">
   <orgName>&#220;beretscher Bahn</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/&#220;beretscher_Bahn</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/&#220;beretscher_Bahn</orgName>
   <desc type="entity_type">Eisenbahnstrecke</desc>
   <desc type="entity_type_id">1372</desc>
 <location type="located_in_place">
@@ -30819,7 +30832,7 @@
 </note>
 </org><org xml:id="org__37715">
   <orgName>Karolinen-Kinderspital</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Karolinen-Kinderspital</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Karolinen-Kinderspital</orgName>
   <desc type="entity_type">Krankenhaus</desc>
   <desc type="entity_type_id">1375</desc>
 <location type="located_in_place">
@@ -30840,7 +30853,7 @@
 </listBibl>
 </org><org xml:id="org__41367">
   <orgName>Allgemeine Poliklinik</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Allgemeine_Poliklinik_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Allgemeine_Poliklinik_Wien</orgName>
   <desc type="entity_type">Krankenhaus</desc>
   <desc type="entity_type_id">1375</desc>
 <location type="located_in_place">
@@ -30871,7 +30884,7 @@
 </note>
 </org><org xml:id="org__45285">
   <orgName>Cottage-Sanatorium f&#252;r Nerven- und Stoffwechselkranke</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Cottage-Sanatorium_f&#252;r_Nerven-_und_Stoffwechselkranke</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Cottage-Sanatorium_f&#252;r_Nerven-_und_Stoffwechselkranke</orgName>
   <desc type="entity_type">Krankenhaus</desc>
   <desc type="entity_type_id">1375</desc>
 <location type="located_in_place">
@@ -30933,7 +30946,7 @@
 </note>
 </org><org xml:id="org__52449">
   <orgName>Sanatorium Purkersdorf</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Sanatorium_Purkersdorf</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Sanatorium_Purkersdorf</orgName>
   <desc type="entity_type">Krankenhaus</desc>
   <desc type="entity_type_id">1375</desc>
 <location type="located_in_place">
@@ -31024,7 +31037,7 @@
 </listBibl>
 </org><org xml:id="org__92634">
   <orgName>Reserve-Spital Seefeld</orgName>
-  <orgName type="namensvariante">Offiziersspital</orgName>
+  <orgName type="person-namensvariante">Offiziersspital</orgName>
   <desc type="entity_type">Krankenhaus</desc>
   <desc type="entity_type_id">1375</desc>
 <location type="located_in_place">
@@ -31098,7 +31111,7 @@
 </listBibl>
 </org><org xml:id="org__36931">
   <orgName>Wiener freiwillige Rettungsgesellschaft</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Freiwillige_Rettungsgesellschaft</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Freiwillige_Rettungsgesellschaft</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31131,7 +31144,7 @@
 </note>
 </org><org xml:id="org__37020">
   <orgName>Deutsche Rote Hilfe Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Rote_Hilfe_Deutschlands</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Rote_Hilfe_Deutschlands</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31220,7 +31233,7 @@
 </listBibl>
 </org><org xml:id="org__37389">
   <orgName>Blindenheim f&#252;r israelitische M&#228;dchen</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Israelitisches_Blindeninstitut</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Israelitisches_Blindeninstitut</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31330,7 +31343,7 @@
 </listBibl>
 </org><org xml:id="org__37442">
   <orgName>Deutsche Kriegsblinde</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bund_der_Kriegsblinden_Deutschlands</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bund_der_Kriegsblinden_Deutschlands</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31353,7 +31366,7 @@
 </listBibl>
 </org><org xml:id="org__37531">
   <orgName>Die Rote Hilfe (Wien)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/&#214;sterreichische_Rote_Hilfe</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/&#214;sterreichische_Rote_Hilfe</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31461,7 +31474,7 @@
 </listBibl>
 </org><org xml:id="org__37618">
   <orgName>Haus der Barmherzigkeit zur Pflege Unheilbarer</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Haus_der_Barmherzigkeit</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Haus_der_Barmherzigkeit</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31840,7 +31853,7 @@
 </listBibl>
 </org><org xml:id="org__43466">
   <orgName>Internationales Komitee vom Roten Kreuz</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31943,9 +31956,9 @@
 </note>
 </org><org xml:id="org__62529">
   <orgName>R&#228;dda Barnen</orgName>
-  <orgName type="namensvariante">Rettet die Kinder</orgName>
-  <orgName type="namensvariante">Save the Children</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/R&#228;dda_Barnen</orgName>
+  <orgName type="person-namensvariante">Rettet die Kinder</orgName>
+  <orgName type="person-namensvariante">Save the Children</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/R&#228;dda_Barnen</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
 <location type="located_in_place">
@@ -31972,7 +31985,7 @@
 </note>
 </org><org xml:id="org__34272">
   <orgName>Orientalische Akademie</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Orientalische_Akademie</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Orientalische_Akademie</orgName>
   <desc type="entity_type">Hochschule</desc>
   <desc type="entity_type_id">1420</desc>
 <location type="located_in_place">
@@ -31995,7 +32008,7 @@
 </note>
 </org><org xml:id="org__37003">
   <orgName>Coll&#233;ge de France</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Coll%C3%A8ge_de_France</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Coll%C3%A8ge_de_France</orgName>
   <desc type="entity_type">Hochschule</desc>
   <desc type="entity_type_id">1420</desc>
 <location type="located_in_place">
@@ -32018,7 +32031,7 @@
 </listBibl>
 </org><org xml:id="org__37049">
   <orgName>Sorbonne</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Sorbonne</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Sorbonne</orgName>
   <desc type="entity_type">Hochschule</desc>
   <desc type="entity_type_id">1420</desc>
 <location type="located_in_place">
@@ -32083,8 +32096,8 @@
 </note>
 </org><org xml:id="org__50552">
   <orgName>Wiener Frauenakademie</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Frauenakademie</orgName>
-  <orgName type="namensvariante">Kunstschule f&#252;r Frauen und M&#228;dchen</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Frauenakademie</orgName>
+  <orgName type="person-namensvariante">Kunstschule f&#252;r Frauen und M&#228;dchen</orgName>
   <desc type="entity_type">Hochschule</desc>
   <desc type="entity_type_id">1420</desc>
 <location type="located_in_place">
@@ -32124,7 +32137,7 @@
 </note>
 </org><org xml:id="org__43902">
   <orgName>Galerie Miethke</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Galerie_Miethke</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Galerie_Miethke</orgName>
   <desc type="entity_type">Kunsthandlung</desc>
   <desc type="entity_type_id">1475</desc>
 <location type="located_in_place">
@@ -32270,7 +32283,7 @@
 </note>
 </org><org xml:id="org__37031">
   <orgName>St&#228;dtische Oper Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsche_Oper_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsche_Oper_Berlin</orgName>
   <orgName type="alternative-name">Deutsche Oper Berlin</orgName>
   <desc type="entity_type">Oper</desc>
   <desc type="entity_type_id">1479</desc>
@@ -32301,7 +32314,7 @@
 </listBibl>
 </org><org xml:id="org__37043">
   <orgName>Staatsoper Unter den Linden (Berlin)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsoper_Unter_den_Linden</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Staatsoper_Unter_den_Linden</orgName>
   <desc type="entity_type">Oper</desc>
   <desc type="entity_type_id">1479</desc>
 <location type="located_in_place">
@@ -32321,7 +32334,7 @@
 </listBibl>
 </org><org xml:id="org__37183">
   <orgName>Oper am Platz der Republik Berlin (Krolloper)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Krolloper</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Krolloper</orgName>
   <desc type="entity_type">Oper</desc>
   <desc type="entity_type_id">1479</desc>
 <location type="located_in_place">
@@ -32444,7 +32457,7 @@
 </listBibl>
 </org><org xml:id="org__61294">
   <orgName>Komische Oper Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Alte_Komische_Oper_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Alte_Komische_Oper_Berlin</orgName>
   <desc type="entity_type">Oper</desc>
   <desc type="entity_type_id">1479</desc>
 <location type="located_in_place">
@@ -32546,7 +32559,7 @@
 </note>
 </org><org xml:id="org__36967">
   <orgName>Bundesministerium f&#252;r Finanzen Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Finanzen</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Finanzen</orgName>
   <desc type="entity_type">Ministerium</desc>
   <desc type="entity_type_id">1482</desc>
 <location type="located_in_place">
@@ -32570,7 +32583,7 @@
 </listBibl>
 </org><org xml:id="org__44133">
   <orgName>Ministerium f&#252;r Inneres</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundesministerium_f&#252;r_Inneres</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundesministerium_f&#252;r_Inneres</orgName>
   <desc type="entity_type">Ministerium</desc>
   <desc type="entity_type_id">1482</desc>
 <location type="located_in_place">
@@ -32614,7 +32627,7 @@
 </note>
 </org><org xml:id="org__44136">
   <orgName>Ministerium f&#252;r Unterricht</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundesministerium_f&#252;r_Bildung,_Wissenschaft_und_Forschung</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundesministerium_f&#252;r_Bildung,_Wissenschaft_und_Forschung</orgName>
   <desc type="entity_type">Ministerium</desc>
   <desc type="entity_type_id">1482</desc>
 <location type="located_in_place">
@@ -32665,7 +32678,7 @@
 </note>
 </org><org xml:id="org__47747">
   <orgName>Ministerium f&#252;r &#196;u&#223;eres</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_europ%C3%A4ische_und_internationale_Angelegenheiten</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_europ%C3%A4ische_und_internationale_Angelegenheiten</orgName>
   <desc type="entity_type">Ministerium</desc>
   <desc type="entity_type_id">1482</desc>
 <location type="located_in_place">
@@ -32720,7 +32733,7 @@
 </listBibl>
 </org><org xml:id="org__44466">
   <orgName>Synagoge W&#228;hring</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Synagoge_der_Israelitischen_Kultusgemeinde_18,_Schopenhauerstra&#223;e_39</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Synagoge_der_Israelitischen_Kultusgemeinde_18,_Schopenhauerstra&#223;e_39</orgName>
   <desc type="entity_type">Synagoge</desc>
   <desc type="entity_type_id">1486</desc>
 <location type="located_in_place">
@@ -33003,7 +33016,7 @@
 </listBibl>
 </org><org xml:id="org__37148">
   <orgName>Gutmann (Konzertdirektion)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hugo_Knepler</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Hugo_Knepler</orgName>
   <desc type="entity_type">Konzertdirektion</desc>
   <desc type="entity_type_id">1542</desc>
 <location type="located_in_place">
@@ -33137,7 +33150,7 @@
 </listBibl>
 </org><org xml:id="org__47432">
   <orgName>Adlerwerke</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Adlerwerke</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Adlerwerke</orgName>
   <desc type="entity_type">Fahrzeugbauunternehmen</desc>
   <desc type="entity_type_id">1543</desc>
 <location type="located_in_place">
@@ -33201,7 +33214,7 @@
 </listBibl>
 </org><org xml:id="org__51619">
   <orgName>Hamburg-Amerika-Linie</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hamburg-Amerikanische_Packetfahrt-Actien-Gesellschaft</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Hamburg-Amerikanische_Packetfahrt-Actien-Gesellschaft</orgName>
   <desc type="entity_type">Reederei</desc>
   <desc type="entity_type_id">1605</desc>
 <location type="located_in_place">
@@ -33229,7 +33242,7 @@
 </note>
 </org><org xml:id="org__53340">
   <orgName>Norddeutscher Lloyd</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Norddeutscher_Lloyd</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Norddeutscher_Lloyd</orgName>
   <desc type="entity_type">Reederei</desc>
   <desc type="entity_type_id">1605</desc>
 <location type="located_in_place">
@@ -33257,7 +33270,7 @@
 </note>
 </org><org xml:id="org__51780">
   <orgName>Ros&#233;-Quartett</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ros&#233;-Quartett</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Ros&#233;-Quartett</orgName>
   <desc type="entity_type">Streichquartett</desc>
   <desc type="entity_type_id">1610</desc>
 <location type="located_in_place">
@@ -33288,7 +33301,7 @@
 </note>
 </org><org xml:id="org__51873">
   <orgName>Zentralbad</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Zentralbad_(Wien)</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Zentralbad_(Wien)</orgName>
   <desc type="entity_type">Spa/Sauna</desc>
   <desc type="entity_type_id">1612</desc>
 <location type="located_in_place">
@@ -33726,7 +33739,7 @@
 </listBibl>
 </org><org xml:id="org__50903">
   <orgName>Caf&#233; Lebmann</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Spitalhaus</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Spitalhaus</orgName>
   <desc type="entity_type">Caf&#233;</desc>
   <desc type="entity_type_id">1630</desc>
 <location type="located_in_place">
@@ -33792,7 +33805,7 @@
 </listBibl>
 </org><org xml:id="org__56311">
   <orgName>Caf&#233; Herrenhof</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Caf%C3%A9_Herrenhof</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Caf%C3%A9_Herrenhof</orgName>
   <desc type="entity_type">Caf&#233;</desc>
   <desc type="entity_type_id">1630</desc>
 <location type="located_in_place">
@@ -33990,7 +34003,7 @@
 </listBibl>
 </org><org xml:id="org__53205">
   <orgName>Gebr&#252;der Wild &#8211; Schmalz- und K&#228;sehandlung</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neuer_Markt_10-11</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neuer_Markt_10-11</orgName>
   <desc type="entity_type">Gesch&#228;ft &gt;&gt; Lebensmittelhandlung &gt;&gt; K&#228;sehandlung</desc>
   <desc type="entity_type_id">1635</desc>
 <location type="located_in_place">
@@ -34023,7 +34036,7 @@
 </note>
 </org><org xml:id="org__36905">
   <orgName>Altesse AG</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Austria_Tabak</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Austria_Tabak</orgName>
   <desc type="entity_type">Aktiengesellschaft</desc>
   <desc type="entity_type_id">1642</desc>
 <location type="located_in_place">
@@ -34192,8 +34205,7 @@
 </note>
 </org><org xml:id="org__65146">
   <orgName>&#214;sterreichische Luftverkehrs AG</orgName>
-  <orgName type="namensvariante">&#214;LAG</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/%C3%96LAG</orgName>
+  <orgName type="person-namensvariante">&#214;LAG</orgName>
   <desc type="entity_type">Fluggesellschaft</desc>
   <desc type="entity_type_id">1670</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65146/</idno>
@@ -34259,7 +34271,7 @@
 </listBibl>
 </org><org xml:id="org__56533">
   <orgName>Medizinische Fakult&#228;t der Universit&#228;t Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Medizinische_Universit&#228;t_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Medizinische_Universit&#228;t_Wien</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t &gt;&gt; Fakult&#228;t</desc>
   <desc type="entity_type_id">1690</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56533/</idno>
@@ -34272,7 +34284,7 @@
 </note>
 </org><org xml:id="org__57981">
   <orgName>Jewish Telegraphic Agency</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Jewish_Telegraphic_Agency</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Jewish_Telegraphic_Agency</orgName>
   <desc type="entity_type">Presseagentur</desc>
   <desc type="entity_type_id">1700</desc>
 <location type="located_in_place">
@@ -34371,7 +34383,7 @@
 </note>
 </org><org xml:id="org__58990">
   <orgName>Bayerischer Landtag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bayerischer_Landtag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Bayerischer_Landtag</orgName>
   <desc type="entity_type">Parlament</desc>
   <desc type="entity_type_id">1723</desc>
 <location type="located_in_place">
@@ -34420,7 +34432,7 @@
 </note>
 </org><org xml:id="org__93192">
   <orgName>Franz&#246;sische Nationalversammlung</orgName>
-  <orgName type="namensvariante">Assembl&#233;e Nationale</orgName>
+  <orgName type="person-namensvariante">Assembl&#233;e Nationale</orgName>
   <desc type="entity_type">Parlament</desc>
   <desc type="entity_type_id">1723</desc>
 <location type="located_in_place">
@@ -34457,7 +34469,7 @@
 </note>
 </org><org xml:id="org__36982">
   <orgName>Tschechoslowakische Gesandtschaft Berlin</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Tschechische_Botschaft_in_Berlin</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Tschechische_Botschaft_in_Berlin</orgName>
   <desc type="entity_type">Botschaft</desc>
   <desc type="entity_type_id">1726</desc>
 <location type="located_in_place">
@@ -34476,7 +34488,7 @@
 </listBibl>
 </org><org xml:id="org__37017">
   <orgName>Deutsche Gesandtschaft in Prag</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutsche_Botschaft_Prag</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutsche_Botschaft_Prag</orgName>
   <desc type="entity_type">Botschaft</desc>
   <desc type="entity_type_id">1726</desc>
 <location type="located_in_place">
@@ -34547,7 +34559,7 @@
 </listBibl>
 </org><org xml:id="org__59099">
   <orgName>Botschaft der Vereinigten Staaten in Wien</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Botschaft_der_Vereinigten_Staaten_in_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Botschaft_der_Vereinigten_Staaten_in_Wien</orgName>
   <desc type="entity_type">Botschaft</desc>
   <desc type="entity_type_id">1726</desc>
 <location type="located_in_place">
@@ -34622,7 +34634,7 @@
 </listBibl>
 </org><org xml:id="org__60307">
   <orgName>Freiwillige Schutzwache des 18. und 19. Bezirks</orgName>
-  <orgName type="uri_worklink">https://onb.digital//result/11093ED5</orgName>
+  <orgName type="werk-werklink">https://onb.digital//result/11093ED5</orgName>
   <desc type="entity_type">B&#252;rgerwehr</desc>
   <desc type="entity_type_id">1744</desc>
 <location type="located_in_place">
@@ -34659,7 +34671,7 @@
   <orgName type="alternative-name">Kaiserliche K&#246;nigliche Sternwarte (Wien)</orgName>
   <orgName type="alternative-name">K. k. Sternwarte (Wien)</orgName>
   <orgName type="alternative-name">Wiener Sternwarte (Kaiserlich-K&#246;nigliche Sternwarte)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Universit%C3%A4tssternwarte_Wien</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Universit%C3%A4tssternwarte_Wien</orgName>
   <desc type="entity_type">Sternwarte</desc>
   <desc type="entity_type_id">1746</desc>
 <location type="located_in_place">
@@ -34727,7 +34739,7 @@
 </listBibl>
 </org><org xml:id="org__37447">
   <orgName>Neue Deutsche Bl&#228;tter</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Deutschsprachige_Exilpresse_(1933&#8211;1945)#Neue_Deutsche_Bl&#228;tter</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Deutschsprachige_Exilpresse_(1933&#8211;1945)#Neue_Deutsche_Bl&#228;tter</orgName>
   <desc type="entity_type">Monatszeitungsredaktion</desc>
   <desc type="entity_type_id">1766</desc>
 <location type="located_in_place">
@@ -34819,7 +34831,7 @@
 </listBibl>
 </org><org xml:id="org__60785">
   <orgName>Westnik Jewropy</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Westnik_Jewropy</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Westnik_Jewropy</orgName>
   <desc type="entity_type">Monatszeitungsredaktion</desc>
   <desc type="entity_type_id">1766</desc>
 <location type="located_in_place">
@@ -34898,7 +34910,7 @@
 </note>
 </org><org xml:id="org__61421">
   <orgName>Verein Naturschutzpark</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Verein_Naturschutzpark</orgName>
+  <orgName type="none">https://de.wikipedia.org/wiki/Verein_Naturschutzpark</orgName>
   <desc type="entity_type">Verein &gt;&gt; Umweltschutzverein</desc>
   <desc type="entity_type_id">1777</desc>
 <location type="located_in_place">
@@ -34935,7 +34947,6 @@
 </note>
 </org><org xml:id="org__87989">
   <orgName>Geiringer &amp; Reitler (Tuchhaus Silesia)</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Geiringer_%26_Reitler</orgName>
   <desc type="entity_type">Textilfabrik</desc>
   <desc type="entity_type_id">1941</desc>
 <location type="located_in_place">
@@ -34970,7 +34981,7 @@
 </listBibl>
 </org><org xml:id="org__88296">
   <orgName>Zum goldenen Reichsapfel</orgName>
-  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Zum_goldenen_Reichsapfel_(Apotheke)?uselayout=mobile/ereignisse/attribute/glossar</orgName>
+  <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Zum_goldenen_Reichsapfel_(Apotheke)?uselayout=mobile/ereignisse/attribute/glossar</orgName>
   <desc type="entity_type">Apotheke</desc>
   <desc type="entity_type_id">1954</desc>
 <location type="located_in_place">
@@ -35040,7 +35051,6 @@
 </listBibl>
 </org><org xml:id="org__92784">
   <orgName>Franz&#246;sische Abgeordnetenkammer</orgName>
-  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Abgeordnetenkammer_(Frankreich)</orgName>
   <desc type="entity_type">Parlamentskammer</desc>
   <desc type="entity_type_id">2058</desc>
 <location type="located_in_place">
@@ -35072,7 +35082,7 @@
 </note>
 </org><org xml:id="org__93029">
   <orgName>Prix Montgomery</orgName>
-  <orgName type="namensvariante">Grand Prix d&#8217;automne</orgName>
+  <orgName type="person-namensvariante">Grand Prix d&#8217;automne</orgName>
   <desc type="entity_type">Sportpreis</desc>
   <desc type="entity_type_id">2063</desc>
 <location type="located_in_place">
