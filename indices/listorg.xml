@@ -321,7 +321,7 @@
 </org><org xml:id="org__37013">
   <orgName>Deutsch-&#246;sterreichischer Jugendbund</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/%C3%96sterreichisches_Jungvolk</orgName>
-  <orgName type="person-namensvariante">&#214;sterreichisches Jungvolk</orgName>
+  <orgName type="person_namensvariante">&#214;sterreichisches Jungvolk</orgName>
 <location type="located_in_place">
   <placeName key="place__50">Wien</placeName>
   <geo>48.2066 16.37341</geo>
@@ -697,7 +697,7 @@
 </listBibl>
 </org><org xml:id="org__37174">
   <orgName>&#214;sterreichische Credit-Anstalt</orgName>
-  <orgName type="person-namensvariante">&#214;sterreichische Kreditanstalt</orgName>
+  <orgName type="person_namensvariante">&#214;sterreichische Kreditanstalt</orgName>
 <location type="located_in_place">
   <placeName key="place__51">I., Innere Stadt</placeName>
   <geo>48.20769 16.37049</geo>
@@ -2410,6 +2410,7 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43962/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/5166995-X</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43962</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1718281</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
 </listBibl>
@@ -2633,6 +2634,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/54852/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/62314-3</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q221092</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
 </listBibl>
@@ -2729,6 +2731,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/112056-6</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date>-  &#8211; -</date>
@@ -2950,6 +2953,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/409030-5</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date>-  &#8211; -</date>
@@ -2971,6 +2975,7 @@
   <orgName>-</orgName>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88282/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4748977-7</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q958961</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -3113,7 +3118,7 @@
 </org><org xml:id="org__29259">
   <orgName>Prager Tagblatt</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Prager_Tagblatt</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/ptb_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/ptb_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3299,7 +3304,7 @@
 </org><org xml:id="org__29306">
   <orgName>Pester Lloyd</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Pester_Lloyd</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/pel_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/pel_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3330,7 +3335,7 @@
 </listBibl>
 </org><org xml:id="org__29310">
   <orgName>Wiener Zeitung</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wrz_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/wrz_info.htm</orgName>
   <orgName type="wien-geschichte-wiki">https://de.wikipedia.org/wiki/Wiener_Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -3440,7 +3445,7 @@
 </listBibl>
 </org><org xml:id="org__29320">
   <orgName>Neues Wiener Journal</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nwj_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nwj_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Neues_Wiener_Journal</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -3613,7 +3618,7 @@
 </listBibl>
 </org><org xml:id="org__29351">
   <orgName>Neue Freie Presse</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nfp_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nfp_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -3708,7 +3713,7 @@
 </org><org xml:id="org__29414">
   <orgName>Neues Wiener Tagblatt</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Neues_Wiener_Tagblatt</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nwg_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nwg_info.htm</orgName>
   <orgName type="legacy-name-merge">Neues Wiener Tagblatt</orgName>
   <orgName type="legacy-uri-merge">http://https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37476/</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -4004,7 +4009,7 @@
 </listBibl>
 </org><org xml:id="org__29470">
   <orgName>Die Stunde</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/std_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Die_Stunde</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -4386,7 +4391,7 @@
 </listBibl>
 </org><org xml:id="org__29637">
   <orgName>Reichspost</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/rpt_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/rpt_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Reichspost_(Zeitung)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -4453,7 +4458,7 @@
 </listBibl>
 </org><org xml:id="org__29644">
   <orgName>Arbeiter-Zeitung</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/aze_info.htm</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Br&#252;nn)</orgName>
   <orgName type="legacy-name-merge">Arbeiter-Zeitung (Paris)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -4652,7 +4657,7 @@
 </listBibl>
 </org><org xml:id="org__29670">
   <orgName>Wiener Allgemeine Zeitung</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/waz_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/waz_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Allgemeine_Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -4713,7 +4718,7 @@
 </listBibl>
 </org><org xml:id="org__29682">
   <orgName>Tagespost</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/tpt_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/tpt_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4738,7 +4743,7 @@
 </listBibl>
 </org><org xml:id="org__29684">
   <orgName>Tagespost</orgName>
-  <orgName type="werk-werklink">https://anno.onb.ac.at/cgi-content/anno?aid=gpt</orgName>
+  <orgName type="werk_link">https://anno.onb.ac.at/cgi-content/anno?aid=gpt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -4841,7 +4846,7 @@
 </note>
 </org><org xml:id="org__29712">
   <orgName>Der Abend</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/abd_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/abd_info.htm</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -5045,6 +5050,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29792.html</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29792</idno>
@@ -5116,7 +5122,7 @@
 </note>
 </org><org xml:id="org__37244">
   <orgName>Acht Uhr Abendblatt</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/aub_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/aub_info.htm</orgName>
   <orgName type="alternative-name">Acht Uhr Blatt &#8211; Abendausgabe der Neuen Zeitung</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5336,7 +5342,7 @@
 </listBibl>
 </org><org xml:id="org__37467">
   <orgName>Neues 8 Uhr Blatt (8 Uhr Abendblatt)</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/nab_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/nab_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Neues_8-Uhr-Blatt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5428,7 +5434,7 @@
 </listBibl>
 </org><org xml:id="org__37488">
   <orgName>&#214;sterreichisches Abendblatt</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/oab_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/oab_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/&#214;sterreichisches_Abendblatt</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5471,7 +5477,7 @@
 </listBibl>
 </org><org xml:id="org__37525">
   <orgName>Die Rote Fahne (Wien)</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/drf_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/drf_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Die_Rote_Fahne_(&#214;sterreich)</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5602,7 +5608,7 @@
 </org><org xml:id="org__37551">
   <orgName>V&#246;lkischer Beobachter</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/vob_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/vob_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/V&#246;lkischer_Beobachter</orgName>
   <orgName type="legacy-name-merge">V&#246;lkischer Beobachter</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
@@ -5631,8 +5637,8 @@
 </listBibl>
 </org><org xml:id="org__37566">
   <orgName>Wiener Neueste Nachrichten</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wnn_info.htm</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wnm_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/wnn_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/wnm_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Neueste_Nachrichten</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5664,7 +5670,7 @@
 </org><org xml:id="org__37568">
   <orgName>Der Wiener Tag</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Der_Wiener_Tag</orgName>
-  <orgName type="werk-werklink">http://anno.onb.ac.at/info/tag_info.htm</orgName>
+  <orgName type="werk_link">http://anno.onb.ac.at/info/tag_info.htm</orgName>
   <orgName type="legacy-name-merge">Der Wiener Tag</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
@@ -5824,6 +5830,7 @@
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__52878">
   <orgName>N&#233;pszava</orgName>
@@ -5949,7 +5956,7 @@
 </note>
 </org><org xml:id="org__57767">
   <orgName>Sovremennoe slovo</orgName>
-  <orgName type="person-namensvariante">&#1057;&#1086;&#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1086;&#1077; &#1089;&#1083;&#1086;&#1074;&#1086;</orgName>
+  <orgName type="person_namensvariante">&#1057;&#1086;&#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1086;&#1077; &#1089;&#1083;&#1086;&#1074;&#1086;</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -6045,8 +6052,8 @@
 </listBibl>
 </org><org xml:id="org__60790">
   <orgName>Den&#180;</orgName>
-  <orgName type="person-namensvariante">&#1076;&#1077;&#1085;&#1100;</orgName>
-  <orgName type="person-namensvariante">Tag</orgName>
+  <orgName type="person_namensvariante">&#1076;&#1077;&#1085;&#1100;</orgName>
+  <orgName type="person_namensvariante">Tag</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -6072,7 +6079,7 @@
 </org><org xml:id="org__60847">
   <orgName>Russkije vedomosti</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Russkije_wedomosti</orgName>
-  <orgName type="person-namensvariante">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1077; &#1074;&#1077;&#1076;&#1086;&#1084;&#1086;&#1089;&#1090;&#1080;</orgName>
+  <orgName type="person_namensvariante">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1077; &#1074;&#1077;&#1076;&#1086;&#1084;&#1086;&#1089;&#1090;&#1080;</orgName>
   <desc type="entity_type">Tageszeitungsredaktion</desc>
   <desc type="entity_type_id">972</desc>
 <location type="located_in_place">
@@ -6362,6 +6369,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__168">Berlin</placeName>
@@ -6493,7 +6501,7 @@
 </listBibl>
 </org><org xml:id="org__29212">
   <orgName>Neue Rundschau, Neue Deutsche Rundschau, Freie B&#252;hne</orgName>
-  <orgName type="werk-werklink-anno">https://de.wikipedia.org/wiki/Die_neue_Rundschau</orgName>
+  <orgName type="werk_link-anno">https://de.wikipedia.org/wiki/Die_neue_Rundschau</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6795,7 +6803,7 @@
 </org><org xml:id="org__29398">
   <orgName>Der Morgen. Wiener Montagsblatt</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Der_Morgen._Wiener_Montagblatt</orgName>
-  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=dmo</orgName>
+  <orgName type="werk_link">http://anno.onb.ac.at/cgi-content/anno?apm=0&amp;aid=dmo</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -6839,7 +6847,7 @@
 </listBibl>
 </org><org xml:id="org__29401">
   <orgName>Wiener Medizinische Presse</orgName>
-  <orgName type="person-namensvariante">Wiener Medizinal-Halle. Zeitschrift f&#252;r praktische &#196;rzte</orgName>
+  <orgName type="person_namensvariante">Wiener Medizinal-Halle. Zeitschrift f&#252;r praktische &#196;rzte</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29401</idno>
@@ -7778,7 +7786,7 @@
 </listBibl>
 </org><org xml:id="org__29698">
   <orgName>An der sch&#246;nen blauen Donau</orgName>
-  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno-plus?aid=asd</orgName>
+  <orgName type="werk_link">http://anno.onb.ac.at/cgi-content/anno-plus?aid=asd</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8075,7 +8083,7 @@
 </note>
 </org><org xml:id="org__29808">
   <orgName>Die Gegenwart</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/dgw_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/dgw_info.htm</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8395,7 +8403,7 @@
 </listBibl>
 </org><org xml:id="org__37283">
   <orgName>Die B&#246;rse</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/boe_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/boe_info.htm</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8500,7 +8508,7 @@
 </listBibl>
 </org><org xml:id="org__37298">
   <orgName>Die B&#252;hne</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/bue_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/bue_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Die_B&#252;hne</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
@@ -8561,7 +8569,7 @@
 </listBibl>
 </org><org xml:id="org__37382">
   <orgName>Der Kampf</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/dks_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/dks_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Der_Kampf_(Zeitschrift_SDAP)</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
@@ -8790,7 +8798,7 @@
 </org><org xml:id="org__37544">
   <orgName>Das Tage-Buch</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Das_Tage-Buch</orgName>
-  <orgName type="person-namensvariante">Tagebuch</orgName>
+  <orgName type="person_namensvariante">Tagebuch</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8893,7 +8901,7 @@
 </listBibl>
 </org><org xml:id="org__37906">
   <orgName>Vorw&#228;rts Wien</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/cgi-content/anno?aid=vog</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/cgi-content/anno?aid=vog</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -8922,8 +8930,8 @@
 </listBibl>
 </org><org xml:id="org__39399">
   <orgName>Internationale klinische Rundschau</orgName>
-  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno-plus?aid=klr</orgName>
-  <orgName type="person-namensvariante">Wiener klinische Rundschau</orgName>
+  <orgName type="werk_link">http://anno.onb.ac.at/cgi-content/anno-plus?aid=klr</orgName>
+  <orgName type="person_namensvariante">Wiener klinische Rundschau</orgName>
   <desc type="entity_type">Zeitschriftenredaktion</desc>
   <desc type="entity_type_id">973</desc>
 <location type="located_in_place">
@@ -9239,8 +9247,8 @@
 </listBibl>
 </org><org xml:id="org__29205">
   <orgName>Deutsch&#246;sterreichischer B&#252;hnenverein</orgName>
-  <orgName type="person-namensvariante">Verein deutscher B&#252;hnenmitglieder &#214;sterreichs</orgName>
-  <orgName type="person-namensvariante">&#214;sterreichischer B&#252;hnenverein</orgName>
+  <orgName type="person_namensvariante">Verein deutscher B&#252;hnenmitglieder &#214;sterreichs</orgName>
+  <orgName type="person_namensvariante">&#214;sterreichischer B&#252;hnenverein</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
   <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29205.html</idno>
@@ -9341,7 +9349,7 @@
 </note>
 </org><org xml:id="org__29302">
   <orgName>Wiener Tierschutz-Verein</orgName>
-  <orgName type="person-namensvariante">Wiener Tierschutzverein</orgName>
+  <orgName type="person_namensvariante">Wiener Tierschutzverein</orgName>
   <desc type="entity_type">Verein</desc>
   <desc type="entity_type_id">974</desc>
 <location type="located_in_place">
@@ -10654,6 +10662,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29553</idno>
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29553</idno>
@@ -11904,7 +11913,7 @@
 </listBibl>
 </org><org xml:id="org__36942">
   <orgName>Verlag Wilhelm Braum&#252;ller</orgName>
-  <orgName type="person-namensvariante">Verlag Wilhelm Braum&#252;ller &#8211; Josef Deibler</orgName>
+  <orgName type="person_namensvariante">Verlag Wilhelm Braum&#252;ller &#8211; Josef Deibler</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -12123,6 +12132,7 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__37138">
   <orgName>Genossenschaftsverlag</orgName>
@@ -12672,6 +12682,7 @@
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44840</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date from-iso="1894-01-01" to-iso="1894-12-31">1894  &#8211; 1905</date>
@@ -12719,6 +12730,7 @@
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48419</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date>01.10.1868  &#8211; -</date>
@@ -12751,6 +12763,7 @@
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48425</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date when-iso="1911-04-09">09.04.1911</date>
@@ -12805,6 +12818,7 @@
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48451</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1857-01-01" when-iso="1857-07-02">1857</date>
@@ -12834,6 +12848,7 @@
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48455</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1881-01-01" when-iso="1881-07-02">1881</date>
@@ -12865,6 +12880,7 @@
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48752</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1923-01-01" when-iso="1923-07-02">1923</date>
@@ -12897,6 +12913,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1086218418</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__49752">
   <orgName>Presses Universitaires de France</orgName>
@@ -13158,6 +13175,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/107288223X</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1892-01-01" when-iso="1892-07-01">1892</date>
@@ -13263,7 +13281,7 @@
 </listBibl>
 </org><org xml:id="org__57012">
   <orgName>Carl Heymanns Verlag</orgName>
-  <orgName type="person-namensvariante">Karl Heymann&#8217;s Verlag</orgName>
+  <orgName type="person_namensvariante">Karl Heymann&#8217;s Verlag</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13424,6 +13442,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/5325430-2</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1906-01-01" when-iso="1906-07-02">1906</date>
@@ -13519,7 +13538,7 @@
   <orgName type="alternative-name">Tovari&#353;&#269;estvo "Znanie" (Sankt-Peterburg)</orgName>
   <orgName type="alternative-name">Tovarishchestvo "Znanie" (Sankt-Peterburg)</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Snanije</orgName>
-  <orgName type="person-namensvariante">Snanije</orgName>
+  <orgName type="person_namensvariante">Snanije</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13573,8 +13592,8 @@
 </listBibl>
 </org><org xml:id="org__60830">
   <orgName>&#1055;&#1086;&#1083;&#1100;&#1079;&#1072;, V. Antik</orgName>
-  <orgName type="person-namensvariante">Pol&#697;za</orgName>
-  <orgName type="person-namensvariante">Nutzen</orgName>
+  <orgName type="person_namensvariante">Pol&#697;za</orgName>
+  <orgName type="person_namensvariante">Nutzen</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -13629,6 +13648,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/108622924X</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1919-01-01" when-iso="1919-07-02">1919</date>
@@ -13653,6 +13673,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1087421217</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1904-01-01" when-iso="1904-07-01">1904</date>
@@ -13819,6 +13840,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/62745/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/44419-4</idno>
@@ -13850,6 +13872,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1072902354</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1887-01-01" when-iso="1887-07-02">1887</date>
@@ -13923,6 +13946,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2066009-1</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1908-01-01" when-iso="1908-07-01">1908</date>
@@ -14031,6 +14055,7 @@
   <note type="IDNO" subtype="gnd">https://d-nb.info/gnd/4017581-9</note>
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64149/</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb263.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q2044</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__863">D&#252;sseldorf</placeName>
@@ -14058,6 +14083,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65754/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2156924-1</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q64485054</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -14119,7 +14145,7 @@
 </note>
 </org><org xml:id="org__89394">
   <orgName>S. Schottl&#228;nder</orgName>
-  <orgName type="person-namensvariante">Schlesische Buchdruckerei, Kunst- und Verlags-Anstalt</orgName>
+  <orgName type="person_namensvariante">Schlesische Buchdruckerei, Kunst- und Verlags-Anstalt</orgName>
   <desc type="entity_type">Verlag</desc>
   <desc type="entity_type_id">975</desc>
 <location type="located_in_place">
@@ -14213,6 +14239,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89732/</idno>
 <listBibl>
@@ -14250,6 +14277,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4300151-8</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__89870">
   <orgName>Paul Ollendorff</orgName>
@@ -14272,6 +14300,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1073000729</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1875-01-01" when-iso="1875-07-02">1875</date>
@@ -14345,6 +14374,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1087293871</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__29204">
   <orgName>Marianische M&#228;nnerkongregation</orgName>
@@ -17011,7 +17041,7 @@
 </listBibl>
 </org><org xml:id="org__57499">
   <orgName>Hans Rehbock &amp; Co.</orgName>
-  <orgName type="person-namensvariante">Rehbock &amp; Co.</orgName>
+  <orgName type="person_namensvariante">Rehbock &amp; Co.</orgName>
   <desc type="entity_type">Gesch&#228;ft</desc>
   <desc type="entity_type_id">990</desc>
 <location type="located_in_place">
@@ -17367,6 +17397,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37129/</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37129</idno>
@@ -17806,7 +17837,7 @@
 </listBibl>
 </org><org xml:id="org__29781">
   <orgName>&#187;Freie B&#252;hne&#171; Verein f&#252;r moderne Literatur</orgName>
-  <orgName type="person-namensvariante">Freie B&#252;hne</orgName>
+  <orgName type="person_namensvariante">Freie B&#252;hne</orgName>
   <desc type="entity_type">Verein &gt;&gt; Literarische Vereinigung</desc>
   <desc type="entity_type_id">997</desc>
 <location type="located_in_place">
@@ -18012,7 +18043,7 @@
 </listBibl>
 </org><org xml:id="org__63051">
   <orgName>Akademische Lesehalle</orgName>
-  <orgName type="werk-werklink">https://www.digitale-sammlungen.de/en/view/bsb10733176?page=1</orgName>
+  <orgName type="werk_link">https://www.digitale-sammlungen.de/en/view/bsb10733176?page=1</orgName>
   <desc type="entity_type">Verein &gt;&gt; Literarische Vereinigung</desc>
   <desc type="entity_type_id">997</desc>
 <location type="located_in_place">
@@ -18126,6 +18157,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29392</idno>
 <listBibl>
@@ -18151,7 +18183,7 @@
 </note>
 </org><org xml:id="org__29717">
   <orgName>Extrapost</orgName>
-  <orgName type="werk-werklink">http://anno.onb.ac.at/cgi-content/anno?aid=wmj</orgName>
+  <orgName type="werk_link">http://anno.onb.ac.at/cgi-content/anno?aid=wmj</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -18185,7 +18217,7 @@
 </org><org xml:id="org__37286">
   <orgName>B&#246;rsenblatt f&#252;r den deutschen Buchhandel</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/B&#246;rsenblatt</orgName>
-  <orgName type="werk-werklink">https://www.boersenblatt-digital.de</orgName>
+  <orgName type="werk_link">https://www.boersenblatt-digital.de</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37286/</idno>
@@ -18197,7 +18229,7 @@
 </listBibl>
 </org><org xml:id="org__37433">
   <orgName>Montag</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/mon_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/mon_info.htm</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -18227,7 +18259,7 @@
 </listBibl>
 </org><org xml:id="org__37509">
   <orgName>Pestr&#233;ho T&#253;dne</orgName>
-  <orgName type="person-namensvariante">Pestr&#253; T&#253;den</orgName>
+  <orgName type="person_namensvariante">Pestr&#253; T&#253;den</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -18244,7 +18276,7 @@
 </listBibl>
 </org><org xml:id="org__37571">
   <orgName>Das Wort</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wor_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/wor_info.htm</orgName>
   <desc type="entity_type">Wochenzeitungsredaktion</desc>
   <desc type="entity_type_id">998</desc>
 <location type="located_in_place">
@@ -18393,7 +18425,7 @@
 </note>
 </org><org xml:id="org__29275">
   <orgName>Genossenschaft dramatischer Autoren und Komponisten in Wien</orgName>
-  <orgName type="person-namensvariante">Union dramatischer Autoren und Komponisten in Wien</orgName>
+  <orgName type="person_namensvariante">Union dramatischer Autoren und Komponisten in Wien</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
 <location type="located_in_place">
@@ -18622,7 +18654,7 @@
 </listBibl>
 </org><org xml:id="org__57787">
   <orgName>Verein dramatischer und musikalischer Autoren</orgName>
-  <orgName type="person-namensvariante">&#1057;&#1086;&#1102;&#1079; &#1076;&#1088;&#1072;&#1084;&#1072;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1080; &#1084;&#1091;&#1079;&#1099;&#1082;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1087;&#1080;&#1089;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;</orgName>
+  <orgName type="person_namensvariante">&#1057;&#1086;&#1102;&#1079; &#1076;&#1088;&#1072;&#1084;&#1072;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1080; &#1084;&#1091;&#1079;&#1099;&#1082;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1087;&#1080;&#1089;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;</orgName>
   <desc type="entity_type">Interessensvertretung</desc>
   <desc type="entity_type_id">999</desc>
 <location type="located_in_place">
@@ -18761,7 +18793,7 @@
 </listBibl>
 </org><org xml:id="org__37216">
   <orgName>Kronos Verlag</orgName>
-  <orgName type="person-namensvariante">Kronos Verlags A.G.</orgName>
+  <orgName type="person_namensvariante">Kronos Verlags A.G.</orgName>
   <desc type="entity_type">Verlagskonzern</desc>
   <desc type="entity_type_id">1000</desc>
 <location type="located_in_place">
@@ -18881,6 +18913,7 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29290</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87998/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1022924-3</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q161806</idno>
 <listBibl>
     <bibl type="collections" n="1">ASBW</bibl>
     <bibl type="collections" n="2">Erster Import</bibl>
@@ -19612,7 +19645,7 @@
 </listBibl>
 </org><org xml:id="org__55758">
   <orgName>Staatsbibliothek Berlin</orgName>
-  <orgName type="person-namensvariante">Preu&#223;ische Staatsbibliothek</orgName>
+  <orgName type="person_namensvariante">Preu&#223;ische Staatsbibliothek</orgName>
   <desc type="entity_type">Bibliothek</desc>
   <desc type="entity_type_id">1007</desc>
 <location type="located_in_place">
@@ -19938,6 +19971,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/802138-7</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__53606">
   <orgName>Prager Symphonieorchester</orgName>
@@ -19971,7 +20005,7 @@
 </note>
 </org><org xml:id="org__88817">
   <orgName>Orchestre municipal des pompiers de Bruxelles</orgName>
-  <orgName type="person-namensvariante">Orchester der st&#228;dtischen Feuerwehr</orgName>
+  <orgName type="person_namensvariante">Orchester der st&#228;dtischen Feuerwehr</orgName>
   <desc type="entity_type">Orchester</desc>
   <desc type="entity_type_id">1011</desc>
 <location type="located_in_place">
@@ -20281,7 +20315,7 @@
 </listBibl>
 </org><org xml:id="org__36430">
   <orgName>Volkstheater</orgName>
-  <orgName type="person-namensvariante">Deutsches Volkstheater</orgName>
+  <orgName type="person_namensvariante">Deutsches Volkstheater</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Volkstheater_(Wien)</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -20633,7 +20667,7 @@
   <orgName>Stadttheater Essen</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Grillo-Theater</orgName>
   <orgName type="alternative-name">Grillo-Theater</orgName>
-  <orgName type="person-namensvariante">St&#228;dtische B&#252;hnen Essen</orgName>
+  <orgName type="person_namensvariante">St&#228;dtische B&#252;hnen Essen</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -20789,8 +20823,8 @@
 </org><org xml:id="org__37080">
   <orgName>Neues Deutsches Theater</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/St&#228;ndetheater</orgName>
-  <orgName type="person-namensvariante">Stavovsk&#233; divadlo</orgName>
-  <orgName type="fruherer_ortsname">Gr&#228;flich Nostitzsches Nationaltheater</orgName>
+  <orgName type="person_namensvariante">Stavovsk&#233; divadlo</orgName>
+  <orgName type="ort_fruherer_name">Gr&#228;flich Nostitzsches Nationaltheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21346,7 +21380,7 @@
 </listBibl>
 </org><org xml:id="org__37713">
   <orgName>Kammerspiele Hamburg</orgName>
-  <orgName type="person-namensvariante">Kleines Schauspielhaus</orgName>
+  <orgName type="person_namensvariante">Kleines Schauspielhaus</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -21676,6 +21710,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45530/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2008884-X</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q450777</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
 </listBibl>
@@ -22489,7 +22524,7 @@
 </note>
 </org><org xml:id="org__57806">
   <orgName>Maly-Theater</orgName>
-  <orgName type="person-namensvariante">Moskauer kaiserliches Theater</orgName>
+  <orgName type="person_namensvariante">Moskauer kaiserliches Theater</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Maly-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -22516,10 +22551,10 @@
 </note>
 </org><org xml:id="org__57809">
   <orgName>Tschechow-Kunsttheater Moskau</orgName>
-  <orgName type="person-namensvariante">Moskauer K&#252;nstlertheater</orgName>
+  <orgName type="person_namensvariante">Moskauer K&#252;nstlertheater</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Tschechow-Kunsttheater_Moskau</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Tschechow-Kunsttheater_Moskau</orgName>
-  <orgName type="person-namensvariante">Tschechow-Kunsttheater</orgName>
+  <orgName type="person_namensvariante">Tschechow-Kunsttheater</orgName>
   <orgName type="legacy-name-merge">Moskauer K&#252;nstlertheater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -22637,10 +22672,10 @@
 </note>
 </org><org xml:id="org__60458">
   <orgName>Neues dramatisches Theater</orgName>
-  <orgName type="person-namensvariante">&#1053;&#1086;&#1074;&#1099;&#1081; &#1090;&#1077;&#1072;&#1090;&#1088;</orgName>
-  <orgName type="person-namensvariante">Nowy teatr</orgName>
-  <orgName type="person-namensvariante">Andrejew Theater</orgName>
-  <orgName type="person-namensvariante">Novyj dramati&#269;eskij teatr</orgName>
+  <orgName type="person_namensvariante">&#1053;&#1086;&#1074;&#1099;&#1081; &#1090;&#1077;&#1072;&#1090;&#1088;</orgName>
+  <orgName type="person_namensvariante">Nowy teatr</orgName>
+  <orgName type="person_namensvariante">Andrejew Theater</orgName>
+  <orgName type="person_namensvariante">Novyj dramati&#269;eskij teatr</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -22682,6 +22717,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60688/</idno>
 <listBibl>
@@ -22935,8 +22971,8 @@
 </note>
 </org><org xml:id="org__62965">
   <orgName>Lobe-Theater</orgName>
-  <orgName type="person-namensvariante">Thalia-Theater</orgName>
-  <orgName type="person-namensvariante">Stadt-Theater</orgName>
+  <orgName type="person_namensvariante">Thalia-Theater</orgName>
+  <orgName type="person_namensvariante">Stadt-Theater</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Lobe-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
@@ -23004,7 +23040,7 @@
 </note>
 </org><org xml:id="org__63904">
   <orgName>N&#225;rodn&#237; divadlo Brno</orgName>
-  <orgName type="person-namensvariante">Nationaltheater Br&#252;nn</orgName>
+  <orgName type="person_namensvariante">Nationaltheater Br&#252;nn</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -23050,6 +23086,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87981/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/7586652-3</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q3527713</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -23082,6 +23119,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87992/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/115269-5</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q61460498</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -23090,7 +23128,7 @@
 </note>
 </org><org xml:id="org__88180">
   <orgName>Rose-Theater</orgName>
-  <orgName type="person-namensvariante">Carl Wei&#223;-Theater</orgName>
+  <orgName type="person_namensvariante">Carl Wei&#223;-Theater</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -23130,7 +23168,7 @@
 </listBibl>
 </org><org xml:id="org__88469">
   <orgName>Komissar&#382;evskaja-Theater</orgName>
-  <orgName type="person-namensvariante">Teatr imeni Komissar&#382;evskoj</orgName>
+  <orgName type="person_namensvariante">Teatr imeni Komissar&#382;evskoj</orgName>
   <desc type="entity_type">Theater</desc>
   <desc type="entity_type_id">1012</desc>
 <location type="located_in_place">
@@ -23181,6 +23219,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/88605/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4842185-6</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q113045149</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -23280,6 +23319,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89667/</idno>
 <listBibl>
@@ -23309,6 +23349,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89673/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/3002202-2</idno>
@@ -23335,6 +23376,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89691/</idno>
   <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1155331</idno>
@@ -23363,6 +23405,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/92987/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1085979423</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q109936383</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -23390,6 +23433,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/10168376-5</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date from-iso="1905-01-01" to-iso="1905-12-31">1905  &#8211; 1918</date>
@@ -23670,8 +23714,8 @@
 </note>
 </org><org xml:id="org__37131">
   <orgName>Gemeinschaft dramatischer Schriftsteller und Komponisten (&#214;sterreich)</orgName>
-  <orgName type="person-namensvariante">Verband der &#246;sterreichischen B&#252;hnenschriftsteller</orgName>
-  <orgName type="person-namensvariante">Genossenschaft Dramatischer Schriftsteller und Komponisten</orgName>
+  <orgName type="person_namensvariante">Verband der &#246;sterreichischen B&#252;hnenschriftsteller</orgName>
+  <orgName type="person_namensvariante">Genossenschaft Dramatischer Schriftsteller und Komponisten</orgName>
   <desc type="entity_type">Autorenverband</desc>
   <desc type="entity_type_id">1015</desc>
 <location type="located_in_place">
@@ -23854,7 +23898,7 @@
 </note>
 </org><org xml:id="org__29752">
   <orgName>Concordia</orgName>
-  <orgName type="werk-werklink">https://concordia.at/</orgName>
+  <orgName type="werk_link">https://concordia.at/</orgName>
   <orgName type="legacy-name-merge">Concordia Presseverein</orgName>
   <desc type="entity_type">Verein &gt;&gt; Schriftstellerverein</desc>
   <desc type="entity_type_id">1017</desc>
@@ -23971,7 +24015,7 @@
 </listBibl>
 </org><org xml:id="org__62251">
   <orgName>Wiener Rundfunk</orgName>
-  <orgName type="person-namensvariante">Radio Wien</orgName>
+  <orgName type="person_namensvariante">Radio Wien</orgName>
   <desc type="entity_type">Rundfunkgesellschaft</desc>
   <desc type="entity_type_id">1018</desc>
 <location type="located_in_place">
@@ -24999,6 +25043,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29541</idno>
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29541</idno>
@@ -25008,9 +25053,9 @@
 </listBibl>
 </org><org xml:id="org__60121">
   <orgName>Ethische Gesellschaft</orgName>
-  <orgName type="person-namensvariante">Wiener Ethische Gesellschaft</orgName>
-  <orgName type="person-namensvariante">Ethische Gemeinde</orgName>
-  <orgName type="person-namensvariante">Gesellschaft f&#252;r Ethische Kultur</orgName>
+  <orgName type="person_namensvariante">Wiener Ethische Gesellschaft</orgName>
+  <orgName type="person_namensvariante">Ethische Gemeinde</orgName>
+  <orgName type="person_namensvariante">Gesellschaft f&#252;r Ethische Kultur</orgName>
   <desc type="entity_type">Verein &gt;&gt; Gelehrtenvereinigung</desc>
   <desc type="entity_type_id">1031</desc>
 <location type="located_in_place">
@@ -25251,6 +25296,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60329/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2003761-2</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q414219</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
 </listBibl>
@@ -25259,7 +25305,7 @@
 </note>
 </org><org xml:id="org__62254">
   <orgName>Johann Wolfgang Goethe-Universit&#228;t Frankfurt am Main</orgName>
-  <orgName type="person-namensvariante">Universit&#228;t Frankfurt</orgName>
+  <orgName type="person_namensvariante">Universit&#228;t Frankfurt</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Johann_Wolfgang_Goethe-Universit&#228;t_Frankfurt_am_Main</orgName>
   <desc type="entity_type">Hochschule &gt;&gt; Universit&#228;t</desc>
   <desc type="entity_type_id">1032</desc>
@@ -25440,6 +25486,7 @@
   <idno type="URL">https://www.geschichtewiki.wien.gv.at/Theaterverlag_Eirich</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1875-01-01" when-iso="1875-07-02">1875</date>
@@ -26369,7 +26416,7 @@
 </listBibl>
 </org><org xml:id="org__36818">
   <orgName>Kreis-Strafgericht Br&#252;nn</orgName>
-  <orgName type="person-namensvariante">Strafkreisgericht</orgName>
+  <orgName type="person_namensvariante">Strafkreisgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -26423,7 +26470,7 @@
 </listBibl>
 </org><org xml:id="org__36822">
   <orgName>Kreis-Strafgericht Prag</orgName>
-  <orgName type="person-namensvariante">Strafkreisgericht</orgName>
+  <orgName type="person_namensvariante">Strafkreisgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -27412,7 +27459,7 @@
 </listBibl>
 </org><org xml:id="org__57072">
   <orgName>Oberb&#252;hnenschiedsgericht</orgName>
-  <orgName type="person-namensvariante">Oberschiedsgericht</orgName>
+  <orgName type="person_namensvariante">Oberschiedsgericht</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -27733,7 +27780,7 @@
 </listBibl>
 </org><org xml:id="org__60302">
   <orgName>Bezirksgericht Pohrlitz</orgName>
-  <orgName type="person-namensvariante">Bezirksgericht Poho&#345;elice</orgName>
+  <orgName type="person_namensvariante">Bezirksgericht Poho&#345;elice</orgName>
   <desc type="entity_type">Gericht</desc>
   <desc type="entity_type_id">1037</desc>
 <location type="located_in_place">
@@ -28288,7 +28335,7 @@
 </listBibl>
 </org><org xml:id="org__37384">
   <orgName>Das kleine Blatt</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/dkb_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/dkb_info.htm</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Das_Kleine_Blatt</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
@@ -28577,7 +28624,7 @@
 </org><org xml:id="org__37560">
   <orgName>Wiener Mittags-Zeitung</orgName>
   <orgName type="wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Wiener_Mittags-Zeitung</orgName>
-  <orgName type="person-namensvariante">Wiener Mittagszeitung</orgName>
+  <orgName type="person_namensvariante">Wiener Mittagszeitung</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -28606,7 +28653,7 @@
 </listBibl>
 </org><org xml:id="org__37563">
   <orgName>Wiener Mittagsblatt</orgName>
-  <orgName type="werk-werklink-anno">http://anno.onb.ac.at/info/wm2_info.htm</orgName>
+  <orgName type="werk_link-anno">http://anno.onb.ac.at/info/wm2_info.htm</orgName>
   <desc type="entity_type">Zeitungsredaktion</desc>
   <desc type="entity_type_id">1039</desc>
 <location type="located_in_place">
@@ -29419,7 +29466,7 @@
 </note>
 </org><org xml:id="org__52610">
   <orgName>Bundestheaterkassen</orgName>
-  <orgName type="person-namensvariante">Staatstheaterkassen</orgName>
+  <orgName type="person_namensvariante">Staatstheaterkassen</orgName>
   <desc type="entity_type">Theaterunternehmen</desc>
   <desc type="entity_type_id">1047</desc>
 <location type="located_in_place">
@@ -30077,7 +30124,7 @@
 </org><org xml:id="org__56813">
   <orgName>Geheime Staatspolizei</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Geheime_Staatspolizei</orgName>
-  <orgName type="person-namensvariante">Gestapo</orgName>
+  <orgName type="person_namensvariante">Gestapo</orgName>
   <desc type="entity_type">Polizeibeh&#246;rde</desc>
   <desc type="entity_type_id">1240</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/56813/</idno>
@@ -30732,6 +30779,7 @@
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/45038/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/5151222-1</idno>
   <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45038</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q1257017</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
 </listBibl>
@@ -30783,6 +30831,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4409610-0</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1553-01-01" when-iso="1553-07-02">1553</date>
@@ -31581,7 +31630,7 @@
 </listBibl>
 </org><org xml:id="org__92634">
   <orgName>Reserve-Spital Seefeld</orgName>
-  <orgName type="person-namensvariante">Offiziersspital</orgName>
+  <orgName type="person_namensvariante">Offiziersspital</orgName>
   <desc type="entity_type">Krankenhaus</desc>
   <desc type="entity_type_id">1375</desc>
 <location type="located_in_place">
@@ -32512,8 +32561,8 @@
 </note>
 </org><org xml:id="org__62529">
   <orgName>R&#228;dda Barnen</orgName>
-  <orgName type="person-namensvariante">Rettet die Kinder</orgName>
-  <orgName type="person-namensvariante">Save the Children</orgName>
+  <orgName type="person_namensvariante">Rettet die Kinder</orgName>
+  <orgName type="person_namensvariante">Save the Children</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/R&#228;dda_Barnen</orgName>
   <desc type="entity_type">Hilfsorganisation</desc>
   <desc type="entity_type_id">1417</desc>
@@ -32656,7 +32705,7 @@
 </org><org xml:id="org__50552">
   <orgName>Wiener Frauenakademie</orgName>
   <orgName type="none">https://de.wikipedia.org/wiki/Wiener_Frauenakademie</orgName>
-  <orgName type="person-namensvariante">Kunstschule f&#252;r Frauen und M&#228;dchen</orgName>
+  <orgName type="person_namensvariante">Kunstschule f&#252;r Frauen und M&#228;dchen</orgName>
   <desc type="entity_type">Hochschule</desc>
   <desc type="entity_type_id">1420</desc>
 <location type="located_in_place">
@@ -32960,6 +33009,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/503711-6</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 </org><org xml:id="org__56043">
   <orgName>Oper Stra&#223;burg</orgName>
@@ -33121,6 +33171,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/63157/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1212284-1</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q113070627</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
 </listBibl>
@@ -34799,7 +34850,7 @@
 </note>
 </org><org xml:id="org__65146">
   <orgName>&#214;sterreichische Luftverkehrs AG</orgName>
-  <orgName type="person-namensvariante">&#214;LAG</orgName>
+  <orgName type="person_namensvariante">&#214;LAG</orgName>
   <desc type="entity_type">Fluggesellschaft</desc>
   <desc type="entity_type_id">1670</desc>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/65146/</idno>
@@ -34895,6 +34946,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
 <location type="located_in_place">
   <placeName key="place__44053">New York City</placeName>
@@ -35032,7 +35084,7 @@
 </note>
 </org><org xml:id="org__93192">
   <orgName>Franz&#246;sische Nationalversammlung</orgName>
-  <orgName type="person-namensvariante">Assembl&#233;e Nationale</orgName>
+  <orgName type="person_namensvariante">Assembl&#233;e Nationale</orgName>
   <desc type="entity_type">Parlament</desc>
   <desc type="entity_type_id">1723</desc>
 <location type="located_in_place">
@@ -35062,6 +35114,7 @@
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/93192/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/35991-9</idno>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/entity/Q193582</idno>
 <listBibl>
     <bibl type="collections" n="8">manually created entity</bibl>
 </listBibl>
@@ -35222,6 +35275,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/59676/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb59676</idno>
@@ -35239,7 +35293,7 @@
 </listBibl>
 </org><org xml:id="org__60307">
   <orgName>Freiwillige Schutzwache des 18. und 19. Bezirks</orgName>
-  <orgName type="werk-werklink">https://onb.digital//result/11093ED5</orgName>
+  <orgName type="werk_link">https://onb.digital//result/11093ED5</orgName>
   <desc type="entity_type">B&#252;rgerwehr</desc>
   <desc type="entity_type_id">1744</desc>
 <location type="located_in_place">
@@ -35318,6 +35372,7 @@
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/90532-X</idno>
 <listBibl>
     <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1883-01-01" when-iso="1883-07-02">1883</date>
@@ -35656,6 +35711,7 @@
   <note type="IDNO" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64147/</note>
   <note type="IDNO" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb224</note>
   <note type="IDNO" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb224.html</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/entity/Q84</note>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/89714/</idno>
 <listBibl>
@@ -35695,7 +35751,7 @@
 </note>
 </org><org xml:id="org__93029">
   <orgName>Prix Montgomery</orgName>
-  <orgName type="person-namensvariante">Grand Prix d&#8217;automne</orgName>
+  <orgName type="person_namensvariante">Grand Prix d&#8217;automne</orgName>
   <desc type="entity_type">Sportpreis</desc>
   <desc type="entity_type_id">2063</desc>
 <location type="located_in_place">
